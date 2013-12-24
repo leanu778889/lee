@@ -1,0 +1,159 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>{$header.webname}</title>
+<jquery/>
+<link href="__PUBLIC__/css/order.css" rel="stylesheet" />
+<link href="__PUBLIC__/css/common.css" rel="stylesheet" />
+<link href="__PUBLIC__/css/account.css" type="text/css" rel="stylesheet" >
+<script type="text/javascript" src="__PUBLIC__/js/order.js"></script>
+</head>
+	<body>
+		<div id="header" class="wrap-wide">
+			<load file="__PUBLIC__/common/header.html"/>
+		</div>
+		<div id="main" class="wrap-wide">
+			<div id="cart" class="w1000">
+				<div class="mycart">
+					<form id="addressForm" action="{|U('Member/Order/pay')}" method="post">
+					<div class="cart-top">
+						<div class="fl">
+							<span class="cart-icon fl mg-r5"></span>
+							<span class="cart-title fl ">商品清单</span>
+						</div>
+						<div class="fr cart-step">
+							<ul class="step-msg clearfix">
+								<li>我的购物车</li>
+								<li class="red">确认订单信息</li>
+								<li>成功提交订单</li>
+							</ul>
+							<ul class="step-icon-list clearfix">
+								<li class="right"><span class="step-icon"></span></li>
+								<li ><span class="step-icon on"></span></li>
+								<li class="left"><span class="step-icon"></span></li>
+							</ul>
+						</div>
+					</div>
+					<div class="clearfix"></div>
+					<div class="cart-body">
+						<div class="cart-body-head">
+							<ul class="clearfix">
+								<li class="rowInfo">商品信息</li>
+								<li class="rowPrice">单价</li>
+								<li class="rowCount">数量</li>
+								<li class="rowSub ">小计</li>
+							</ul>
+						</div>
+						<div class="cart-body-list">
+							<ul>
+								<foreach from="$data" key="$k" value="$v">
+								<foreach from="$v['nums']" value="$nums">
+								<li class="goods-info">
+									<input type="hidden" name="order_id[]" value = "{$nums['order_id']}"/>
+									<ul>
+										<li class="rowInfo">
+											<div class="goods-img">
+												<a href="{|U('Index/Detail/index')}/gid/{$k}">
+													<img  src="__ROOT__{$v['data']['img']['s_img']}"/>
+												</a>
+											</div>
+											<div class="rowInfo-title">
+												<div class="clearfix bk20"></div>
+												<a href="{|U('Index/Detail/index')}/gid/{$k}" class="goods-title">{$v['data']['goods']['main_title']}</a>
+												<p>
+													<foreach from="$v['data']['attr']" key="$m" value="$n">
+														{$m}:
+														<foreach from="$n" value='$tag'>
+														<if value="in_array($tag['tid'],$nums['size'])">{$tag['tname']}</if>
+														</foreach>
+													</foreach>
+												</p>
+											</div>
+										</li>
+										<li class="rowPrice">
+											<div class="clearfix bk20"></div>
+											<p class="font-grey-8">￥<span>{$v['data']['goods']['price']}</span></p>
+										</li>
+										<li class="rowCount">
+											<div class="clearfix bk20"></div>
+											<div class="goodsNum rowNums">
+												{$nums['num']}
+											</div>
+										</li>
+										<li class="rowSub rowTotal">
+											<div class="clearfix bk20"></div>
+											<p class="red">￥<span>{$nums['xiaoji']}</span></p>
+										</li>
+
+									</ul>
+								</li>
+								</foreach>
+								</foreach>
+							</ul>
+						</div>
+					</div>
+					<div class="clearfix"></div>
+
+					<div class="cart-foot">
+						<div class="fl foot-left " >
+						<div  class="address">
+
+						<div class='address-base'>
+							<dl>
+								<dt>*省市区：</dt>
+								<dd style="width:400px;">
+									<select id="s_province" name="province"></select>
+									<select id="s_city" name="city" ></select>
+									<select id="s_county" name="county"></select>
+									<script type="text/javascript" src="__PUBLIC__/js/area.js"></script>
+									<script type="text/javascript">_init_area();</script>
+								</dd>
+							</dl>
+							<dl>
+								<dt>*街道地址：</dt>
+								<dd style="width:450px;">
+									<input name="street" type="text" value="">
+								</dd>
+							</dl>
+							<dl>
+								<dt>*邮政编码：</dt>
+								<dd>
+									<input name="zipcode" type="text" value="">
+								</dd>
+							</dl>
+							<dl>
+								<dt>*收货人姓名：</dt>
+								<dd>
+									<input name="consignee" type="text" value="">
+								</dd>
+							</dl>
+							<dl>
+								<dt>*电话号码：</dt>
+								<dd>
+									<input type="text" name="phone" value="">
+								</dd>
+							</dl>
+						</div>
+						</div>
+						</div>
+						<div class="fr foot-right">
+							<p class="font-grey-8">共<span id="total-nums" class="font-red">{$total}</span>件商品&nbsp;</p>
+							<p class="font-grey-8">
+								商品金额总计：￥<span id="total-price">10,148.00</span>
+							</p>
+							<p class="font-red mg-t7 total">总计：<span class="fs28" >￥<span  id="total-xiaoji">10,148.00</span></span></p>
+							<p class="buy-btn posr">
+								<a href="javascript:void(0)" id="pay" class="btn fr">付款</a>
+							</p>
+						</div>
+					</div>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div id="footer" class="wrap-wide">
+			<load file="__PUBLIC__/common/footer.html"/>
+		</div>
+	</body>
+</html>

@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>{$header.webname}</title>
+<jquery/>
+<link href="__PUBLIC__/css/common.css" rel="stylesheet" />
+<link href="__PUBLIC__/css/index.css" rel="stylesheet" />
+<script type="text/javascript" src="__PUBLIC__/js/index.js"></script>
+</head>
+	<body>
+		<div id="header" class="wrap-wide">
+			<load file="__PUBLIC__/common/header.html"/>
+		</div>
+		<div id="main" class="wrap-wide">
+			<div class="w1000">
+			<div class='left'>
+				<ul class='userhome-nav'>
+					<li class='active'>
+						<a href="{|U('Member/Index/index')}">我的订单</a>
+					</li>
+					<li>
+						<a href="{|U('Member/Account/index')}">帐户余额</a>
+					</li>
+					<li>
+						<a href="{|U('Member/Account/setting')}">账户设置</a>
+					</li>
+				</ul>
+			<div id="content">
+				<div class='collect-nav'>
+					<a  id='1' href="{|U('Member/Index/collect')}" class='active'>全部</a>
+					<a id='2' href="{|U('Member/Index/collect')}/status/0">未付款订单</a>
+					<a id='3' href="{|U('Member/Index/collect')}/status/1">已付款订单</a>
+				</div>
+				<div class="collect-list-head">
+							<ul class="clearfix">
+								<li class="rowInfo">商品信息</li>
+								<li class="rowPrice">单价</li>
+								<li class="rowCount">数量</li>
+								<li class="rowSub">小计</li>
+								<li class="rowCaozuo">操作</li>
+							</ul>
+						</div>
+				<div class='collect-list'>
+					<ul>
+						<foreach from="$data" key="$k" value="$v">
+						<foreach from="$v['nums']" value="$nums">
+						<li class="goods-info">
+							<ul>
+								<li class="rowInfo">
+									<div class="goods-img">
+										<a href="{|U('Index/Detail/index')}/gid/{$k}">
+											<img  src="__ROOT__{$v['data']['img']['s_img']}"/>
+										</a>
+									</div>
+									<div class="rowInfo-title">
+										<div class="clearfix bk20"></div>
+										<a href="{|U('Index/Detail/index')}/gid/{$k}" class="goods-title">{$v['data']['goods']['main_title']}</a>
+										<p>
+											<foreach from="$v['data']['attr']" key="$m" value="$n">
+												{$m}:
+												<foreach from="$n" value='$tag'>
+												<if value="in_array($tag['tid'],$nums['size'])">{$tag['tname']}</if>
+												</foreach>
+											</foreach>
+										</p>
+									</div>
+								</li>
+								<li class="rowPrice">
+									<div class="clearfix bk20"></div>
+									<p class="font-grey-8">￥<span>{$v['data']['goods']['price']}</span></p>
+								</li>
+								<li class="rowCount">
+									<div class="clearfix bk20"></div>
+									<div class="goodsNum rowNums">
+										{$nums['num']}
+									</div>
+								</li>
+								<li class="rowSub rowTotal">
+									<div class="clearfix bk20"></div>
+									<p class="red">￥<span>{$nums['xiaoji']}</span></p>
+								</li>
+								<li class="rowCaozuo">
+									<div class="clearfix bk20"></div>
+									<if value="$nums['order_status']==0"><a class='btn' href="{|U('Member/Order/index')}/order_id/{$nums['order_id']}">付款</a></if>
+									<a href="{|U('Member/Index/del')}/order_id/{$nums['order_id']}" class="delAffirm">删除</a>
+								</li>
+							</ul>
+						</li>
+						</foreach>
+						</foreach>
+					</ul>
+				</div>
+			</div>
+			</div>
+		</div>
+		</div>
+		<div id="footer" class="wrap-wide">
+			<load file="__PUBLIC__/common/footer.html"/>
+		</div>
+	</body>
+</html>

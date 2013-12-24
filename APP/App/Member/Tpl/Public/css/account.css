@@ -1,0 +1,46 @@
+@CHARSET "UTF-8";
+#main .address{
+	width:658px;
+	height:auto;
+}
+#main .address .address-base{
+	width:100%;
+	height:180px;
+}
+#main .address dl{
+	width:100%;
+	height:30px;
+	margin-top:6px;
+}
+#main .address dl dt{
+	width:100px;
+	height:30px;
+	text-align:right;
+	float:left;
+	line-height:30px;
+}
+#main .address dl dd span{
+	width:100px;
+	height:30px;
+	line-height:30px;
+}
+#main .address dl dd{
+	width:150px;
+	height:30px;
+	float:left;
+	margin-left:5px;
+}
+#main .address dl dd input{
+	width:100%;
+	height:28px;
+	text-indent:5px;
+	border:1px solid #ccc;
+	border-radius:2px;
+}
+#main .address dl dd select{
+	width:120px;
+	height:23px;
+	float:left;
+	margin-top:5px;
+	margin-left:5px;
+}

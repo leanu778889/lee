@@ -1,0 +1,28 @@
+<load file="__PUBLIC__/common/header.html">
+<body>
+<div id="window">
+	<div class='page_title'>
+		<strong>添加类型属性</strong>
+	</div>
+		<form id="addForm" action="{|U('Admin/Type/addAttr')}/type_id/{$data['type_id']}" method="post">
+			<table class="table table-bordered" style="width:400px;">
+				<tr>
+					<td>商品类型属性名</td>
+					<td><input id="tname" type="text" name='tc_name'></td>
+				</tr>
+				<tr>
+					<td>是否为规格</td>
+					<td>
+						<label>是<input checked="true" type="radio" name="issize" value="1"/></label>
+						<label>否<input type="radio"  name="issize" value="0"/></label>
+					</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td><input type="submit" class="btn" value="提交"></td>
+				</tr>
+			</table>
+		</form>
+</div>
+</body>
+</html>

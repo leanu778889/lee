@@ -1,0 +1,162 @@
+<load file="__PUBLIC__/common/header.html">
+<body>
+<div id="window">
+	<div class='page_title'>
+		<strong>修改商品</strong>
+	</div>
+		<form action="{|U('Goods/edit')}/gid/{$data.gid}" method="post">
+			<table class="table table-bordered">
+				<tr>
+					<th width='20%'></th>
+					<th></th>
+				</tr>
+				<tr>
+					<td>商品主标题</td>
+					<td><input type="text" name='main_title' value="{$data.main_title}"></td>
+				</tr>
+				<tr>
+					<td>商品副标题</td>
+					<td><input type="text" name='sub_title' value="{$data.sub_title}"></td>
+				</tr>
+				<tr id="attr">
+					<td>所属分类</td>
+					<td>
+						<select id="cid" name='cid'>
+
+							<foreach from="$category"  value="$v">
+								<option <if value="$v.cid==$data.cid">selected</if> value='{$v.cid}'>&nbsp;|-{$v.html}{$v.cname}</option>
+							</foreach>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<td>商品现价</td>
+					<td><input type="text" name='price' value="{$data.price}"></td>
+				</tr>
+				<tr>
+					<td>商品原价</td>
+					<td><input type="text" name='old_price'  value="{$data.old_price}"></td>
+				</tr>
+				<tr>
+					<td>商品库存</td>
+					<td><input type="text" name='num'  value="{$data.num}"></td>
+				</tr>
+
+				<tr>
+					<td>缩略图</td>
+					<td>
+						<upload name="file" />
+						<foreach from="$data.img" value="$v">
+							<div class="thumb">
+								<div style="position:relative;padding:10px;margin:10px;border:1px solid #ddd;width:220px;float:left">
+									<div class="delThumb" imgId="{$v.img_id}" style="position:absolute;cursor: pointer;width: 16px;height: 16px;top:15px;right:15px;background: url('__PUBLIC__/images/uploadify-cancel.png') #fff;"></div>
+									<img src="__ROOT__{$v.m_img}"/>
+								</div>
+							</div>
+						</foreach>
+					</td>
+				</tr>
+				<script>
+					var delUrl = '{|U("Admin/Goods/delThumb")}'
+					$('.delThumb').click(function(){
+						var self = this;
+						var img_id = $(this).attr('imgId');
+						$.ajax({
+							url:delUrl,
+							type:'POST',
+							data:'img_id='+img_id,
+							dataType:'json',
+							success:function(result){
+								if(result.status ===true){
+									$(self).parents('.thumb').remove();
+								}
+							}
+						})
+					})
+				</script>
+				<tr>
+					<td>关键字</td>
+					<td><textarea name='g_keywords'>{$data.g_keywords}</textarea></td>
+				</tr>
+				<tr>
+					<td>描述</td>
+					<td><textarea name='g_description'>{$data.g_description}</textarea></td>
+				</tr>
+				<tr>
+					<td>内容</td>
+					<td><ueditor  width="80%" name="goods_detail" content="{$data.goods_detail}"/></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td><input type="submit" class="btn" value="提交"></td>
+				</tr>
+			</table>
+		</form>
+</div>
+<script>
+	var url = '{|U("Admin/Goods/getAttr")}'
+	var attr  = <?php echo json_encode($data['attr']);?>;
+		$.ajax({
+			url:url,
+			type:'GET',
+			data:'cid='+{$data.cid},
+			dataType:'json',
+			success:function(result){
+				if(result.status === true){
+					var data = result.data;
+					var html;
+					$('.attr').remove();
+					for(var i in data){
+						html += '<tr class="attr">\
+								<td>'+data[i]['tc_name']+'</td><td>';
+						for(var m in data[i]['data']){
+							var str =  "";
+							for (var n = 0;n<attr.length; n++) {
+								if(attr[n]==data[i].data[m]["tid"]){
+									var str = "checked=true;";
+								}
+							};
+							html+='<label>\
+							'+data[i].data[m]["tname"]+':\
+							<input '+str+' name="attr[]" type="checkbox" value="'+data[i].data[m]["tid"]+'">\
+							</label>';
+						}
+						html+='</td></tr>';
+					}
+					$('#attr').after(html);
+				}
+			}
+		})
+</script>
+<script>
+	var url = '{|U("Admin/Goods/getAttr")}'
+	$('#cid').change(function(){
+		$.ajax({
+			url:url,
+			type:'GET',
+			data:'cid='+$(this).val(),
+			dataType:'json',
+			success:function(result){
+				if(result.status === true){
+					var data = result.data;
+					var html;
+					$('.attr').remove();
+					for(var i in data){
+						html += '<tr class="attr">\
+								<td>'+data[i]['tc_name']+'</td><td>';
+						for(var m in data[i]['data']){
+							html+='<label>\
+							'+data[i].data[m]["tname"]+':\
+							<input  name="attr[]" type="checkbox" value="'+data[i].data[m]["tid"]+'">\
+							</label>';
+						}
+						html+='</td></tr>';
+					}
+					$('#attr').after(html);
+				}
+			}
+		})
+	})
+</script>
+</body>
+</html>

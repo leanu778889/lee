@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>{$header.webname}</title>
+<jquery/>
+<link href="__PUBLIC__/css/cart.css" rel="stylesheet" />
+<link href="__PUBLIC__/css/common.css" rel="stylesheet" />
+<script type="text/javascript" src="__PUBLIC__/js/cart.js"></script>
+</head>
+	<body>
+		<div id="header" class="wrap-wide">
+			<load file="__PUBLIC__/common/header.html"/>
+		</div>
+		<div id="main" class="wrap-wide">
+			<div id="cart" class="w1000">
+				<div class="mycart">
+					<div class="cart-top">
+						<div class="fl">
+							<span class="cart-icon fl mg-r5"></span>
+							<span class="cart-title fl ">付款完成</span>
+						</div>
+						<div class="fr cart-step">
+							<ul class="step-msg clearfix">
+								<li>我的购物车</li>
+								<li>确认订单信息</li>
+								<li class="red">成功提交订单</li>
+							</ul>
+							<ul class="step-icon-list clearfix">
+								<li class="right"><span class="step-icon on"></span></li>
+								<li ><span class="step-icon"></span></li>
+								<li class="left"><span class="step-icon"></span></li>
+							</ul>
+						</div>
+					</div>
+					<!--   没有商品时候的模板-->
+					<p class="cart-nogoods font-red">
+						恭喜你！付款成功，等待商家发货，是否继续购物？
+					</p>
+					<a class="cart-nogoods-btn" href="{|U('Index/Index/index')}">现在去购物</a>
+
+
+				</div>
+			</div>
+		</div>
+		<div id="footer" class="wrap-wide">
+			<load file="__PUBLIC__/common/footer.html"/>
+		</div>
+	</body>
+</html>

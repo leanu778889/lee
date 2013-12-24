@@ -1,0 +1,191 @@
+@charset "utf-8";
+/* Basic Settings */
+#header{
+	height:210px;
+}
+#header a{
+	color: #FFFFFF;
+}
+#footer{
+	height: 300px;
+}
+#main{
+	overflow: hidden;
+	height: auto;
+	background: url(../images/conbg925.jpg) repeat-x center 74px;
+}
+#home-banner .btn-list{
+	margin: 10px auto;
+	width: 832px;
+	height: 30px;
+	text-align: center;
+	font-size: 0;
+}
+#home-banner .btn{
+	font-size: 12px;
+	position: relative;
+	float: left;
+	display: inline-block;
+	width: 104px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	background: #7C7C7C;
+	cursor: pointer;
+	font-family: "宋体";
+}
+#home-banner .btn a{
+	color: #fff;
+	text-decoration: none;
+}
+#home-banner .btn s{
+	margin-left: -8px;
+	left: 50%;
+	top: -12px;
+	border-width: 6px;
+	display: none;
+}
+#home-banner .banner-list{
+	width: 1000px;
+	height: 390px;
+	position: relative;
+	z-index: 1;
+}
+#home-banner .banner{
+	width: 1000px;
+	height: 390px;
+	position: absolute;
+	/*display: none;*/
+	opacity: 0;
+	top: 0;
+	left: 0;
+	z-index: 22;
+}
+
+#home-banner .btn.on{
+	background: #bf3206;
+}
+#home-recommend{
+	width: 1002px;
+	margin:0px auto;
+}
+.con-title{
+	font-size: 16px;
+	font-family: '微软雅黑';
+	height: 40px;
+	line-height: 40px;
+	font-weight: 400;
+	color: #802010;
+}
+.con-title .title-p{
+	width: 100px;
+	background: #BF3019;
+	text-align: center;
+	float: left;
+	margin-right: 5px;
+	color: #fff;
+	position: relative;
+	z-index: 10;
+}
+#home-recommend .con-list li{
+	background: #000000;
+}
+#home-recommend .con-list .con-mask{
+	display: block;
+	width: 100%;
+	height: 100%;
+	top: 0px;
+	left: 0px;
+	background: #000;
+	opacity: 0.7;
+	z-index: -1;
+}
+#home-news .news-btn .on{
+	background-position: 3px -582px;
+}
+.goods-list{
+	float: left;
+	margin: 20px 0 20px 22px;
+	_margin: 20px 0 20px 16px;
+	position: relative;
+}
+.goods-list dt{
+	width: 222px;
+	height: 220px;
+}
+.goods-list dd{
+	width: 220px;
+	line-height: 24px;
+}
+#home-news{
+	height: 385px;
+	width: 1000px;
+	overflow: hidden;
+}
+#home-news .news-list{
+	height: 345px;
+	top: 40px;
+	left: 0px;
+	width:5000px;
+	background: #fff;
+}
+#home-news .news-list .news-con{
+	display: block;
+	height: 100%;
+	width: 1000px;
+	float: left;
+}
+#home-hot{
+	width: 1000px;
+	overflow: hidden;
+	height: 785px;
+}
+#home-hot .hot-nav-list .hot-nav-con{
+	width: 97px;
+	float: left;
+	line-height: 55px;
+	background: #E7E7E7;
+	text-align: center;
+	margin-right: 1px;
+	cursor: pointer;
+}
+#home-hot .hot-list{
+	height: 690px;
+	top: 95px;
+	left: 0px;
+	width:9000px;
+	background: #fff;
+}
+#home-class{
+	height: 365px;
+}
+#home-class .class-list{
+	height: 325px;
+	padding: 0 39px;
+	background: #fafafa;
+}
+#home-class .class-list .class-con{
+	width: 185px;
+	padding-right: 45px;
+	float: left;
+	border-bottom: 1px solid #D9D7D7;
+	height: 130px;
+	line-height: 22px;
+	margin-top: 30px;
+}
+#home-class .class-list .class-con .class-tit{
+	font-family: '微软雅黑';
+	font-size: 16px;
+	color: #333;
+	margin-bottom: 10px;
+	position: relative;
+	padding-left: 30px;
+}
+#home-class .class-list .class-con .class-item{
+	display:inline-block;
+	height: 25px;
+	line-height: 25px;
+	padding: 0px 4px;
+
+
+}

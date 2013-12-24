@@ -1,0 +1,123 @@
+<load file="__PUBLIC__/common/header.html">
+<body>
+<div id="window">
+	<div class='page_title'>
+		<strong>添加商品</strong>
+	</div>
+		<form action="{|U('Goods/add')}" method="post">
+			<table class="table table-bordered">
+				<tr>
+					<th width='20%'></th>
+					<th></th>
+				</tr>
+				<tr>
+					<td>商品主标题</td>
+					<td><input type="text" name='main_title'></td>
+				</tr>
+				<tr>
+					<td>商品副标题</td>
+					<td><input type="text" name='sub_title'></td>
+				</tr>
+				<tr id="attr">
+					<td>所属分类</td>
+					<td>
+						<select id="cid" name='cid'>
+
+							<foreach from="$category"  value="$v">
+								<option value='{$v.cid}'>&nbsp;|-{$v.html}{$v.cname}</option>
+							</foreach>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<td>商品现价</td>
+					<td><input type="text" name='price'></td>
+				</tr>
+				<tr>
+					<td>商品原价</td>
+					<td><input type="text" name='old_price'></td>
+				</tr>
+				<tr>
+					<td>商品库存</td>
+					<td><input type="text" name='num'></td>
+				</tr>
+
+				<tr>
+					<td>缩略图</td>
+					<td>
+						<upload name="file" /></td>
+				</tr>
+				<tr>
+					<td>关键字</td>
+					<td><textarea name='g_keywords'></textarea></td>
+				</tr>
+				<tr>
+					<td>描述</td>
+					<td><textarea name='g_description'></textarea></td>
+				</tr>
+				<tr>
+					<td>内容</td>
+					<td><ueditor  width="80%" name="goods_detail" /></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td><input type="submit" class="btn" value="提交"></td>
+				</tr>
+			</table>
+		</form>
+</div>
+<script>
+	var url = '{|U("Admin/Goods/getAttr")}'
+	$('#cid').change(function(){
+		$.ajax({
+			url:url,
+			type:'GET',
+			data:'cid='+$(this).val(),
+			dataType:'json',
+			success:function(result){
+				if(result.status === true){
+					var data = result.data;
+					var html;
+					$('.attr').remove();
+					for(var i in data){
+						html += '<tr class="attr">\
+								<td>'+data[i]['tc_name']+'</td><td>';
+						for(var m in data[i]['data']){
+							html+='<label>\
+							'+data[i].data[m]["tname"]+':\
+							<input  name="attr[]" type="checkbox" value="'+data[i].data[m]["tid"]+'">\
+							</label>';
+						}
+						html+='</td></tr>';
+					}
+					$('#attr').after(html);
+				}
+			}
+		})
+	})
+</script>
+</body>
+</html>
+<!--
+<tr>
+					<td>文章属性</td>
+					<td>
+						<label>
+							热门:
+							<input  name="attr[]" type="checkbox" value="热门">
+						</label>
+						<label>
+							推荐:
+							<input <if value="in_array('推荐',$news['attr'])">checked="true"</if>  name="attr[]" type="checkbox" value="推荐">
+						</label>
+						<label>
+							置顶:
+							<input <if value="in_array('置顶',$news['attr'])">checked="true"</if>  name="attr[]" type="checkbox" value="置顶">
+						</label>
+						<label>
+							图文:
+							<input <if value="in_array('图文',$news['attr'])">checked="true"</if>  name="attr[]" type="checkbox" value="图文">
+						</label>
+					</td>
+				</tr>
+ -->

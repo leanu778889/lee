@@ -1,0 +1,87 @@
+@charset "utf-8";
+/* Basic Settings */
+#footEnsure{
+	height:63px;
+}
+#footEnsure .ensure{
+	top:30px;
+	left:0px;
+	background: none repeat scroll 0 0 #BF3019;
+    height: 45px;
+    line-height: 45px;
+    overflow: hidden;
+    z-index: 2;
+}
+#footTel ul .icon{
+	height: 31px;
+    margin-right: 3px;
+    width: 31px;
+	background: url("../images/assets_icon.jpg") no-repeat -93px 0 ;
+}
+#footTel ul .label{
+	color: #FFFFFF;
+    font-family: '黑体';
+    font-size: 20px;
+}
+#footTel ul .time{
+	color: #DD978B;
+    font-size: 12px;
+    margin-left: 10px;
+}
+#footGenuine .icon{
+	height: 31px;
+    margin-right: 3px;
+    width: 31px;
+	background: url("../images/assets_icon.jpg") no-repeat 0px 0px ;
+}
+#footGenuine .label{
+	color: #FFFFFF;
+    font-family: '微软雅黑';
+    font-size: 17px;
+}
+#footReturn .icon{
+    height: 31px;
+    margin-right: 3px;
+    width: 31px;
+    background: url("../images/assets_icon.jpg") no-repeat -31px 0;
+}
+#footReturn .label{
+    color: #FFFFFF;
+    font-family: '微软雅黑';
+    font-size: 17px;
+}
+#footFreight .icon{
+    height: 31px;
+    margin-right: 3px;
+    width: 31px;
+    background: url("../images/assets_icon.jpg") no-repeat -62px 0;
+}
+#footFreight .label{
+    color: #FFFFFF;
+    font-family: '微软雅黑';
+    font-size: 17px;
+}
+#footMiddleNav a{
+    color: #444444;
+    font-family: '微软雅黑';
+    font-size: 17px;
+    margin: 0 9px;
+}
+#footNav ul{
+    margin: 0 auto;
+    padding: 10px 0;
+    width: 650px;
+    overflow: hidden;
+}
+#footNav ul li{
+    float: left;
+    line-height: 14px;
+    border-left: solid 1px #444444;
+    padding: 0 5px;
+}
+#footNav ul li a{
+    float: left;
+    color: #444444;
+    font-size: 13px;
+    font-family: '\5FAE\8F6F\96C5\9ED1';
+}

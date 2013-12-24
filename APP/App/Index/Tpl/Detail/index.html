@@ -1,0 +1,180 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>{$header.webname}</title>
+<link href="__PUBLIC__/css/detail.css" rel="stylesheet" />
+<link href="__PUBLIC__/css/common.css" rel="stylesheet" />
+<jquery/>
+<script type="text/javascript" src="__PUBLIC__/js/detail.js"></script>
+</head>
+	<body>
+		<div id="header" class="wrap-wide">
+			<load file="__PUBLIC__/common/header.html"/>
+		</div>
+		<div id="main" class="wrap-wide">
+			<div id="list-location" class="w1000 pd-t20">
+				<span class="font-grey-8">您现在的位置： <a href="#">首页</a> > <a href="#">名品</a> > <a href="#">时尚女包</a> > <a href="#">单肩/斜跨包</a> > Oxygene Monde 女士一粒扣西装外套 </span>
+			</div>
+			<div id="goods-info" class="w1000 pd-t30" >
+				<div id="goods-img" class="fl">
+					<div class='box'>
+						 <div class="current">
+						 	 <div id="layer"></div>
+						 	 <div id="mark"> </div>
+						 	 <img id="curImg" src=""/>
+						 </div>
+						 <div class="small">
+						 	<foreach from="$data['images']" value="$v">
+						 		<img src="__ROOT__{$v.s_img}"/>
+						 	</foreach>
+						 	<div id='selected'> </div>
+						 </div>
+					</div>
+					<div class="goods" class="fr">
+						<div class="goods-name fs15">
+							<h1>{$data.main_title}</h1>
+							<div class="xian"></div>
+							<form action="{|U('Member/Cart/add')}/gid/{$data['gid']}" method="post" id="goodsForm">
+							<ul class="goods-info">
+								<li class="fs13">市场价：<del>￥{$data.old_price}</del></li>
+								<li id="goods-price" class="red fs15">售价：<strong>￥{$data.price}</strong>&nbsp;&nbsp;<span>{$data.zhekou}折</span></li>
+								<foreach from="$data['attr']" value="$v" key="$k">
+								<li class="fs13 goods-size" >{$k}：
+									<input type="hidden" class="post_form" name="{$v[0]['tc_id']}" value="{$v[0]['tid']}"/>
+									<foreach from="$v" value="$m">
+										<a href="javascript:void(0)" tid="{$m['tid']}" ><span>{$m.tname}</span></a>
+									</foreach>
+								</li>
+								</foreach>
+								<li id="goods-num" class="fs13">
+									<div class="fl">数量：</div>
+									<div class="fl">
+										<a href="javascript:void(0)" class="fl num prev">&nbsp;-</a>
+										<input class="fl nums" kucun="{$data.num}" type="text" name="num" value="1" maxlength="2">
+										<a href="javascript:void(0)" class="fl num next">+</a>
+									</div>
+								</li>
+								<li id="goods-buy"><a href="javascript:void(0)"><span class="">加入购物车</span></a></li>
+							</ul>
+							</form>
+						</div>
+					</div>
+					<div class="big">
+						<div class='keep'>
+
+						</div>
+						<img id="bigImg" src=''/>
+					</div>
+				</div>
+			</div>
+			<div class="clearfix"></div>
+			<div id="goods-detail" class="w1000 mg-t30">
+				<div class="detail-left fl">
+					<h3 >
+						看过还看过
+						<span class="words">HOT</span>
+					</h3>
+					<div class="hot-list">
+							<dl class="goods-list">
+								<dt><a href="#"><img width=180 height=180 src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></a></dt>
+								<dd class="mg-t13">
+									<span class="red fw f-price">￥ 1,169</span>
+									<del class="mg-l8">￥ 1,299</del>
+								</dd>
+								<dd><a href="">ELLE 文胸 肤色 70C</a></dd>
+							</dl>
+							<dl class="goods-list">
+								<dt><a href="#"><img width=180 height=180 src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></a></dt>
+								<dd class="mg-t13">
+									<span class="red fw f-price">￥ 1,169</span>
+									<del class="mg-l8">￥ 1,299</del>
+								</dd>
+								<dd><a href="">ELLE 文胸 肤色 70C</a></dd>
+							</dl>
+							<dl class="goods-list">
+								<dt><a href="#"><img width=180 height=180 src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></a></dt>
+								<dd class="mg-t13">
+									<span class="red fw f-price">￥ 1,169</span>
+									<del class="mg-l8">￥ 1,299</del>
+								</dd>
+								<dd><a href="">ELLE 文胸 肤色 70C</a></dd>
+							</dl>
+							<dl class="goods-list">
+								<dt><a href="#"><img width=180 height=180 src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></a></dt>
+								<dd class="mg-t13">
+									<span class="red fw f-price">￥ 1,169</span>
+									<del class="mg-l8">￥ 1,299</del>
+								</dd>
+								<dd><a href="">ELLE 文胸 肤色 70C</a></dd>
+							</dl>
+							<dl class="goods-list">
+								<dt><a href="#"><img width=180 height=180 src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></a></dt>
+								<dd class="mg-t13">
+									<span class="red fw f-price">￥ 1,169</span>
+									<del class="mg-l8">￥ 1,299</del>
+								</dd>
+								<dd><a href="">ELLE 文胸 肤色 70C</a></dd>
+							</dl>
+					</div>
+					<h3 >
+						买过还买过
+						<span class="words">HOT</span>
+					</h3>
+					<div class="hot-list">
+							<dl class="goods-list">
+								<dt><a href="#"><img width=180 height=180 src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></a></dt>
+								<dd class="mg-t13">
+									<span class="red fw f-price">￥ 1,169</span>
+									<del class="mg-l8">￥ 1,299</del>
+								</dd>
+								<dd><a href="">ELLE 文胸 肤色 70C</a></dd>
+							</dl>
+							<dl class="goods-list">
+								<dt><a href="#"><img width=180 height=180 src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></a></dt>
+								<dd class="mg-t13">
+									<span class="red fw f-price">￥ 1,169</span>
+									<del class="mg-l8">￥ 1,299</del>
+								</dd>
+								<dd><a href="">ELLE 文胸 肤色 70C</a></dd>
+							</dl>
+							<dl class="goods-list">
+								<dt><a href="#"><img width=180 height=180 src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></a></dt>
+								<dd class="mg-t13">
+									<span class="red fw f-price">￥ 1,169</span>
+									<del class="mg-l8">￥ 1,299</del>
+								</dd>
+								<dd><a href="">ELLE 文胸 肤色 70C</a></dd>
+							</dl>
+							<dl class="goods-list">
+								<dt><a href="#"><img width=180 height=180 src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></a></dt>
+								<dd class="mg-t13">
+									<span class="red fw f-price">￥ 1,169</span>
+									<del class="mg-l8">￥ 1,299</del>
+								</dd>
+								<dd><a href="">ELLE 文胸 肤色 70C</a></dd>
+							</dl>
+							<dl class="goods-list">
+								<dt><a href="#"><img width=180 height=180 src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></a></dt>
+								<dd class="mg-t13">
+									<span class="red fw f-price">￥ 1,169</span>
+									<del class="mg-l8">￥ 1,299</del>
+								</dd>
+								<dd><a href="">ELLE 文胸 肤色 70C</a></dd>
+							</dl>
+					</div>
+				</div>
+				<div class="detail-right fl">
+					<h3><a href="#">商品信息</a><a class="xian"></a><a href="#">品牌故事</a><a class="xian"></a><a href="#">售后服务</a></h3>
+					<div id="detail-body">
+						{$data['goods_detail']}
+					</div>
+				</div>
+			</div>
+
+		</div>
+		<div id="footer" class="wrap-wide">
+			<load file="__PUBLIC__/common/footer.html"/>
+		</div>
+	</body>
+</html>

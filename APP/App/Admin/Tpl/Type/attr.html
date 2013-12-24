@@ -1,0 +1,43 @@
+<load file="__PUBLIC__/common/header.html">
+<body>
+<div id="window">
+	<div class='page_title'>
+		<strong>商品类型列表</strong>
+		<a class='btn' href="{|U('Admin/Type/addAttr')}/type_id/{$type_id}">添加类型属性</a>
+	</div>
+			<table class="table table-bordered" style="width:1100px;">
+				<tr>
+					<th width="5%">id</th>
+					<th width="10%">属性名</th>
+					<th width="11%">是否为规格</th>
+					<th width="30%">所包含属性值</th>
+					<th>操作</th>
+				</tr>
+				<foreach from="$data" value="$v">
+					<tr>
+						<td>{$v.tc_id}</td>
+						<td>{$v.tc_name}</td>
+						<td>
+							<if value="$v['issize']">
+								是
+							<else/>
+								否
+							</if>
+						</td>
+						<td>
+							<foreach from="$v.tags" value="$m">
+								{$m.tname},
+							</foreach>
+						</td>
+						<td>
+							<a class='btn' href="{|U('Admin/Type/addTag')}/tc_id/{$v.tc_id}">添加属性值</a>
+							<a class='btn' href="{|U('Admin/Type/tagIndex')}/tc_id/{$v.tc_id}">查看所有属性值</a>
+							<a class='btn' href="{|U('Admin/Type/editAttr')}/tc_id/{$v.tc_id}">修改属性</a>
+							<a class='btn delAffirm' href="{|U('Admin/Type/delAttr')}/tc_id/{$v.tc_id}">删除属性</a>
+						</td>
+					</tr>
+				</foreach>
+			</table>
+</div>
+</body>
+</html>

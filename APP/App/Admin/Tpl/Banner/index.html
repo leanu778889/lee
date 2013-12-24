@@ -1,0 +1,42 @@
+<load file="__PUBLIC__/common/header.html">
+<body>
+<div id="window">
+	<div class='page_title'>
+		<strong>轮播图列表</strong>
+	</div>
+
+	<div class='content'>
+		<table class='table table-bordered'>
+			<thead>
+			<tr>
+				<th width="5%">id</th>
+				<th width="10%">轮播图标题</th>
+				<th width="20%">轮播图URL</th>
+				<th width="35%">轮播图图片</th>
+				<th width="5%">排序</th>
+				<th width="8%">是否展示</th>
+				<th >操作</th>
+			</tr>
+			</thead>
+			<tbody>
+			<foreach from="$data" value="$v">
+				<tr>
+					<td>{$v.id}</td>
+					<td>{$v.title}</td>
+					<td>{$v.url}</td>
+					<td><img src="__ROOT__/{$v.image}"/></td>
+					<td>{$v.sort}</td>
+					<td><if value="$v.isshow">是<else>否</if></td>
+					<td>
+						<a class='btn btn-small' href="{|U('Admin/Banner/edit')}/id/{$v.id}">编辑</a>
+						<a class='btn btn-small' href="{|U('Admin/Banner/del')}/id/{$v.id}">删除</a>
+					</td>
+				</tr>
+			</foreach>
+			</tbody>
+		</table>
+		</form>
+	</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,300 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>{$header.webname}</title>
+<link href="__PUBLIC__/css/index.css" rel="stylesheet" />
+<link href="__PUBLIC__/css/common.css" rel="stylesheet" />
+<jquery/>
+<script type="text/javascript" src="__PUBLIC__/js/index.js"></script>
+</head>
+	<body>
+		<div id="header" class="wrap-wide">
+			<load file="__PUBLIC__/common/header.html"/>
+		</div>
+		<div id="main" class="wrap-wide">
+			<div id="home-banner" class="w1000 ">
+				<ul class="banner-list">
+					<foreach from="$banner" value="$v">
+						<li class="banner"><a href="{$v.url}"><img src="__ROOT__/{$v.image}"/></a></li>
+					</foreach>
+				</ul>
+				<div class="clearfix bk15 w1000"></div>
+				<ul class="btn-list">
+					<foreach from="$banner" value="$v">
+					<li class="btn">
+						<a href="{$v.url}">{$v.title}</a>
+						<s class="posa arrow arrowT" ></s>
+					</li>
+					</foreach>
+				</ul>
+			</div>
+			<!-- 幻灯片结束 -->
+			<div class="clearfix bk15 w1000"></div>
+			<!--  精品推荐开始 -->
+			<div id="home-recommend" class="mg-t30">
+				<h2 class="con-title">
+					<p class="title-p">
+						精品推荐
+						<s class="posa lf-44 arrow arrowB"></s>
+					</p>
+					BEST RECOMMEND
+				</h2>
+				<ul class="con-list">
+					<foreach from="$chugui" value="$v">
+					<li class="fl posr">
+						<span class="posa con-mask"></span>
+						<a href="{|U('Index/Detail/index')}/gid/{$v.gid}">
+							<img src="__ROOT__/{$v.img}">
+						</a>
+					</li>
+					</foreach>
+				</ul>
+			</div>
+			<!-- 精品推荐结束 -->
+			<div class="clearfix bk20 w1000"></div>
+			<!-- 新品推荐开始 -->
+			<div id="home-news" class="w1000 mg-t20 posr">
+				<h2 class="con-title">
+					<div class="fr news-btn">
+						<span class="icon6_slide-in fl on mg-t13"></span>
+						<span class="icon6_slide-in fl mg-t13"></span>
+						<span class="icon6_slide-in fl mg-t13"></span>
+						<span class="icon6_slide-in fl mg-t13"></span>
+					</div>
+					<p class="title-p">
+						新品推荐
+						<s class="posa lf-44 arrow arrowB"></s>
+					</p>
+					NEW ARRIVALS
+
+				</h2>
+				<ul class="news-list posa">
+					<li class="news-con">
+						<goods limit="0,4" name="v">
+						<dl class="goods-list">
+							<dt><a href="{|U('Index/Detail/index')}/gid/{$v.gid}"><img src="__ROOT__/{$v.m_img}"></a></dt>
+							<dd class="mg-t13">
+								<span class="red fw f-price">￥ {$v.price}</span>
+								<span class="c444 mg-r10">（{$v.zhekou}折）</span>
+								<del>￥ {$v.old_price}</del>
+							</dd>
+							<dd><a href="{|U('Index/Detail/index')}/gid/{$v.gid}">{$v.main_title}</a></dd>
+						</dl>
+						</goods>
+					</li>
+					<li class="news-con">
+						<goods limit="2,4" name="v">
+						<dl class="goods-list">
+							<dt><a href="{|U('Index/Detail/index')}/gid/{$v.gid}"><img src="__ROOT__/{$v.m_img}"></a></dt>
+							<dd class="mg-t13">
+								<span class="red fw f-price">￥ {$v.price}</span>
+								<span class="c444 mg-r10">（{$v.zhekou}折）</span>
+								<del>￥ {$v.old_price}</del>
+							</dd>
+							<dd><a href="{|U('Index/Detail/index')}/gid/{$v.gid}">{$v.main_title}</a></dd>
+						</dl>
+						</goods>
+					</li>
+					<li class="news-con">
+						<goods limit="4,4" name="v">
+						<dl class="goods-list">
+							<dt><a href="{|U('Index/Detail/index')}/gid/{$v.gid}"><img src="__ROOT__/{$v.m_img}"></a></dt>
+							<dd class="mg-t13">
+								<span class="red fw f-price">￥ {$v.price}</span>
+								<span class="c444 mg-r10">（{$v.zhekou}折）</span>
+								<del>￥ {$v.old_price}</del>
+							</dd>
+							<dd><a href="{|U('Index/Detail/index')}/gid/{$v.gid}">{$v.main_title}</a></dd>
+						</dl>
+						</goods>
+					</li>
+					<li class="news-con">
+						<goods limit="3,4" name="v">
+						<dl class="goods-list">
+							<dt><a href="{|U('Index/Detail/index')}/gid/{$v.gid}"><img src="__ROOT__/{$v.m_img}"></a></dt>
+							<dd class="mg-t13">
+								<span class="red fw f-price">￥ {$v.price}</span>
+								<span class="c444 mg-r10">（{$v.zhekou}折）</span>
+								<del>￥ {$v.old_price}</del>
+							</dd>
+							<dd><a href="{|U('Index/Detail/index')}/gid/{$v.gid}">{$v.main_title}</a></dd>
+						</dl>
+						</goods>
+					</li>
+					<li class="news-con">
+						<goods limit="0,4" name="v">
+						<dl class="goods-list">
+							<dt><a href="{|U('Index/Detail/index')}/gid/{$v.gid}"><img src="__ROOT__/{$v.m_img}"></a></dt>
+							<dd class="mg-t13">
+								<span class="red fw f-price">￥ {$v.price}</span>
+								<span class="c444 mg-r10">（{$v.zhekou}折）</span>
+								<del>￥ {$v.old_price}</del>
+							</dd>
+							<dd><a href="{|U('Index/Detail/index')}/gid/{$v.gid}">{$v.main_title}</a></dd>
+						</dl>
+						</goods>
+					</li>
+				</ul>
+			</div>
+			<!-- 新品推荐结束 -->
+			<div class="clearfix bk15 w1000"></div>
+			<!--  热卖推荐开始 -->
+			<div id="home-hot" class="mg-t30 w1000 posr">
+				<h2 class="con-title">
+					<p class="title-p">
+						热卖推荐
+						<s class="posa lf-44 arrow arrowB"></s>
+					</p>
+					HOT SALES
+				</h2>
+				<div class="hot-nav">
+					<ul class="hot-nav-list">
+						<li class="hot-nav-con" style="background:#fff">名品</li>
+						<li class="hot-nav-con">女装</li>
+						<li class="hot-nav-con">男装</li>
+						<li class="hot-nav-con">鞋靴箱包</li>
+						<li class="hot-nav-con">珠宝配饰</li>
+						<li class="hot-nav-con">运动户外</li>
+						<li class="hot-nav-con">居家生活</li>
+					</ul>
+				</div>
+				<div class="hot-list posa">
+					<div class="hot-con w1000 fl mg-t13">
+						<goods limit="8" name="v" cid="31">
+						<dl class="goods-list">
+							<dt><a href="{|U('Index/Detail/index')}/gid/{$v.gid}"><img src="__ROOT__/{$v.m_img}"></a></dt>
+							<dd class="mg-t13">
+								<span class="red fw f-price">￥ {$v.price}</span>
+								<span class="c444 mg-r10">（{$v.zhekou}折）</span>
+								<del>￥ {$v.old_price}</del>
+							</dd>
+							<dd><a href="{|U('Index/Detail/index')}/gid/{$v.gid}">{$v.main_title}</a></dd>
+						</dl>
+						</goods>
+					</div>
+					<div class="hot-con w1000 fl mg-t13">
+						<goods limit="8" name="v" cid="31">
+						<dl class="goods-list">
+							<dt><a href="{|U('Index/Detail/index')}/gid/{$v.gid}"><img src="__ROOT__/{$v.m_img}"></a></dt>
+							<dd class="mg-t13">
+								<span class="red fw f-price">￥ {$v.price}</span>
+								<span class="c444 mg-r10">（{$v.zhekou}折）</span>
+								<del>￥ {$v.old_price}</del>
+							</dd>
+							<dd><a href="{|U('Index/Detail/index')}/gid/{$v.gid}">{$v.main_title}</a></dd>
+						</dl>
+						</goods>
+					</div>
+					<div class="hot-con w1000 fl mg-t13">
+						<goods limit="8" name="v" cid="31">
+						<dl class="goods-list">
+							<dt><a href="{|U('Index/Detail/index')}/gid/{$v.gid}"><img src="__ROOT__/{$v.m_img}"></a></dt>
+							<dd class="mg-t13">
+								<span class="red fw f-price">￥ {$v.price}</span>
+								<span class="c444 mg-r10">（{$v.zhekou}折）</span>
+								<del>￥ {$v.old_price}</del>
+							</dd>
+							<dd><a href="{|U('Index/Detail/index')}/gid/{$v.gid}">{$v.main_title}</a></dd>
+						</dl>
+						</goods>
+					</div>
+					<div class="hot-con w1000 fl mg-t13">
+						<goods limit="8" name="v" cid="31">
+						<dl class="goods-list">
+							<dt><a href="{|U('Index/Detail/index')}/gid/{$v.gid}"><img src="__ROOT__/{$v.m_img}"></a></dt>
+							<dd class="mg-t13">
+								<span class="red fw f-price">￥ {$v.price}</span>
+								<span class="c444 mg-r10">（{$v.zhekou}折）</span>
+								<del>￥ {$v.old_price}</del>
+							</dd>
+							<dd><a href="{|U('Index/Detail/index')}/gid/{$v.gid}">{$v.main_title}</a></dd>
+						</dl>
+						</goods>
+					</div>
+					<div class="hot-con w1000 fl mg-t13">
+						<goods limit="8" name="v" cid="31">
+						<dl class="goods-list">
+							<dt><a href="{|U('Index/Detail/index')}/gid/{$v.gid}"><img src="__ROOT__/{$v.m_img}"></a></dt>
+							<dd class="mg-t13">
+								<span class="red fw f-price">￥ {$v.price}</span>
+								<span class="c444 mg-r10">（{$v.zhekou}折）</span>
+								<del>￥ {$v.old_price}</del>
+							</dd>
+							<dd><a href="{|U('Index/Detail/index')}/gid/{$v.gid}">{$v.main_title}</a></dd>
+						</dl>
+						</goods>
+					</div>
+					<div class="hot-con w1000 fl mg-t13">
+						<goods limit="8" name="v" cid="31">
+						<dl class="goods-list">
+							<dt><a href="{|U('Index/Detail/index')}/gid/{$v.gid}"><img src="__ROOT__/{$v.m_img}"></a></dt>
+							<dd class="mg-t13">
+								<span class="red fw f-price">￥ {$v.price}</span>
+								<span class="c444 mg-r10">（{$v.zhekou}折）</span>
+								<del>￥ {$v.old_price}</del>
+							</dd>
+							<dd><a href="{|U('Index/Detail/index')}/gid/{$v.gid}">{$v.main_title}</a></dd>
+						</dl>
+						</goods>
+					</div>
+
+					<div class="hot-con w1000 fl mg-t13">
+						<goods limit="8" name="v" cid="31">
+						<dl class="goods-list">
+							<dt><a href="{|U('Index/Detail/index')}/gid/{$v.gid}"><img src="__ROOT__/{$v.m_img}"></a></dt>
+							<dd class="mg-t13">
+								<span class="red fw f-price">￥ {$v.price}</span>
+								<span class="c444 mg-r10">（{$v.zhekou}折）</span>
+								<del>￥ {$v.old_price}</del>
+							</dd>
+							<dd><a href="{|U('Index/Detail/index')}/gid/{$v.gid}">{$v.main_title}</a></dd>
+						</dl>
+						</goods>
+					</div>
+					<div class="hot-con w1000 fl mg-t13">
+						<goods limit="8" name="v" cid="31">
+						<dl class="goods-list">
+							<dt><a href="{|U('Index/Detail/index')}/gid/{$v.gid}"><img src="__ROOT__/{$v.m_img}"></a></dt>
+							<dd class="mg-t13">
+								<span class="red fw f-price">￥ {$v.price}</span>
+								<span class="c444 mg-r10">（{$v.zhekou}折）</span>
+								<del>￥ {$v.old_price}</del>
+							</dd>
+							<dd><a href="{|U('Index/Detail/index')}/gid/{$v.gid}">{$v.main_title}</a></dd>
+						</dl>
+						</goods>
+					</div>
+				</div>
+			</div>
+			<!-- 热卖推荐结束 -->
+			<div class="clearfix bk15 w1000"></div>
+			<!--  热卖分类开始 -->
+			<div id="home-class" class="w1000">
+				<h2 class="con-title">
+					<p class="title-p">
+						热门分类
+						<s class="posa lf-44 arrow arrowB"></s>
+					</p>
+					HOT CLASSIFICATION
+				</h2>
+				<div class="class-list">
+					<foreach from="$hotCategory" value="$v">
+					<div class="class-con">
+						<h4 class="class-tit">
+							{$v.ctitle}
+							<i class="icon6_{$v.cid} posa"></i>
+						</h4>
+						<foreach from="$v['Data']" key="$k" value="$m">
+							<a href="{|U('Index/List/index')}/cid/{$m.cid}" class="class-item <if value='!($k%4)'> c-red-1</if>">{$m.cname}</a>
+						</foreach>
+					</div>
+					</foreach>
+				</div>
+			</div>
+		</div>
+		<div id="footer" class="wrap-wide">
+			<load file="__PUBLIC__/common/footer.html"/>
+		</div>
+	</body>
+</html>

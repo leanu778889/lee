@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>{$header.webname}</title>
+<jquery/>
+<hdui/>
+<!-- <script src="__ROOT__/hdphp/Extend/Org/HdUi/js/hdui.js"></script> -->
+<link href="__PUBLIC__/css/reg.css" rel="stylesheet" />
+<link href="__PUBLIC__/css/common.css" rel="stylesheet" />
+<script type="text/javascript" src="__PUBLIC__/js/reg.js"></script>
+</head>
+	<body>
+		<div id="header" class="wrap-wide">
+			<load file="__PUBLIC__/common/header.html"/>
+		</div>
+		<div id="main" class="wrap-wide">
+			<div id="reg" class="w1000">
+				<div id="tab">
+					<div class="fl reg-email"></div>
+					<div class="fr reg-login">
+						<p class="fl">我已是王府井网上商城的会员？</p>
+						<a href="#">登录</a>
+					</div>
+				</div>
+				<div id="reg-form">
+					<form id="regForm" action="{|U('Member/Reg/add')}" method="post">
+						<ul class="form-list posr">
+							<li>
+								<label>
+									<i>*</i>
+									邮箱地址：
+								</label>
+								<input id="inputEmail" type="text" name="email" />
+								<span id="hd_email" style="margin-top:5px;"></span>
+							</li>
+							<li>
+								<label>
+									<i>*</i>
+									输入密码：
+								</label>
+								<input id="inputPassword" class="grid-220" type="password" name="password" />
+							</li>
+							<li>
+								<label>
+									<i>*</i>
+									确认密码：
+								</label>
+								<input id="inputPassword_d" class="grid-220" type="password" name="password_d" />
+								<span id="hd_password_d" style="margin-top:5px;"></span>
+							</li>
+							<li>
+								<label>
+									<i>*</i>
+									验证码：
+								</label>
+								<input url="{|U('__CONTROL__/checkCode')}" id="inputCode" type="text" class="grid-105" name="code" />
+								<img  id="codeImg" width="80" height="33"  onclick="change.call(this);" src="{|U('__CONTROL__/showCode')}"/>
+								<span id="hd_code" style="margin-top:5px;"></span>
+							</li>
+							<script type="text/javascript">
+								/**
+								 * 切换验证码
+								 */
+								var codeSrc = $('#codeImg').attr('src');
+								function change(){
+										$(this).attr('src',codeSrc+'/mt/'+Math.random());
+								}
+							</script>
+							<li>
+								<label>
+									&nbsp;
+								</label>
+								<input class="check" id="checkRead" type="checkbox" value="1" />
+								<div style="height:26px;;line-height: 26px;">我已阅读并接受<a href="#">《xxx网上商城注册协议》</a></div>
+							</li>
+							<li>
+								<label>
+									&nbsp;
+								</label>
+								<input class="button" type="submit" value="提交注册" />
+							</li>
+						</ul>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div id="footer" class="wrap-wide">
+			<load file="__PUBLIC__/common/footer.html"/>
+		</div>
+	</body>
+</html>

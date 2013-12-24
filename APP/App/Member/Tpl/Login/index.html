@@ -1,0 +1,76 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>{$header.webname}</title>
+<jquery/>
+<hdui/>
+<link href="__PUBLIC__/css/login.css" rel="stylesheet" />
+<link href="__PUBLIC__/css/common.css" rel="stylesheet" />
+<script type="text/javascript" src="__PUBLIC__/js/login.js"></script>
+</head>
+	<body>
+		<div id="header" class="wrap-wide">
+			<load file="__PUBLIC__/common/header.html"/>
+		</div>
+		<div id="main" class="wrap-wide">
+			<div id="login" class="w1000">
+				<div class="login-left">
+					<div class="login-left-main">
+						<h2 class="login-img">
+							<img src="__PUBLIC__/images/login-t.jpg">
+						</h2>
+					<form id="loginForm" action="{|U('Member/Login/login')}" method="post">
+							<ul class="login-form">
+								<li>
+									<label>用户名：</label>
+									<input type="text" name="username">
+									<span id="hd_username" style="margin-top:5px;"></span>
+
+								</li>
+								<li>
+									<label>密码：</label>
+									<input type="password" name="password">
+									<span id="hd_password" style="margin-top:5px;"></span>
+
+								</li>
+								<li>
+									<label>验证码：</label>
+									<input url="{|U('__CONTROL__/checkCode')}" id="inputCode" type="text" class="grid-105" name="code" />
+									<img  id="codeImg" width="80" height="33"  onclick="change.call(this);" src="{|U('__CONTROL__/showCode')}"/>
+									<span id="hd_code" style="margin-top:5px;"></span>
+
+								</li>
+								<script type="text/javascript">
+								/**
+								 * 切换验证码
+								 */
+									var codeSrc = $('#codeImg').attr('src');
+									function change(){
+											$(this).attr('src',codeSrc+'/mt/'+Math.random());
+									}
+								</script>
+								<li>
+									<label>&nbsp;</label>
+									<input class="check" name="remember" type="checkbox" value="1" />
+								<div style="height:26px;;line-height: 26px;">记住用户名</div>
+								</li>
+								<li>
+									<label>&nbsp;</label>
+									<input class="button" type="submit" value="登录">
+								</li>
+							</ul>
+						</form>
+					</div>
+				</div>
+				<div class="login-right">
+					<p class="red">还不是王府井网上商城的会员？</p>
+					<a href="">注册</a>
+				</div>
+			</div>
+		</div>
+		<div id="footer" class="wrap-wide">
+			<load file="__PUBLIC__/common/footer.html"/>
+		</div>
+	</body>
+</html>

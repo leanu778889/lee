@@ -1,0 +1,33 @@
+
+  使用DD_belatedPNG.js可完美的解决IE6下PNG图片透明问题，并且支持backgrond-position与background-repeat. 这是其他方法所不具备的，同时DD_belatedPNG还支持a:hover属性,以  及<img>。使其在不同浏览器下保持相同的外观。
+
+ 使用方法：
+ 首先导入JS文件
+
+之后在页面中引用代码：
+
+
+<!--[if IE 6]>
+<script type="text/javascript" src="JS文件路径"></script>
+<script>
+DD_belatedPNG.fix("CSS选择器", "应用类型");
+</script>
+<![endif]-->
+
+引用函数是 DD_belatedPNG.fix() , 括号里分别填写应用PNG的CSS选择器（可使用ID选择器和类选择器）和应用类型（分为img和background两种）。
+
+如DD_belatedPNG.fix(‘#box-one, img’) 或者 DD_belatedPNG.fix(‘.header, background’)  或者 DD_belatedPNG.fix(‘tag, background’)等。
+
+这些可以简写成 DD_belatedPNG.fix(‘#box-one, .header,tag, img,background’);  。
+
+更多选择器的如 DD_belatedPNG.fix(‘#box-one, .header,#footer,.box-two a:hover, img,background’);  等等。
+
+另外，为解决IE6下背景图闪烁，可以在页面中添加如下脚本
+
+
+ 1 <!–[if IE 6]> 2 <script type=”text/javascript”> 3 // <![CDATA[ 4 if((window.navigator.appName.toUpperCase().indexOf("MICROSOFT")>=0)&&(document.execCommand)) 5 try{ 6 document.execCommand("BackgroundImageCache", false, true); 7  } 8 catch(e){} 9 // ]]>10 </script>11 <![endif]–>
+
+
+
+  
+

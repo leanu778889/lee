@@ -1,0 +1,51 @@
+<load file="__PUBLIC__/common/header.html">
+<body>
+<div id="window">
+	<div class='page_title'>
+		<strong>订单列表</strong>
+	</div>
+
+	<div class='content'>
+		<table class='table table-bordered'>
+			<thead>
+			<tr>
+				<th width="7%">订单id</th>
+				<th width="20%">商品主标题</th>
+				<th width="10%">商品规格</th>
+				<th width="5%">价格</th>
+				<th width="5%">数量</th>
+				<th width="7%">小计</th>
+				<th width="18%">收货地址</th>
+				<th width="10%">下单时间</th>
+				<th width="7%">状态</th>
+				<th >操作</th>
+			</tr>
+			</thead>
+			<tbody>
+			<foreach from="$data" value="$v">
+				<tr>
+					<td>{$v.order_id}</td>
+					<td>{$v['goods'].main_title}</td>
+					<td>{$v.size}</td>
+					<td>{$v['goods'].price}</td>
+					<td>{$v.goods_num}</td>
+					<td>{$v.xiaoji}</td>
+					<td>{$v['address'].province}-{$v['address'].city}-{$v['address'].county}-{$v['address'].street}</td>
+					<td>{$v.single_time|date:'Y-m-d',@@}</td>
+					<td><if value="$v.order_status">已付款<else>未付款</if></td>
+					<td>
+						<a class='btn btn-small delAffirm' href="{|U('Admin/Order/del')}/order_id/{$v.order_id}">删除</a>
+						<a class='btn btn-small' href="javascript:void(0)">发货</a>
+					</td>
+				</tr>
+			</foreach>
+			</tbody>
+		</table>
+		</form>
+		<div class='pageStyle1'>
+			{$page}
+		</div>
+	</div>
+</div>
+</body>
+</html>

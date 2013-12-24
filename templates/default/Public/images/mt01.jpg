@@ -1,0 +1,1112 @@
+>橙色</a>
+										<a class="fil-name" href="#">裸色</a>
+										<a class="fil-name" href="#">棕色</a>
+										<a class="fil-name" href="#">紫色</a>
+										<a class="fil-name" href="#">银色</a>
+										<a class="fil-name" href="#">杏色</a>
+										<a class="fil-name" href="#">浅灰色</a>
+										<a class="fil-name" href="#">橙红色</a>
+										<a class="fil-name" href="#">玫红色</a>
+										<a class="fil-name" href="#">彩蓝色</a>
+										<a class="fil-name" href="#">杂色</a>
+									</div>
+								</dd>
+								<dd class="fl more">
+									<a class="more-btn" href="javascript:void(0);">
+										更多
+										<span class="arrow arrowB ">
+										</span>
+									</a>
+								</dd>
+							</dl>
+							<dl class="filter-list clearfix">
+								<dt class="filter-list-title fl">色系：</dt>
+								<dd class="filter-list-con fl">
+									<a class="fl fil-name on" href="javascript:void(0)">不限</a>
+									<div class="fl fil-con" style="height: 60px;">
+										<a class="fil-name" href="#">黑色</a>
+										<a class="fil-name" href="#">白色</a>
+										<a class="fil-name" href="#">蓝色</a>
+										<a class="fil-name" href="#">灰色</a>
+										<a class="fil-name" href="#">红色</a>
+										<a class="fil-name" href="#">绿色</a>
+										<a class="fil-name" href="#">多色</a>
+										<a class="fil-name" href="#">粉色</a>
+										<a class="fil-name" href="#">黄色</a>
+										<a class="fil-name" href="#">橙色</a>
+										<a class="fil-name" href="#">裸色</a>
+										<a class="fil-name" href="#">棕色</a>
+										<a class="fil-name" href="#">紫色</a>
+										<a class="fil-name" href="#">银色</a>
+										<a class="fil-name" href="#">杏色</a>
+										<a class="fil-name" href="#">浅灰色</a>
+										<a class="fil-name" href="#">橙红色</a>
+										<a class="fil-name" href="#">玫红色</a>
+										<a class="fil-name" href="#">彩蓝色</a>
+										<a class="fil-name" href="#">杂色</a>
+									</div>
+								</dd>
+								<dd class="fl more">
+									<a class="more-btn" href="javascript:void(0);">
+										更多
+										<span class="arrow arrowB ">
+										</span>
+									</a>
+								</dd>
+							</dl>
+						</div>
+					</div>
+					<div id="goods-list" class="posr">
+						<div class="list-tit">
+							<dl>
+								<dt class="fl">商品排序按：</dt>
+								<dd class="fl list-con">
+									<div class="fl con-item on"><a href="#">默认</a></div>
+									<div class="fl con-item"><a href="#">价格 </a></div>
+									<div class="fl con-item"><a href="#">销量</a></div>
+									<div class="fl con-item"><a href="#">最新上架</a></div>
+									<div class="fl con-item"><a href="#">折扣</a></div>
+								</dd>
+								<dd class="fr page">
+									<div class="fl">1/30</div>
+									<div class="fl page-prev"><a href="#">上一页</a></div>
+									<div class="fl page-next"><a href="#">下一页</a></div>
+								</dd>
+							</dl>
+						</div>
+						<ul class="list">
+							<li class="goods fl">
+								<dl class="goods-info">
+									<dt class="goods-img"><a href="#"><img src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></a></dt>
+									<dd class="goods-thumb">
+										<ul class="thumb-list">
+											<li class="thumb-img fl on"><img width="30"  src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+											<li class="thumb-img fl"><img width="30" src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+										</ul>
+									</dd>
+									<dd class="mg-t5">
+										<span class="red fw f-price">￥ 1,169</span>
+										<span class="mg-r10">（9.0折）</span>
+										<del class="mg-l8">￥ 1,299</del>
+									</dd>
+									<dd class="goods-maintitle mg-t7"><a href="">ELLE 文胸 肤色 70C</a></dd>
+									<dd class="goods-subtitle mg-t5"><a class="red" href="">ELLE 文胸 肤色 70C</a></dd>
+								</dl>
+							</li>
+							<li class="goods fl">
+								<dl class="goods-info">
+									<dt class="goods-img"><a href="#"><img src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></a></dt>
+									<dd class="goods-thumb">
+										<ul class="thumb-list">
+											<li class="thumb-img fl on"><img width="30"  src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+											<li class="thumb-img fl"><img width="30" src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+										</ul>
+									</dd>
+									<dd class="mg-t5">
+										<span class="red fw f-price">￥ 1,169</span>
+										<span class="mg-r10">（9.0折）</span>
+										<del class="mg-l8">￥ 1,299</del>
+									</dd>
+									<dd class="goods-maintitle mg-t7"><a href="">ELLE 文胸 肤色 70C</a></dd>
+									<dd class="goods-subtitle mg-t5"><a class="red" href="">ELLE 文胸 肤色 70C</a></dd>
+								</dl>
+							</li>
+							<li class="goods fl">
+								<dl class="goods-info">
+									<dt class="goods-img"><a href="#"><img src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></a></dt>
+									<dd class="goods-thumb">
+										<ul class="thumb-list">
+											<li class="thumb-img fl on"><img width="30"  src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+											<li class="thumb-img fl"><img width="30" src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+										</ul>
+									</dd>
+									<dd class="mg-t5">
+										<span class="red fw f-price">￥ 1,169</span>
+										<span class="mg-r10">（9.0折）</span>
+										<del class="mg-l8">￥ 1,299</del>
+									</dd>
+									<dd class="goods-maintitle mg-t7"><a href="">ELLE 文胸 肤色 70C</a></dd>
+									<dd class="goods-subtitle mg-t5"><a class="red" href="">ELLE 文胸 肤色 70C</a></dd>
+								</dl>
+							</li>
+							<li class="goods fl">
+								<dl class="goods-info">
+									<dt class="goods-img"><a href="#"><img src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></a></dt>
+									<dd class="goods-thumb">
+										<ul class="thumb-list">
+											<li class="thumb-img fl on"><img width="30"  src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+											<li class="thumb-img fl"><img width="30" src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+										</ul>
+									</dd>
+									<dd class="mg-t5">
+										<span class="red fw f-price">￥ 1,169</span>
+										<span class="mg-r10">（9.0折）</span>
+										<del class="mg-l8">￥ 1,299</del>
+									</dd>
+									<dd class="goods-maintitle mg-t7"><a href="">ELLE 文胸 肤色 70C</a></dd>
+									<dd class="goods-subtitle mg-t5"><a class="red" href="">ELLE 文胸 肤色 70C</a></dd>
+								</dl>
+							</li>
+							<li class="goods fl">
+								<dl class="goods-info">
+									<dt class="goods-img"><a href="#"><img src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></a></dt>
+									<dd class="goods-thumb">
+										<ul class="thumb-list">
+											<li class="thumb-img fl on"><img width="30"  src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+											<li class="thumb-img fl"><img width="30" src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+										</ul>
+									</dd>
+									<dd class="mg-t5">
+										<span class="red fw f-price">￥ 1,169</span>
+										<span class="mg-r10">（9.0折）</span>
+										<del class="mg-l8">￥ 1,299</del>
+									</dd>
+									<dd class="goods-maintitle mg-t7"><a href="">ELLE 文胸 肤色 70C</a></dd>
+									<dd class="goods-subtitle mg-t5"><a class="red" href="">ELLE 文胸 肤色 70C</a></dd>
+								</dl>
+							</li>
+							<li class="goods fl">
+								<dl class="goods-info">
+									<dt class="goods-img"><a href="#"><img src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></a></dt>
+									<dd class="goods-thumb">
+										<ul class="thumb-list">
+											<li class="thumb-img fl on"><img width="30"  src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+											<li class="thumb-img fl"><img width="30" src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+										</ul>
+									</dd>
+									<dd class="mg-t5">
+										<span class="red fw f-price">￥ 1,169</span>
+										<span class="mg-r10">（9.0折）</span>
+										<del class="mg-l8">￥ 1,299</del>
+									</dd>
+									<dd class="goods-maintitle mg-t7"><a href="">ELLE 文胸 肤色 70C</a></dd>
+									<dd class="goods-subtitle mg-t5"><a class="red" href="">ELLE 文胸 肤色 70C</a></dd>
+								</dl>
+							</li>
+							<li class="goods fl">
+								<dl class="goods-info">
+									<dt class="goods-img"><a href="#"><img src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></a></dt>
+									<dd class="goods-thumb">
+										<ul class="thumb-list">
+											<li class="thumb-img fl on"><img width="30"  src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+											<li class="thumb-img fl"><img width="30" src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+										</ul>
+									</dd>
+									<dd class="mg-t5">
+										<span class="red fw f-price">￥ 1,169</span>
+										<span class="mg-r10">（9.0折）</span>
+										<del class="mg-l8">￥ 1,299</del>
+									</dd>
+									<dd class="goods-maintitle mg-t7"><a href="">ELLE 文胸 肤色 70C</a></dd>
+									<dd class="goods-subtitle mg-t5"><a class="red" href="">ELLE 文胸 肤色 70C</a></dd>
+								</dl>
+							</li>
+							<li class="goods fl">
+								<dl class="goods-info">
+									<dt class="goods-img"><a href="#"><img src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></a></dt>
+									<dd class="goods-thumb">
+										<ul class="thumb-list">
+											<li class="thumb-img fl on"><img width="30"  src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+											<li class="thumb-img fl"><img width="30" src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+										</ul>
+									</dd>
+									<dd class="mg-t5">
+										<span class="red fw f-price">￥ 1,169</span>
+										<span class="mg-r10">（9.0折）</span>
+										<del class="mg-l8">￥ 1,299</del>
+									</dd>
+									<dd class="goods-maintitle mg-t7"><a href="">ELLE 文胸 肤色 70C</a></dd>
+									<dd class="goods-subtitle mg-t5"><a class="red" href="">ELLE 文胸 肤色 70C</a></dd>
+								</dl>
+							</li>
+							<li class="goods fl">
+								<dl class="goods-info">
+									<dt class="goods-img"><a href="#"><img src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></a></dt>
+									<dd class="goods-thumb">
+										<ul class="thumb-list">
+											<li class="thumb-img fl on"><img width="30"  src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+											<li class="thumb-img fl"><img width="30" src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+										</ul>
+									</dd>
+									<dd class="mg-t5">
+										<span class="red fw f-price">￥ 1,169</span>
+										<span class="mg-r10">（9.0折）</span>
+										<del class="mg-l8">￥ 1,299</del>
+									</dd>
+									<dd class="goods-maintitle mg-t7"><a href="">ELLE 文胸 肤色 70C</a></dd>
+									<dd class="goods-subtitle mg-t5"><a class="red" href="">ELLE 文胸 肤色 70C</a></dd>
+								</dl>
+							</li>
+							<li class="goods fl">
+								<dl class="goods-info">
+									<dt class="goods-img"><a href="#"><img src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></a></dt>
+									<dd class="goods-thumb">
+										<ul class="thumb-list">
+											<li class="thumb-img fl on"><img width="30"  src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+											<li class="thumb-img fl"><img width="30" src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+										</ul>
+									</dd>
+									<dd class="mg-t5">
+										<span class="red fw f-price">￥ 1,169</span>
+										<span class="mg-r10">（9.0折）</span>
+										<del class="mg-l8">￥ 1,299</del>
+									</dd>
+									<dd class="goods-maintitle mg-t7"><a href="">ELLE 文胸 肤色 70C</a></dd>
+									<dd class="goods-subtitle mg-t5"><a class="red" href="">ELLE 文胸 肤色 70C</a></dd>
+								</dl>
+							</li>
+							<li class="goods fl">
+								<dl class="goods-info">
+									<dt class="goods-img"><a href="#"><img src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></a></dt>
+									<dd class="goods-thumb">
+										<ul class="thumb-list">
+											<li class="thumb-img fl on"><img width="30"  src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+											<li class="thumb-img fl"><img width="30" src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+										</ul>
+									</dd>
+									<dd class="mg-t5">
+										<span class="red fw f-price">￥ 1,169</span>
+										<span class="mg-r10">（9.0折）</span>
+										<del class="mg-l8">￥ 1,299</del>
+									</dd>
+									<dd class="goods-maintitle mg-t7"><a href="">ELLE 文胸 肤色 70C</a></dd>
+									<dd class="goods-subtitle mg-t5"><a class="red" href="">ELLE 文胸 肤色 70C</a></dd>
+								</dl>
+							</li>
+							<li class="goods fl">
+								<dl class="goods-info">
+									<dt class="goods-img"><a href="#"><img src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></a></dt>
+									<dd class="goods-thumb">
+										<ul class="thumb-list">
+											<li class="thumb-img fl on"><img width="30"  src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+											<li class="thumb-img fl"><img width="30" src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+										</ul>
+									</dd>
+									<dd class="mg-t5">
+										<span class="red fw f-price">￥ 1,169</span>
+										<span class="mg-r10">（9.0折）</span>
+										<del class="mg-l8">￥ 1,299</del>
+									</dd>
+									<dd class="goods-maintitle mg-t7"><a href="">ELLE 文胸 肤色 70C</a></dd>
+									<dd class="goods-subtitle mg-t5"><a class="red" href="">ELLE 文胸 肤色 70C</a></dd>
+								</dl>
+							</li>
+							<li class="goods fl">
+								<dl class="goods-info">
+									<dt class="goods-img"><a href="#"><img src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></a></dt>
+									<dd class="goods-thumb">
+										<ul class="thumb-list">
+											<li class="thumb-img fl on"><img width="30"  src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+											<li class="thumb-img fl"><img width="30" src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+										</ul>
+									</dd>
+									<dd class="mg-t5">
+										<span class="red fw f-price">￥ 1,169</span>
+										<span class="mg-r10">（9.0折）</span>
+										<del class="mg-l8">￥ 1,299</del>
+									</dd>
+									<dd class="goods-maintitle mg-t7"><a href="">ELLE 文胸 肤色 70C</a></dd>
+									<dd class="goods-subtitle mg-t5"><a class="red" href="">ELLE 文胸 肤色 70C</a></dd>
+								</dl>
+							</li>
+							<li class="goods fl">
+								<dl class="goods-info">
+									<dt class="goods-img"><a href="#"><img src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></a></dt>
+									<dd class="goods-thumb">
+										<ul class="thumb-list">
+											<li class="thumb-img fl on"><img width="30"  src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+											<li class="thumb-img fl"><img width="30" src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+										</ul>
+									</dd>
+									<dd class="mg-t5">
+										<span class="red fw f-price">￥ 1,169</span>
+										<span class="mg-r10">（9.0折）</span>
+										<del class="mg-l8">￥ 1,299</del>
+									</dd>
+									<dd class="goods-maintitle mg-t7"><a href="">ELLE 文胸 肤色 70C</a></dd>
+									<dd class="goods-subtitle mg-t5"><a class="red" href="">ELLE 文胸 肤色 70C</a></dd>
+								</dl>
+							</li>
+							<li class="goods fl">
+								<dl class="goods-info">
+									<dt class="goods-img"><a href="#"><img src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></a></dt>
+									<dd class="goods-thumb">
+										<ul class="thumb-list">
+											<li class="thumb-img fl on"><img width="30"  src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+											<li class="thumb-img fl"><img width="30" src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+										</ul>
+									</dd>
+									<dd class="mg-t5">
+										<span class="red fw f-price">￥ 1,169</span>
+										<span class="mg-r10">（9.0折）</span>
+										<del class="mg-l8">￥ 1,299</del>
+									</dd>
+									<dd class="goods-maintitle mg-t7"><a href="">ELLE 文胸 肤色 70C</a></dd>
+									<dd class="goods-subtitle mg-t5"><a class="red" href="">ELLE 文胸 肤色 70C</a></dd>
+								</dl>
+							</li>
+							<li class="goods fl">
+								<dl class="goods-info">
+									<dt class="goods-img"><a href="#"><img src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></a></dt>
+									<dd class="goods-thumb">
+										<ul class="thumb-list">
+											<li class="thumb-img fl on"><img width="30"  src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+											<li class="thumb-img fl"><img width="30" src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+										</ul>
+									</dd>
+									<dd class="mg-t5">
+										<span class="red fw f-price">￥ 1,169</span>
+										<span class="mg-r10">（9.0折）</span>
+										<del class="mg-l8">￥ 1,299</del>
+									</dd>
+									<dd class="goods-maintitle mg-t7"><a href="">ELLE 文胸 肤色 70C</a></dd>
+									<dd class="goods-subtitle mg-t5"><a class="red" href="">ELLE 文胸 肤色 70C</a></dd>
+								</dl>
+							</li>
+							<li class="goods fl">
+								<dl class="goods-info">
+									<dt class="goods-img"><a href="#"><img src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></a></dt>
+									<dd class="goods-thumb">
+										<ul class="thumb-list">
+											<li class="thumb-img fl on"><img width="30"  src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+											<li class="thumb-img fl"><img width="30" src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+										</ul>
+									</dd>
+									<dd class="mg-t5">
+										<span class="red fw f-price">￥ 1,169</span>
+										<span class="mg-r10">（9.0折）</span>
+										<del class="mg-l8">￥ 1,299</del>
+									</dd>
+									<dd class="goods-maintitle mg-t7"><a href="">ELLE 文胸 肤色 70C</a></dd>
+									<dd class="goods-subtitle mg-t5"><a class="red" href="">ELLE 文胸 肤色 70C</a></dd>
+								</dl>
+							</li>
+							<li class="goods fl">
+								<dl class="goods-info">
+									<dt class="goods-img"><a href="#"><img src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></a></dt>
+									<dd class="goods-thumb">
+										<ul class="thumb-list">
+											<li class="thumb-img fl on"><img width="30"  src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+											<li class="thumb-img fl"><img width="30" src="__PUBLIC__/images/30012716002_01_mt_220x220.jpg"></li>
+										</ul>
+									</dd>
+									<dd class="mg-t5">
+										<span class="red fw f-price">￥ 1,169</span>
+										<span class="mg-r10">（9.0折）</span>
+										<del class="mg-l8">￥ 1,299</del>
+									</dd>
+									<dd class="goods-maintitle mg-t7"><a href="">ELLE 文胸 肤色 70C</a></dd>
+									<dd class="goods-subtitle mg-t5"><a class="red" href="">ELLE 文胸 肤色 70C</a></dd>
+								</dl>
+							</li>
+						</ul>
+					</div>
+					<div class="bk30 clearfix"></div>
+					<div id="page">
+
+					</div>
+					<div class="bk30 clearfix"></div>
+				</div>
+			</div>
+		</div>
+		<div id="footer" class="wrap-wide">
+			<load file="__PUBLIC__/common/footer.html"/>
+		</div>
+	</body>
+</html>                                                                                                                                                                                                                                                                                                                                                                                                                                                               g;
+[php_ext_php_sybase_ct]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . switchPhpExt.php php_sybase_ct on";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[php_ext_php_tidy]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . switchPhpExt.php php_tidy on";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[php_ext_php_xmlrpc]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . switchPhpExt.php php_xmlrpc on";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[php_ext_php_xsl]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . switchPhpExt.php php_xsl on";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[php_ext_php_zip]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . switchPhpExt.php php_zip on";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+
+;WAMPPHP_EXTEND
+
+
+
+[add_alias]
+;WAMPADD_ALIASSTART
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php.exe";Parameters: "-c . addAlias.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: service; Service: wampapache; ServiceAction: restart;
+Action: resetservices
+Action: readconfig;
+;WAMPADD_ALIASEND
+
+
+[DoubleClickAction]
+Action: about;
+
+[apacheService]
+;WAMPAPACHESERVICESTART
+Type: separator; Caption: "Apache"
+Type: item; Caption: "&Start/Resume Service"; Action: service; Service: wampapache; ServiceAction: startresume; Glyph: 9
+;Type: item; Caption: "&Pause Service"; Action: service; Service: wampapache; ServiceAction: pause; Glyph: 10
+Type: item; Caption: "S&top Service"; Action: service; Service: wampapache; ServiceAction: stop; Glyph: 11
+Type: item; Caption: "&Restart Service"; Action: service; Service: wampapache; ServiceAction: restart; Glyph: 12
+Type: separator
+Type: item; Caption: "Test Port 80"; Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php.exe";Parameters: "-c . testPort.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated; Glyph: 9
+Type: item; Caption: "&Install Service";  Action: multi; Actions: ApacheServiceInstall; Glyph: 8
+Type: item; Caption: "&Remove Service"; Action: multi; Actions: ApacheServiceRemove; Glyph: 7
+;WAMPAPACHESERVICEEND
+
+
+[MySqlService]
+;WAMPMYSQLSERVICESTART
+Type: separator; Caption: "MySQL"
+Type: item; Caption: "&Start/Resume Service"; Action: service; Service: wampmysqld; ServiceAction: startresume; Glyph: 9 ;Flags: ignoreerrors
+;Type: item; Caption: "&Pause Service"; Action: service; Service: mysql; ServiceAction: pause; Glyph: 10
+Type: item; Caption: "S&top Service"; Action: service; Service: wampmysqld; ServiceAction: stop; Glyph: 11
+Type: item; Caption: "&Restart Service"; Action: service; Service: wampmysqld; ServiceAction: restart; Glyph: 12
+Type: separator
+Type: item; Caption: "&Install Service"; Action: multi; Actions: MySQLServiceInstall; Glyph: 8
+Type: item; Caption: "&Remove Service"; Action: multi; Actions: MySQLServiceRemove; Glyph: 7
+;WAMPMYSQLSERVICEEND
+
+
+[StartAll]
+;WAMPSTARTALLSTART
+Action: service; Service: wampapache; ServiceAction: startresume; Flags: ignoreerrors
+Action: service; Service: wampmysqld; ServiceAction: startresume; Flags: ignoreerrors
+;WAMPSTARTALLEND
+
+[StopAll]
+;WAMPSTOPALLSTART
+Action: service; Service: wampapache; ServiceAction: stop; Flags: ignoreerrors
+Action: service; Service: wampmysqld; ServiceAction: stop; Flags: ignoreerrors
+;WAMPSTOPALLEND
+
+[RestartAll]
+;WAMPRESTARTALLSTART
+Action: service; Service: wampapache; ServiceAction: stop; Flags: ignoreerrors waituntilterminated
+Action: service; Service: wampmysqld; ServiceAction: stop; Flags: ignoreerrors waituntilterminated
+Action: service; Service: wampapache; ServiceAction: startresume; Flags: ignoreerrors waituntilterminated
+Action: service; Service: wampmysqld; ServiceAction: startresume; Flags: ignoreerrors waituntilterminated
+;WAMPRESTARTALLEND
+
+[myexit]
+;WAMPMYEXITSTART
+Action: service; Service: wampapache; ServiceAction: stop; Flags: ignoreerrors
+Action: service; Service: wampmysqld; ServiceAction: stop; Flags: ignoreerrors
+Action:  exit
+;WAMPMYEXITEND
+
+[apache_mod]
+Type: separator; Caption: "Apache modules"
+;WAMPAPACHE_MODSTART
+Type: item; Caption: "actions_module"; Glyph: 13; Action: multi; Actions: apache_mod_actions_module
+Type: item; Caption: "alias_module"; Glyph: 13; Action: multi; Actions: apache_mod_alias_module
+Type: item; Caption: "asis_module"; Glyph: 13; Action: multi; Actions: apache_mod_asis_module
+Type: item; Caption: "auth_basic_module"; Glyph: 13; Action: multi; Actions: apache_mod_auth_basic_module
+Type: item; Caption: "auth_digest_module"; Action: multi; Actions: apache_mod_auth_digest_module
+Type: item; Caption: "authn_alias_module"; Action: multi; Actions: apache_mod_authn_alias_module
+Type: item; Caption: "authn_anon_module"; Action: multi; Actions: apache_mod_authn_anon_module
+Type: item; Caption: "authn_dbd_module"; Action: multi; Actions: apache_mod_authn_dbd_module
+Type: item; Caption: "authn_dbm_module"; Action: multi; Actions: apache_mod_authn_dbm_module
+Type: item; Caption: "authn_default_module"; Glyph: 13; Action: multi; Actions: apache_mod_authn_default_module
+Type: item; Caption: "authn_file_module"; Glyph: 13; Action: multi; Actions: apache_mod_authn_file_module
+Type: item; Caption: "authnz_ldap_module"; Action: multi; Actions: apache_mod_authnz_ldap_module
+Type: item; Caption: "authz_dbm_module"; Action: multi; Actions: apache_mod_authz_dbm_module
+Type: item; Caption: "authz_default_module"; Glyph: 13; Action: multi; Actions: apache_mod_authz_default_module
+Type: item; Caption: "authz_groupfile_module"; Glyph: 13; Action: multi; Actions: apache_mod_authz_groupfile_module
+Type: item; Caption: "authz_host_module"; Glyph: 13; Action: multi; Actions: apache_mod_authz_host_module
+Type: item; Caption: "authz_owner_module"; Action: multi; Actions: apache_mod_authz_owner_module
+Type: item; Caption: "authz_user_module"; Glyph: 13; Action: multi; Actions: apache_mod_authz_user_module
+Type: item; Caption: "autoindex_module"; Glyph: 13; Action: multi; Actions: apache_mod_autoindex_module
+Type: item; Caption: "cache_module"; Action: multi; Actions: apache_mod_cache_module
+Type: item; Caption: "cern_meta_module"; Action: multi; Actions: apache_mod_cern_meta_module
+Type: item; Caption: "cgi_module"; Glyph: 13; Action: multi; Actions: apache_mod_cgi_module
+Type: item; Caption: "charset_lite_module"; Action: multi; Actions: apache_mod_charset_lite_module
+Type: item; Caption: "dav_module"; Action: multi; Actions: apache_mod_dav_module
+Type: item; Caption: "dav_fs_module"; Action: multi; Actions: apache_mod_dav_fs_module
+Type: item; Caption: "dav_lock_module"; Action: multi; Actions: apache_mod_dav_lock_module
+Type: item; Caption: "dbd_module"; Action: multi; Actions: apache_mod_dbd_module
+Type: item; Caption: "deflate_module"; Action: multi; Actions: apache_mod_deflate_module
+Type: item; Caption: "dir_module"; Glyph: 13; Action: multi; Actions: apache_mod_dir_module
+Type: item; Caption: "disk_cache_module"; Action: multi; Actions: apache_mod_disk_cache_module
+Type: item; Caption: "dumpio_module"; Action: multi; Actions: apache_mod_dumpio_module
+Type: item; Caption: "env_module"; Glyph: 13; Action: multi; Actions: apache_mod_env_module
+Type: item; Caption: "expires_module"; Action: multi; Actions: apache_mod_expires_module
+Type: item; Caption: "ext_filter_module"; Action: multi; Actions: apache_mod_ext_filter_module
+Type: item; Caption: "file_cache_module"; Action: multi; Actions: apache_mod_file_cache_module
+Type: item; Caption: "filter_module"; Action: multi; Actions: apache_mod_filter_module
+Type: item; Caption: "headers_module"; Action: multi; Actions: apache_mod_headers_module
+Type: item; Caption: "ident_module"; Action: multi; Actions: apache_mod_ident_module
+Type: item; Caption: "imagemap_module"; Action: multi; Actions: apache_mod_imagemap_module
+Type: item; Caption: "include_module"; Glyph: 13; Action: multi; Actions: apache_mod_include_module
+Type: item; Caption: "info_module"; Action: multi; Actions: apache_mod_info_module
+Type: item; Caption: "isapi_module"; Glyph: 13; Action: multi; Actions: apache_mod_isapi_module
+Type: item; Caption: "ldap_module"; Action: multi; Actions: apache_mod_ldap_module
+Type: item; Caption: "logio_module"; Action: multi; Actions: apache_mod_logio_module
+Type: item; Caption: "log_config_module"; Glyph: 13; Action: multi; Actions: apache_mod_log_config_module
+Type: item; Caption: "log_forensic_module"; Action: multi; Actions: apache_mod_log_forensic_module
+Type: item; Caption: "mem_cache_module"; Action: multi; Actions: apache_mod_mem_cache_module
+Type: item; Caption: "mime_module"; Glyph: 13; Action: multi; Actions: apache_mod_mime_module
+Type: item; Caption: "mime_magic_module"; Action: multi; Actions: apache_mod_mime_magic_module
+Type: item; Caption: "negotiation_module"; Glyph: 13; Action: multi; Actions: apache_mod_negotiation_module
+Type: item; Caption: "proxy_module"; Action: multi; Actions: apache_mod_proxy_module
+Type: item; Caption: "proxy_ajp_module"; Action: multi; Actions: apache_mod_proxy_ajp_module
+Type: item; Caption: "proxy_balancer_module"; Action: multi; Actions: apache_mod_proxy_balancer_module
+Type: item; Caption: "proxy_connect_module"; Action: multi; Actions: apache_mod_proxy_connect_module
+Type: item; Caption: "proxy_ftp_module"; Action: multi; Actions: apache_mod_proxy_ftp_module
+Type: item; Caption: "proxy_http_module"; Action: multi; Actions: apache_mod_proxy_http_module
+Type: item; Caption: "rewrite_module"; Action: multi; Actions: apache_mod_rewrite_module
+Type: item; Caption: "setenvif_module"; Glyph: 13; Action: multi; Actions: apache_mod_setenvif_module
+Type: item; Caption: "speling_module"; Action: multi; Actions: apache_mod_speling_module
+Type: item; Caption: "ssl_module"; Action: multi; Actions: apache_mod_ssl_module
+Type: item; Caption: "status_module"; Action: multi; Actions: apache_mod_status_module
+Type: item; Caption: "substitute_module"; Action: multi; Actions: apache_mod_substitute_module
+Type: item; Caption: "unique_id_module"; Action: multi; Actions: apache_mod_unique_id_module
+Type: item; Caption: "userdir_module"; Action: multi; Actions: apache_mod_userdir_module
+Type: item; Caption: "usertrack_module"; Action: multi; Actions: apache_mod_usertrack_module
+Type: item; Caption: "version_module"; Action: multi; Actions: apache_mod_version_module
+Type: item; Caption: "vhost_alias_module"; Action: multi; Actions: apache_mod_vhost_alias_module
+Type: item; Caption: "php5_module"; Glyph: 13; Action: multi; Actions: apache_mod_php5_module
+[apache_mod_actions_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php actions_module on";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_alias_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php alias_module on";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_asis_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php asis_module on";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_auth_basic_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php auth_basic_module on";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_auth_digest_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php auth_digest_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_authn_alias_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php authn_alias_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_authn_anon_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php authn_anon_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_authn_dbd_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php authn_dbd_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_authn_dbm_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php authn_dbm_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_authn_default_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php authn_default_module on";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_authn_file_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php authn_file_module on";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_authnz_ldap_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php authnz_ldap_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_authz_dbm_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php authz_dbm_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_authz_default_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php authz_default_module on";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_authz_groupfile_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php authz_groupfile_module on";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_authz_host_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php authz_host_module on";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_authz_owner_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php authz_owner_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_authz_user_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php authz_user_module on";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_autoindex_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php autoindex_module on";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_cache_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php cache_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_cern_meta_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php cern_meta_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_cgi_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php cgi_module on";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_charset_lite_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php charset_lite_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_dav_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php dav_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_dav_fs_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php dav_fs_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_dav_lock_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php dav_lock_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_dbd_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php dbd_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_deflate_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php deflate_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_dir_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php dir_module on";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_disk_cache_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php disk_cache_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_dumpio_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php dumpio_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_env_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php env_module on";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_expires_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php expires_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_ext_filter_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php ext_filter_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_file_cache_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php file_cache_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_filter_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php filter_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_headers_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php headers_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_ident_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php ident_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_imagemap_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php imagemap_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_include_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php include_module on";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_info_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php info_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_isapi_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php isapi_module on";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_ldap_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php ldap_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_logio_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php logio_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_log_config_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php log_config_module on";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_log_forensic_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php log_forensic_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_mem_cache_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php mem_cache_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_mime_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php mime_module on";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_mime_magic_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php mime_magic_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_negotiation_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php negotiation_module on";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_proxy_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php proxy_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_proxy_ajp_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php proxy_ajp_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_proxy_balancer_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php proxy_balancer_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_proxy_connect_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php proxy_connect_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_proxy_ftp_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php proxy_ftp_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_proxy_http_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php proxy_http_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_rewrite_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php rewrite_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_setenvif_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php setenvif_module on";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_speling_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php speling_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_ssl_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php ssl_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_status_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php status_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_substitute_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php substitute_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_unique_id_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php unique_id_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_userdir_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php userdir_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_usertrack_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php usertrack_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_version_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php version_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_vhost_alias_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php vhost_alias_module off";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+[apache_mod_php5_module]
+Action: service; Service: wampapache; ServiceAction: stop; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "switchApacheMod.php php5_module on";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php-win.exe";Parameters: "-c . refresh.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run; FileName: "net"; Parameters: "start wampapache"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+
+;WAMPAPACHE_MODEND
+
+
+[ApacheServiceInstall]
+;WAMPAPACHESERVICEINSTALLSTART
+Action: run; FileName: "e:/wamp/bin/php/php5.3.13/php.exe";Parameters: "-c . testPortForInstall.php";WorkingDir: "e:/wamp/scripts"; Flags: waituntilterminated
+Action: run;  FileName: "e:/wamp/bin/apache/apache2.2.22/bin/httpd.exe"; Parameters: "-n wampapache -k install"; ShowCmd: hidden; Flags: waituntilterminated
+Action: run; FileName: "reg"; Parameters: "add HKLM\SYSTEM\CurrentControlSet\Services\wampapache /V Start /t REG_DWORD /d 3 /f"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+;WAMPAPACHESERVICEINSTALLEND
+
+
+[ApacheServiceRemove]
+;WAMPAPACHESERVICEREMOVESTART
+Action: service; Service: wampapache; ServiceAction: stop; Flags: ignoreerrors waituntilterminated
+Action: run; FileName: "e:/wamp/bin/apache/apache2.2.22/bin/httpd.exe"; Parameters: "-n wampapache -k uninstall"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices
+Action: readconfig;
+;WAMPAPACHESERVICEREMOVEEND
+
+[MySQLServiceInstall]
+;WAMPMYSQLSERVICEINSTALLSTART
+Action: run; FileName: "e:/wamp/bin/mysql/mysql5.5.24/bin/mysqld.exe"; Parameters: "--install-manual wampmysqld"; ShowCmd: hidden; Flags: ignoreerrors waituntilterminated
+Action: resetservices; 
+Action: readconfig; 
+;WAMPMYSQLSERVICEINSTALLEND
+
+[MySQLServiceRemove]
+;WAMPMYSQLSERVICEREMOVESTART
+Action: service; Service: wampmysqld; ServiceAction: stop; Flags: ignoreerrors waituntilterminated
+Action: run; FileName: "e:/wamp/bin/mysql/mysql5.5.24/bin/mysqld.exe"; Parameters: "--remove wampmysqld"; ShowCmd: hidden; Flags: waituntilterminated
+Action: resetservices; 
+Action: readconfig; 
+;WAMPMYSQLSERVICEREMOVEEND
+
+
+
+[onlineoffline]
+;WAMPONLINEOFFLINESTART
+Action: run; FileName: "e:/wamp/bin/php/

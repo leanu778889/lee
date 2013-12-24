@@ -1,0 +1,113 @@
+@charset "utf-8";
+/* Basic Settings */
+#header{
+	height:180px;
+}
+#header a{
+	color: #FFFFFF;
+}
+#footer{
+	height: 300px;
+}
+#main{
+	overflow: hidden;
+	height: auto;
+	background: url(../images/conbg925.jpg) repeat-x center 144px;
+}
+#login{
+	margin-top: 40px;
+	height: 512px;
+	_height: 532px;
+	overflow: hidden;
+}
+#login .login-left{
+	width: 650px;
+	_width: 630px;
+	height: 100%;
+	_height: 532px;
+	float: left;
+	background: #fff;
+}
+#login .login-right{
+	width: 350px;
+	_width: 348px;
+	float: left;
+	background: #f8f8f8;
+	height: 100%;
+	_height: 532px;
+	text-align: center;
+}
+#login .login-left .login-left-main{
+	margin: 84px 0 0 55px;
+	_width: 596px;
+}
+#login .login-left .login-left-main .login-img{
+	padding-left: 100px;
+	line-height: 35px;
+	font-size: 17px;
+	height: 35px;
+}
+#login .login-left .login-left-main .login-form{
+	padding: 10px 0;
+	_width: 480px;
+}
+#login .login-left .login-left-main .login-form li{
+	line-height: 35px;
+	font-size: 12px;
+	font-family: "宋体";
+	margin-bottom: 20px;
+	overflow: hidden;
+	display: inline-block;
+	width: 100%;
+}
+#login .login-left .login-left-main .login-form li label{
+	width: 90px;
+	float: left;
+	text-align: right;
+	display: block;
+}
+#login .login-left .login-left-main .login-form li input{
+	color: #000;
+	width: 300px;
+	border: 1px #c8c8c8 solid;
+	height: 26px;
+	line-height: 26px;
+	margin: 0 10px;
+	float: left;
+	padding: 3px;
+}
+#login .login-left .login-left-main .login-form li input.button{
+	height: 26px;
+	color: #FFF !important;
+	cursor: pointer;
+	background: #BF3019;
+	text-align: center;
+	border: 1px solid #BF3019 !important;
+	display: inline-block;
+	line-height: 26px;
+	height: 40px !important;
+	width: 110px !important;
+}
+#login .login-left .login-left-main .login-form li input.check{
+	width: 15px;
+	height: 15px;
+	margin-top: 4px;
+	border: none;
+}
+#login .login-right p{
+	margin: 160px 0 20px 0;
+}
+#login .login-right a{
+	width: 80px;
+	margin-top: 15px;
+	_margin-top: 15px;
+	height: 26px;
+	color: #FFF !important;
+	cursor: pointer;
+	background: #BF3019;
+	text-align: center;
+	border: 1px solid #BF3019 !important;
+	display: inline-block;
+	line-height: 26px;
+	line-height: 25px !important;
+}

@@ -1,0 +1,38 @@
+<load file="__PUBLIC__/common/header.html">
+<body>
+<div id="window">
+	<div class='page_title'>
+		<strong>橱柜列表</strong>
+	</div>
+
+	<div class='content'>
+		<table class='table table-bordered'>
+			<thead>
+			<tr>
+				<th width="10%">商品id</th>
+				<th width="20%">商品主标题</th>
+				<th width="25%">橱柜缩略图</th>
+				<th width="15%">排序</th>
+				<th >操作</th>
+			</tr>
+			</thead>
+			<tbody>
+			<foreach from="$data" value="$v">
+				<tr>
+					<td>{$v.gid}</td>
+					<td>{$v.main_title}</td>
+					<td><img src="__ROOT__/{$v.img}"/></td>
+					<td>{$v.sort}</td>
+					<td>
+						<a class='btn btn-small' href="{|U('Admin/Goods/editShow')}/id/{$v.id}">编辑</a>
+						<a class='btn btn-small' href="{|U('Admin/Goods/delShow')}/id/{$v.id}">删除</a>
+					</td>
+				</tr>
+			</foreach>
+			</tbody>
+		</table>
+		</form>
+	</div>
+</div>
+</body>
+</html>

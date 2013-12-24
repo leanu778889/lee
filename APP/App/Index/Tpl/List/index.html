@@ -1,0 +1,160 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>{$header.webname}</title>
+<jquery/>
+<link href="__PUBLIC__/css/list.css" rel="stylesheet" />
+<link href="__PUBLIC__/css/common.css" rel="stylesheet" />
+
+<script type="text/javascript" src="__PUBLIC__/js/list.js"></script>
+</head>
+	<body>
+		<div id="header" class="wrap-wide">
+			<load file="__PUBLIC__/common/header.html"/>
+		</div>
+		<div id="main" class="wrap-wide">
+			<div id="list-location" class="w1000 pd-t20">
+				<span class="fr">找到相关商品<span class="red">33</span>件</span>
+				<span class="font-grey-8">您现在的位置： <a href="{|U('Index/Index/index')}">首页</a>
+				<foreach from="$arr" value="$v"> > <a href="{|U('Index/List/index')}/cid/{$v.cid}">{$v.cname}</a></foreach></span>
+			</div>
+			<div id="list-main" class="w1000">
+				<div id="list-left" class="fl">
+					<div class="left-subnav">
+						<h3 class="subnav-title fs15">
+							{$title}
+						</h3>
+						<div class="left-subnav-list">
+							<foreach from="$data" value="$v">
+							<dl class="subnav-list">
+								<dt class="cate2 bg-color1 clearfix <if value="$v.cid==$cid">red</if>">
+									<a href="{|U('Index/List/index')}/cid/{$v.cid}">{$v.cname}</a>
+									<i class="fr sign">
+										<a class="fr"  href="javascript:void(0)">+</a>
+									</i>
+								</dt>
+								<dd class="cate3 bg-color4 clearfix">
+									<foreach from="$v.Data" value="$m">
+									<a <if value="$m.cid==$cid">class="red"</if> href="{|U('Index/List/index')}/cid/{$m.cid}">{$m.cname}</a>
+									</foreach>
+								</dd>
+							</dl>
+							</foreach>
+						</div>
+					</div>
+					<div class="left-hot">
+						<h3 >
+							热销排行
+							<span class="words">HOT</span>
+						</h3>
+						<div class="hot-list">
+							<goods limit="5" cid="31" name="v" order="buy">
+							<dl class="goods-list">
+								<dt><a href="{|U('Index/Detail/index')}/gid/{$v.gid}"><img width=180 height=180 src="__ROOT__/{$v.m_img}"></a></dt>
+								<dd class="mg-t13">
+									<span class="red fw f-price">￥ {$v.price}</span>
+									<del class="mg-l8">￥ {$v.old_price}</del>
+								</dd>
+								<dd><a href="{|U('Index/Detail/index')}/gid/{$v.gid}">{$v.main_title}</a></dd>
+							</dl>
+							</goods>
+						</div>
+					</div>
+					<div class="left-like">
+						<h3 >
+							猜你喜欢
+							<span class="words">LIKE</span>
+						</h3>
+						<div class="hot-list">
+							<goods limit="5" cid="31" name="v">
+							<dl class="goods-list">
+								<dt><a href="{|U('Index/Detail/index')}/gid/{$v.gid}"><img width=180 height=180 src="__ROOT__/{$v.m_img}"></a></dt>
+								<dd class="mg-t13">
+									<span class="red fw f-price">￥ {$v.price}</span>
+									<del class="mg-l8">￥ {$v.old_price}</del>
+								</dd>
+								<dd><a href="{|U('Index/Detail/index')}/gid/{$v.gid}">{$v.main_title}</a></dd>
+							</dl>
+							</goods>
+						</div>
+					</div>
+				</div>
+				<div id="list-right" class="fl">
+					<div id="filters">
+						<div class="filter-search"></div>
+						<div id="tag" class="goods-filter">
+							<foreach from="$attr" value="$v">
+							<dl class="filter-list clearfix">
+								<dt class="filter-list-title fl">{$v.tc_name}：</dt>
+								<dd class="filter-list-con fl">
+									<div class="fl fil-con">
+										<foreach from="$v.data" value="$m">
+											{$m.html}
+										</foreach>
+									</div>
+								</dd>
+								<dd class="fl more">
+									<a class="more-btn" href="">
+										更多
+										<span class="arrow arrowB ">
+										</span>
+									</a>
+								</dd>
+							</dl>
+							</foreach>
+						</div>
+					</div>
+					<div id="goods-list" class="posr">
+						<div class="list-tit">
+							<dl>
+								<dt class="fl">商品排序按：</dt>
+								<dd class="fl list-con">
+									<div class="fl con-item on" id="1"><a href="{$url}/order/addtime">默认</a></div>
+									<div class="fl con-item" id="2"><a href="{$url}/order/price">价格 </a></div>
+									<div class="fl con-item" id="3"><a href="{$url}/order/buy">销量</a></div>
+									<div class="fl con-item" id="4"><a href="{$url}/order/addtime">最新上架</a></div>
+									<!-- <div class="fl con-item"><a href="#">折扣</a></div> -->
+								</dd>
+								<dd class="fr page">
+									<div class="fl"><?php echo $pageObj->selfPage;?>/<?php echo $pageObj->totalPage;?></div>
+									<div class="fl page-prev"><?php echo $pageObj->pre();?></div>
+									<div class="fl page-next"><?php echo $pageObj->next();?></div>
+								</dd>
+							</dl>
+						</div>
+						<ul class="list">
+							<foreach from="$goods" value="$v">
+							<li class="goods fl">
+								<dl class="goods-info">
+									<dt class="goods-img"><a href="{|U('Index/Detail/index')}/gid/{$v.gid}"><img src="__ROOT__/{$v.m_img}"></a></dt>
+									<dd class="goods-thumb">
+										<ul class="thumb-list">
+											<li class="thumb-img fl on"><img width="30"  src="__ROOT__/{$v.s_img}"></li>
+										</ul>
+									</dd>
+									<dd class="mg-t5">
+										<span class="red fw f-price">￥ {$v.price}</span>
+										<span class="mg-r10">（{$v.zhekou}折）</span>
+										<del class="mg-l8">￥ {$v.old_price}</del>
+									</dd>
+									<dd class="goods-maintitle mg-t7"><a href="{|U('Index/Detail/index')}/gid/{$v.gid}">{$v.main_title}</a></dd>
+									<dd class="goods-subtitle mg-t5"><a class="red" href="{|U('Index/Detail/index')}/gid/{$v.gid}">{$v.sub_title}</a></dd>
+								</dl>
+							</li>
+							</foreach>
+						</ul>
+					</div>
+					<div class="bk30 clearfix"></div>
+					<div id="page">
+						{$page}
+					</div>
+					<div class="bk30 clearfix"></div>
+				</div>
+			</div>
+		</div>
+		<div id="footer" class="wrap-wide">
+			<load file="__PUBLIC__/common/footer.html"/>
+		</div>
+	</body>
+</html>

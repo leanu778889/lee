@@ -1,0 +1,404 @@
+9:54 +0800] "GET /Lee/APP/App/Admin/Tpl/Public/js/index.js HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:29:54 +0800] "GET /Lee/APP/App/Admin/Tpl/Public/css/index.css HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:29:54 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/hd_uploadify.js HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:29:54 +0800] "GET /Lee/hdphp/Extend/Org/Editor/Ueditor/ueditor.all.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:29:54 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/uploadify.css HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:29:54 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/jquery.uploadify.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:29:54 +0800] "GET /Lee/hdphp/Extend/Org/Editor/Ueditor/ueditor.config.js HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:29:54 +0800] "GET /Lee/hdphp/Extend/Org/Editor/Ueditor/themes/default/css/ueditor.css HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:29:54 +0800] "GET /Lee/upload/201312/53541386215155/53541386215155_220x220.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:29:54 +0800] "GET /Lee/upload/201312/64321386215156/64321386215156_220x220.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:29:54 +0800] "GET /Lee/hdphp/Extend/Org/Editor/Ueditor/lang/zh-cn/zh-cn.js HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:29:54 +0800] "GET /Lee/APP/App/Admin/Tpl/Public/images/uploadify-cancel.png HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:29:54 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/upload2.png HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:29:54 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/uploadify.swf?preventswfcaching=1386224994708 HTTP/1.1" 200 12675
+127.0.0.1 - - [05/Dec/2013:14:29:54 +0800] "GET /Lee/index.php/Admin/Goods/getAttr.html?cid=13 HTTP/1.1" 200 734
+127.0.0.1 - - [05/Dec/2013:14:29:55 +0800] "GET /Lee/hdphp/Extend/Org/Editor/Ueditor/themes/default/images/icons.png HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:29:55 +0800] "GET /Lee/hdphp/Extend/Org/Editor/Ueditor/third-party/codemirror/codemirror.js HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:29:55 +0800] "GET /Lee/hdphp/Extend/Org/Editor/Ueditor/third-party/codemirror/codemirror.css HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:29:55 +0800] "GET /Lee/hdphp/Extend/Org/Editor/Ueditor/themes/default/images/scale.png HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:29:55 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/ HTTP/1.1" 200 5905
+127.0.0.1 - - [05/Dec/2013:14:29:58 +0800] "POST /Lee/index.php/Admin/Goods/delThumb.html HTTP/1.1" 200 15
+127.0.0.1 - - [05/Dec/2013:14:30:00 +0800] "POST /Lee/index.php/Admin/Goods/delThumb.html HTTP/1.1" 200 15
+127.0.0.1 - - [05/Dec/2013:14:30:03 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/21 HTTP/1.1" 200 36450
+127.0.0.1 - - [05/Dec/2013:14:30:03 +0800] "GET /Lee/hdphp/Extend/Org/Jquery/jquery-1.8.2.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:30:03 +0800] "GET /Lee/hdphp/Extend/Org/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:30:03 +0800] "GET /Lee/APP/App/Admin/Tpl/Public/js/base.js HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:30:03 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/uploadify.css HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:30:03 +0800] "GET /Lee/hdphp/Extend/Org/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:30:03 +0800] "GET /Lee/APP/App/Admin/Tpl/Public/js/index.js HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:30:03 +0800] "GET /Lee/APP/App/Admin/Tpl/Public/css/base.css HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:30:03 +0800] "GET /Lee/APP/App/Admin/Tpl/Public/css/index.css HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:30:03 +0800] "GET /Lee/hdphp/Extend/Org/Editor/Ueditor/ueditor.config.js HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:30:03 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/hd_uploadify.js HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:30:03 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/jquery.uploadify.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:30:03 +0800] "GET /Lee/hdphp/Extend/Org/Editor/Ueditor/ueditor.all.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:30:04 +0800] "GET /Lee/upload/201312/53541386215155/53541386215155_220x220.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:30:04 +0800] "GET /Lee/upload/201312/64321386215156/64321386215156_220x220.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:30:04 +0800] "GET /Lee/hdphp/Extend/Org/Editor/Ueditor/lang/zh-cn/zh-cn.js HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:30:04 +0800] "GET /Lee/hdphp/Extend/Org/Editor/Ueditor/themes/default/css/ueditor.css HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:30:04 +0800] "GET /Lee/APP/App/Admin/Tpl/Public/images/uploadify-cancel.png HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:30:04 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/upload2.png HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:30:04 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/uploadify.swf?preventswfcaching=1386225004005 HTTP/1.1" 200 12675
+127.0.0.1 - - [05/Dec/2013:14:30:04 +0800] "GET /Lee/index.php/Admin/Goods/getAttr.html?cid=13 HTTP/1.1" 200 734
+127.0.0.1 - - [05/Dec/2013:14:30:04 +0800] "GET /Lee/hdphp/Extend/Org/Editor/Ueditor/third-party/codemirror/codemirror.js HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:30:04 +0800] "GET /Lee/hdphp/Extend/Org/Editor/Ueditor/themes/default/images/icons.png HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:30:04 +0800] "GET /Lee/hdphp/Extend/Org/Editor/Ueditor/third-party/codemirror/codemirror.css HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:30:04 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/ HTTP/1.1" 200 5905
+127.0.0.1 - - [05/Dec/2013:14:30:09 +0800] "POST /Lee/index.php/Admin/Goods/delThumb.html HTTP/1.1" 200 15
+127.0.0.1 - - [05/Dec/2013:14:34:02 +0800] "POST /Lee/index.php/Admin/Goods/delThumb.html HTTP/1.1" 200 15
+127.0.0.1 - - [05/Dec/2013:14:34:07 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/21 HTTP/1.1" 200 36450
+127.0.0.1 - - [05/Dec/2013:14:34:08 +0800] "GET /Lee/hdphp/Extend/Org/Jquery/jquery-1.8.2.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:34:08 +0800] "GET /Lee/hdphp/Extend/Org/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:34:08 +0800] "GET /Lee/hdphp/Extend/Org/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:34:08 +0800] "GET /Lee/APP/App/Admin/Tpl/Public/js/base.js HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:34:08 +0800] "GET /Lee/APP/App/Admin/Tpl/Public/js/index.js HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:34:08 +0800] "GET /Lee/APP/App/Admin/Tpl/Public/css/base.css HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:34:08 +0800] "GET /Lee/APP/App/Admin/Tpl/Public/css/index.css HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:34:08 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/uploadify.css HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:34:08 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/jquery.uploadify.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:34:08 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/hd_uploadify.js HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:34:08 +0800] "GET /Lee/hdphp/Extend/Org/Editor/Ueditor/ueditor.config.js HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:34:08 +0800] "GET /Lee/hdphp/Extend/Org/Editor/Ueditor/ueditor.all.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:34:08 +0800] "GET /Lee/upload/201312/53541386215155/53541386215155_220x220.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:34:08 +0800] "GET /Lee/upload/201312/64321386215156/64321386215156_220x220.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:34:08 +0800] "GET /Lee/hdphp/Extend/Org/Editor/Ueditor/themes/default/css/ueditor.css HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:34:08 +0800] "GET /Lee/hdphp/Extend/Org/Editor/Ueditor/lang/zh-cn/zh-cn.js HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:34:08 +0800] "GET /Lee/APP/App/Admin/Tpl/Public/images/uploadify-cancel.png HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:34:08 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/uploadify.swf?preventswfcaching=1386225248602 HTTP/1.1" 200 12675
+127.0.0.1 - - [05/Dec/2013:14:34:08 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/upload2.png HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:34:08 +0800] "GET /Lee/index.php/Admin/Goods/getAttr.html?cid=13 HTTP/1.1" 200 734
+127.0.0.1 - - [05/Dec/2013:14:34:09 +0800] "GET /Lee/hdphp/Extend/Org/Editor/Ueditor/themes/default/images/icons.png HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:34:09 +0800] "GET /Lee/hdphp/Extend/Org/Editor/Ueditor/themes/default/images/scale.png HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:34:09 +0800] "GET /Lee/hdphp/Extend/Org/Editor/Ueditor/third-party/codemirror/codemirror.js HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:34:09 +0800] "GET /Lee/hdphp/Extend/Org/Editor/Ueditor/third-party/codemirror/codemirror.css HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:34:09 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/ HTTP/1.1" 200 5905
+127.0.0.1 - - [05/Dec/2013:14:35:06 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/uploadify-cancel.png HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:35:06 +0800] "POST /Lee/index.php/Admin/Goods&m=hd_uploadify HTTP/1.1" 200 127
+127.0.0.1 - - [05/Dec/2013:14:35:06 +0800] "GET /Lee/upload/8371386225306.jpg HTTP/1.1" 200 100906
+127.0.0.1 - - [05/Dec/2013:14:35:19 +0800] "POST /Lee/index.php/Admin/Goods/delThumb.html HTTP/1.1" 200 15
+127.0.0.1 - - [05/Dec/2013:14:45:16 +0800] "GET /Lee/index.php/Admin/Goods/index.html HTTP/1.1" 200 14619
+127.0.0.1 - - [05/Dec/2013:14:45:16 +0800] "GET /Lee/APP/App/Admin/Tpl/Public/css/base.css HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:47:31 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/21 HTTP/1.1" 200 36334
+127.0.0.1 - - [05/Dec/2013:14:47:31 +0800] "GET /Lee/index.php/Admin/Goods/getAttr.html?cid=13 HTTP/1.1" 200 734
+127.0.0.1 - - [05/Dec/2013:14:47:32 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/uploadify.swf?preventswfcaching=1386226051717 HTTP/1.1" 200 12675
+127.0.0.1 - - [05/Dec/2013:14:47:32 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/ HTTP/1.1" 200 5905
+127.0.0.1 - - [05/Dec/2013:14:47:39 +0800] "POST /Lee/index.php/Admin/Goods/delThumb.html HTTP/1.1" 200 107
+127.0.0.1 - - [05/Dec/2013:14:48:58 +0800] "POST /Lee/index.php/Admin/Goods/delThumb.html HTTP/1.1" 200 72
+127.0.0.1 - - [05/Dec/2013:14:49:40 +0800] "POST /Lee/index.php/Admin/Goods/delThumb.html HTTP/1.1" 200 71
+127.0.0.1 - - [05/Dec/2013:14:54:23 +0800] "GET /Lee/index.php/Admin/Goods/index.html HTTP/1.1" 200 14619
+127.0.0.1 - - [05/Dec/2013:14:54:24 +0800] "GET /Lee/APP/App/Admin/Tpl/Public/css/base.css HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:54:25 +0800] "GET /Lee/index.php/Admin/Goods/add.html HTTP/1.1" 200 32861
+127.0.0.1 - - [05/Dec/2013:14:54:26 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/uploadify.swf?preventswfcaching=1386226466374 HTTP/1.1" 200 12675
+127.0.0.1 - - [05/Dec/2013:14:54:26 +0800] "GET /Lee/index.php/Admin/Goods/ HTTP/1.1" 200 14619
+127.0.0.1 - - [05/Dec/2013:14:54:29 +0800] "GET /Lee/index.php/Admin/Goods/getAttr.html?cid=12 HTTP/1.1" 200 734
+127.0.0.1 - - [05/Dec/2013:14:54:42 +0800] "POST /Lee/index.php/Admin/Goods&m=hd_uploadify HTTP/1.1" 200 129
+127.0.0.1 - - [05/Dec/2013:14:54:42 +0800] "GET /Lee/upload/45091386226482.jpg HTTP/1.1" 200 122460
+127.0.0.1 - - [05/Dec/2013:14:54:42 +0800] "POST /Lee/index.php/Admin/Goods&m=hd_uploadify HTTP/1.1" 200 129
+127.0.0.1 - - [05/Dec/2013:14:54:42 +0800] "GET /Lee/upload/49431386226482.jpg HTTP/1.1" 200 100906
+127.0.0.1 - - [05/Dec/2013:14:54:51 +0800] "POST /Lee/index.php/Admin/Goods/add.html HTTP/1.1" 200 36
+127.0.0.1 - - [05/Dec/2013:14:55:59 +0800] "GET /Lee/index.php/Admin/Goods/add.html HTTP/1.1" 200 32861
+127.0.0.1 - - [05/Dec/2013:14:56:00 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/uploadify.swf?preventswfcaching=1386226560126 HTTP/1.1" 200 12675
+127.0.0.1 - - [05/Dec/2013:14:56:00 +0800] "GET /Lee/index.php/Admin/Goods/ HTTP/1.1" 200 14619
+127.0.0.1 - - [05/Dec/2013:14:56:56 +0800] "GET /Lee/index.php/Admin/Goods/add.html HTTP/1.1" 200 32897
+127.0.0.1 - - [05/Dec/2013:14:56:57 +0800] "GET /Lee/APP/App/Admin/Tpl/Public/css/base.css HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:14:56:57 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/uploadify.swf?preventswfcaching=1386226617119 HTTP/1.1" 200 12675
+127.0.0.1 - - [05/Dec/2013:14:56:57 +0800] "GET /Lee/index.php/Admin/Goods/ HTTP/1.1" 200 13769
+127.0.0.1 - - [05/Dec/2013:14:57:04 +0800] "GET /Lee/index.php/Admin/Goods/getAttr.html?cid=12 HTTP/1.1" 200 734
+127.0.0.1 - - [05/Dec/2013:14:57:16 +0800] "POST /Lee/index.php/Admin/Goods&m=hd_uploadify HTTP/1.1" 200 129
+127.0.0.1 - - [05/Dec/2013:14:57:16 +0800] "GET /Lee/upload/18261386226636.jpg HTTP/1.1" 200 122460
+127.0.0.1 - - [05/Dec/2013:14:57:16 +0800] "POST /Lee/index.php/Admin/Goods&m=hd_uploadify HTTP/1.1" 200 129
+127.0.0.1 - - [05/Dec/2013:14:57:16 +0800] "GET /Lee/upload/34761386226636.jpg HTTP/1.1" 200 100906
+127.0.0.1 - - [05/Dec/2013:14:57:21 +0800] "POST /Lee/index.php/Admin/Goods/add.html HTTP/1.1" 200 2516
+127.0.0.1 - - [05/Dec/2013:14:57:23 +0800] "GET /Lee/index.php/Admin/Goods/index.html HTTP/1.1" 200 14216
+127.0.0.1 - - [05/Dec/2013:14:57:34 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/22 HTTP/1.1" 200 36376
+127.0.0.1 - - [05/Dec/2013:14:57:34 +0800] "GET /Lee/upload/201312/18261386226636/18261386226636_220x220.jpg HTTP/1.1" 200 4774
+127.0.0.1 - - [05/Dec/2013:14:57:34 +0800] "GET /Lee/upload/201312/34761386226636/34761386226636_220x220.jpg HTTP/1.1" 200 4256
+127.0.0.1 - - [05/Dec/2013:14:57:34 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/uploadify.swf?preventswfcaching=1386226654309 HTTP/1.1" 200 12675
+127.0.0.1 - - [05/Dec/2013:14:57:34 +0800] "GET /Lee/index.php/Admin/Goods/getAttr.html?cid=12 HTTP/1.1" 200 734
+127.0.0.1 - - [05/Dec/2013:14:57:35 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/ HTTP/1.1" 200 5905
+127.0.0.1 - - [05/Dec/2013:14:57:47 +0800] "POST /Lee/index.php/Admin/Goods&m=hd_uploadify HTTP/1.1" 200 129
+127.0.0.1 - - [05/Dec/2013:14:57:47 +0800] "GET /Lee/upload/52261386226667.jpg HTTP/1.1" 200 100906
+127.0.0.1 - - [05/Dec/2013:14:59:04 +0800] "POST /Lee/index.php/Admin/Goods/add.html HTTP/1.1" 200 2516
+127.0.0.1 - - [05/Dec/2013:14:59:06 +0800] "GET /Lee/index.php/Admin/Goods/index.html HTTP/1.1" 200 14663
+127.0.0.1 - - [05/Dec/2013:15:00:22 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/22 HTTP/1.1" 200 36384
+127.0.0.1 - - [05/Dec/2013:15:00:23 +0800] "GET /Lee/upload/201312/18261386226636/18261386226636_220x220.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:15:00:23 +0800] "GET /Lee/upload/201312/34761386226636/34761386226636_220x220.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:15:00:23 +0800] "GET /Lee/index.php/Admin/Goods/getAttr.html?cid=12 HTTP/1.1" 200 734
+127.0.0.1 - - [05/Dec/2013:15:00:23 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/uploadify.swf?preventswfcaching=1386226823230 HTTP/1.1" 200 12675
+127.0.0.1 - - [05/Dec/2013:15:00:23 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/ HTTP/1.1" 200 5905
+127.0.0.1 - - [05/Dec/2013:15:00:30 +0800] "POST /Lee/index.php/Admin/Goods&m=hd_uploadify HTTP/1.1" 200 129
+127.0.0.1 - - [05/Dec/2013:15:00:30 +0800] "GET /Lee/upload/24531386226830.jpg HTTP/1.1" 200 122460
+127.0.0.1 - - [05/Dec/2013:15:00:32 +0800] "POST /Lee/index.php/Admin/Goods/edit.html/gid/22 HTTP/1.1" 200 2516
+127.0.0.1 - - [05/Dec/2013:15:00:34 +0800] "GET /Lee/index.php/Admin/Goods/index.html HTTP/1.1" 200 14663
+127.0.0.1 - - [05/Dec/2013:15:00:36 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/22 HTTP/1.1" 200 36384
+127.0.0.1 - - [05/Dec/2013:15:00:36 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/uploadify.swf?preventswfcaching=1386226836553 HTTP/1.1" 200 12675
+127.0.0.1 - - [05/Dec/2013:15:00:36 +0800] "GET /Lee/index.php/Admin/Goods/getAttr.html?cid=12 HTTP/1.1" 200 734
+127.0.0.1 - - [05/Dec/2013:15:00:37 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/ HTTP/1.1" 200 5905
+127.0.0.1 - - [05/Dec/2013:15:01:13 +0800] "GET /Lee/index.php/Admin/Goods/add.html HTTP/1.1" 200 32897
+127.0.0.1 - - [05/Dec/2013:15:01:14 +0800] "GET /Lee/APP/App/Admin/Tpl/Public/css/base.css HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:15:01:14 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/uploadify.swf?preventswfcaching=1386226874180 HTTP/1.1" 200 12675
+127.0.0.1 - - [05/Dec/2013:15:01:14 +0800] "GET /Lee/index.php/Admin/Goods/ HTTP/1.1" 200 13769
+127.0.0.1 - - [05/Dec/2013:15:01:23 +0800] "GET /Lee/index.php/Admin/Goods/getAttr.html?cid=12 HTTP/1.1" 200 608
+127.0.0.1 - - [05/Dec/2013:15:01:28 +0800] "GET /Lee/index.php/Admin/Goods/getAttr.html?cid=13 HTTP/1.1" 200 608
+127.0.0.1 - - [05/Dec/2013:15:01:29 +0800] "GET /Lee/index.php/Admin/Goods/add.html HTTP/1.1" 200 32897
+127.0.0.1 - - [05/Dec/2013:15:01:30 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/uploadify.swf?preventswfcaching=1386226890063 HTTP/1.1" 200 12675
+127.0.0.1 - - [05/Dec/2013:15:01:30 +0800] "GET /Lee/index.php/Admin/Goods/ HTTP/1.1" 200 13769
+127.0.0.1 - - [05/Dec/2013:15:01:31 +0800] "GET /Lee/index.php/Admin/Goods/getAttr.html?cid=13 HTTP/1.1" 200 608
+127.0.0.1 - - [05/Dec/2013:15:29:26 +0800] "GET /Lee/index.php/Admin/Goods/add.html HTTP/1.1" 200 32897
+127.0.0.1 - - [05/Dec/2013:15:29:26 +0800] "GET /Lee/APP/App/Admin/Tpl/Public/css/base.css HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:15:29:26 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/uploadify.swf?preventswfcaching=1386228566561 HTTP/1.1" 200 12675
+127.0.0.1 - - [05/Dec/2013:15:29:26 +0800] "GET /Lee/index.php/Admin/Goods/ HTTP/1.1" 200 13769
+127.0.0.1 - - [05/Dec/2013:15:29:28 +0800] "GET /Lee/index.php/Admin/Goods/getAttr.html?cid=12 HTTP/1.1" 200 734
+127.0.0.1 - - [05/Dec/2013:15:32:53 +0800] "GET /Lee/index.php/Admin/Goods/add.html HTTP/1.1" 200 32897
+127.0.0.1 - - [05/Dec/2013:15:32:54 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/uploadify.swf?preventswfcaching=1386228774070 HTTP/1.1" 200 12675
+127.0.0.1 - - [05/Dec/2013:15:32:54 +0800] "GET /Lee/index.php/Admin/Goods/index.html HTTP/1.1" 200 13769
+127.0.0.1 - - [05/Dec/2013:15:32:55 +0800] "GET /Lee/index.php/Admin/Goods/add.html HTTP/1.1" 200 32897
+127.0.0.1 - - [05/Dec/2013:15:32:55 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/uploadify.swf?preventswfcaching=1386228775474 HTTP/1.1" 200 12675
+127.0.0.1 - - [05/Dec/2013:15:32:55 +0800] "GET /Lee/index.php/Admin/Goods/ HTTP/1.1" 200 13769
+127.0.0.1 - - [05/Dec/2013:15:33:03 +0800] "GET /Lee/index.php/Admin/Goods/getAttr.html?cid=12 HTTP/1.1" 200 734
+127.0.0.1 - - [05/Dec/2013:15:33:14 +0800] "POST /Lee/index.php/Admin/Goods&m=hd_uploadify HTTP/1.1" 200 129
+127.0.0.1 - - [05/Dec/2013:15:33:20 +0800] "GET /Lee/upload/80741386228800.jpg HTTP/1.1" 200 122460
+127.0.0.1 - - [05/Dec/2013:15:33:20 +0800] "POST /Lee/index.php/Admin/Goods&m=hd_uploadify HTTP/1.1" 200 129
+127.0.0.1 - - [05/Dec/2013:15:33:20 +0800] "GET /Lee/upload/44001386228800.jpg HTTP/1.1" 200 100906
+127.0.0.1 - - [05/Dec/2013:15:33:26 +0800] "POST /Lee/index.php/Admin/Goods/add.html HTTP/1.1" 200 2516
+127.0.0.1 - - [05/Dec/2013:15:33:29 +0800] "GET /Lee/index.php/Admin/Goods/index.html HTTP/1.1" 200 14216
+127.0.0.1 - - [05/Dec/2013:15:33:34 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/24 HTTP/1.1" 200 36379
+127.0.0.1 - - [05/Dec/2013:15:33:34 +0800] "GET /Lee/upload/201312/80741386228800/80741386228800_220x220.jpg HTTP/1.1" 200 4774
+127.0.0.1 - - [05/Dec/2013:15:33:34 +0800] "GET /Lee/upload/201312/44001386228800/44001386228800_220x220.jpg HTTP/1.1" 200 4256
+127.0.0.1 - - [05/Dec/2013:15:33:34 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/uploadify.swf?preventswfcaching=1386228814443 HTTP/1.1" 200 12675
+127.0.0.1 - - [05/Dec/2013:15:33:34 +0800] "GET /Lee/index.php/Admin/Goods/getAttr.html?cid=12 HTTP/1.1" 200 734
+127.0.0.1 - - [05/Dec/2013:15:33:35 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/ HTTP/1.1" 200 5905
+127.0.0.1 - - [05/Dec/2013:15:33:42 +0800] "POST /Lee/index.php/Admin/Goods&m=hd_uploadify HTTP/1.1" 200 129
+127.0.0.1 - - [05/Dec/2013:15:33:42 +0800] "GET /Lee/upload/87791386228822.jpg HTTP/1.1" 200 100906
+127.0.0.1 - - [05/Dec/2013:15:33:45 +0800] "POST /Lee/index.php/Admin/Goods/edit.html/gid/24 HTTP/1.1" 200 2516
+127.0.0.1 - - [05/Dec/2013:15:33:47 +0800] "GET /Lee/index.php/Admin/Goods/index.html HTTP/1.1" 200 14216
+127.0.0.1 - - [05/Dec/2013:15:33:49 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/24 HTTP/1.1" 200 36379
+127.0.0.1 - - [05/Dec/2013:15:33:49 +0800] "GET /Lee/upload/201312/80741386228800/80741386228800_220x220.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:15:33:49 +0800] "GET /Lee/upload/201312/44001386228800/44001386228800_220x220.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:15:33:49 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/uploadify.swf?preventswfcaching=1386228829263 HTTP/1.1" 200 12675
+127.0.0.1 - - [05/Dec/2013:15:33:49 +0800] "GET /Lee/index.php/Admin/Goods/getAttr.html?cid=12 HTTP/1.1" 200 734
+127.0.0.1 - - [05/Dec/2013:15:33:50 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/ HTTP/1.1" 200 5905
+127.0.0.1 - - [05/Dec/2013:15:35:28 +0800] "POST /Lee/index.php/Admin/Goods/edit.html/gid/24 HTTP/1.1" 200 619
+127.0.0.1 - - [05/Dec/2013:15:35:34 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/24 HTTP/1.1" 200 36379
+127.0.0.1 - - [05/Dec/2013:15:35:34 +0800] "GET /Lee/index.php/Admin/Goods/getAttr.html?cid=12 HTTP/1.1" 200 734
+127.0.0.1 - - [05/Dec/2013:15:35:35 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/uploadify.swf?preventswfcaching=1386228935036 HTTP/1.1" 200 12675
+127.0.0.1 - - [05/Dec/2013:15:35:35 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/ HTTP/1.1" 200 5905
+127.0.0.1 - - [05/Dec/2013:15:35:38 +0800] "POST /Lee/index.php/Admin/Goods&m=hd_uploadify HTTP/1.1" 200 129
+127.0.0.1 - - [05/Dec/2013:15:35:39 +0800] "GET /Lee/upload/52221386228939.jpg HTTP/1.1" 200 100906
+127.0.0.1 - - [05/Dec/2013:15:35:41 +0800] "POST /Lee/index.php/Admin/Goods/edit.html/gid/24 HTTP/1.1" 200 1033
+127.0.0.1 - - [05/Dec/2013:15:36:23 +0800] "POST /Lee/index.php/Admin/Goods/edit.html/gid/24 HTTP/1.1" 200 2516
+127.0.0.1 - - [05/Dec/2013:15:36:26 +0800] "GET /Lee/index.php/Admin/Goods/index.html HTTP/1.1" 200 14216
+127.0.0.1 - - [05/Dec/2013:15:37:59 +0800] "GET /Lee/index.php/Admin/Goods/add.html HTTP/1.1" 200 32897
+127.0.0.1 - - [05/Dec/2013:15:37:59 +0800] "GET /Lee/APP/App/Admin/Tpl/Public/css/base.css HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:15:37:59 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/uploadify.swf?preventswfcaching=1386229079736 HTTP/1.1" 200 12675
+127.0.0.1 - - [05/Dec/2013:15:38:00 +0800] "GET /Lee/index.php/Admin/Goods/ HTTP/1.1" 200 14216
+127.0.0.1 - - [05/Dec/2013:15:38:03 +0800] "GET /Lee/index.php/Admin/Goods/index.html HTTP/1.1" 200 14216
+127.0.0.1 - - [05/Dec/2013:15:38:04 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/24 HTTP/1.1" 200 36379
+127.0.0.1 - - [05/Dec/2013:15:38:04 +0800] "GET /Lee/upload/201312/80741386228800/80741386228800_220x220.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:15:38:04 +0800] "GET /Lee/upload/201312/44001386228800/44001386228800_220x220.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:15:38:04 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/uploadify.swf?preventswfcaching=1386229084853 HTTP/1.1" 200 12675
+127.0.0.1 - - [05/Dec/2013:15:38:04 +0800] "GET /Lee/index.php/Admin/Goods/getAttr.html?cid=12 HTTP/1.1" 200 734
+127.0.0.1 - - [05/Dec/2013:15:38:05 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/ HTTP/1.1" 200 5905
+127.0.0.1 - - [05/Dec/2013:15:38:08 +0800] "POST /Lee/index.php/Admin/Goods&m=hd_uploadify HTTP/1.1" 200 129
+127.0.0.1 - - [05/Dec/2013:15:38:08 +0800] "GET /Lee/upload/24551386229088.jpg HTTP/1.1" 200 100906
+127.0.0.1 - - [05/Dec/2013:15:38:12 +0800] "POST /Lee/index.php/Admin/Goods/edit.html/gid/24 HTTP/1.1" 200 2516
+127.0.0.1 - - [05/Dec/2013:15:38:14 +0800] "GET /Lee/index.php/Admin/Goods/index.html HTTP/1.1" 200 14216
+127.0.0.1 - - [05/Dec/2013:15:38:49 +0800] "GET /Lee/index.php/Admin/Goods/index.html HTTP/1.1" 200 14216
+127.0.0.1 - - [05/Dec/2013:15:39:24 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/24 HTTP/1.1" 200 36379
+127.0.0.1 - - [05/Dec/2013:15:39:24 +0800] "GET /Lee/upload/201312/80741386228800/80741386228800_220x220.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:15:39:24 +0800] "GET /Lee/upload/201312/44001386228800/44001386228800_220x220.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:15:39:24 +0800] "GET /Lee/index.php/Admin/Goods/getAttr.html?cid=12 HTTP/1.1" 200 734
+127.0.0.1 - - [05/Dec/2013:15:39:24 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/uploadify.swf?preventswfcaching=1386229164757 HTTP/1.1" 200 12675
+127.0.0.1 - - [05/Dec/2013:15:39:25 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/ HTTP/1.1" 200 5905
+127.0.0.1 - - [05/Dec/2013:15:40:06 +0800] "POST /Lee/index.php/Admin/Goods&m=hd_uploadify HTTP/1.1" 200 129
+127.0.0.1 - - [05/Dec/2013:15:40:06 +0800] "GET /Lee/upload/45211386229206.jpg HTTP/1.1" 200 100906
+127.0.0.1 - - [05/Dec/2013:15:40:08 +0800] "POST /Lee/index.php/Admin/Goods/edit.html/gid/24 HTTP/1.1" 200 16
+127.0.0.1 - - [05/Dec/2013:15:41:46 +0800] "GET /Lee/index.php/Admin/Goods/index.html HTTP/1.1" 200 14216
+127.0.0.1 - - [05/Dec/2013:15:41:48 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/24 HTTP/1.1" 200 36379
+127.0.0.1 - - [05/Dec/2013:15:41:48 +0800] "GET /Lee/upload/201312/80741386228800/80741386228800_220x220.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:15:41:48 +0800] "GET /Lee/upload/201312/44001386228800/44001386228800_220x220.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:15:41:48 +0800] "GET /Lee/index.php/Admin/Goods/getAttr.html?cid=12 HTTP/1.1" 200 734
+127.0.0.1 - - [05/Dec/2013:15:41:48 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/uploadify.swf?preventswfcaching=1386229308420 HTTP/1.1" 200 12675
+127.0.0.1 - - [05/Dec/2013:15:41:48 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/ HTTP/1.1" 200 5905
+127.0.0.1 - - [05/Dec/2013:15:41:54 +0800] "POST /Lee/index.php/Admin/Goods&m=hd_uploadify HTTP/1.1" 200 129
+127.0.0.1 - - [05/Dec/2013:15:41:54 +0800] "GET /Lee/upload/17031386229314.jpg HTTP/1.1" 200 122460
+127.0.0.1 - - [05/Dec/2013:15:41:56 +0800] "POST /Lee/index.php/Admin/Goods/edit.html/gid/24 HTTP/1.1" 200 2516
+127.0.0.1 - - [05/Dec/2013:15:41:59 +0800] "GET /Lee/index.php/Admin/Goods/index.html HTTP/1.1" 200 14216
+127.0.0.1 - - [05/Dec/2013:15:42:01 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/24 HTTP/1.1" 200 36891
+127.0.0.1 - - [05/Dec/2013:15:42:01 +0800] "GET /Lee/upload/201312/17031386229314/17031386229314_220x220.jpg HTTP/1.1" 200 4774
+127.0.0.1 - - [05/Dec/2013:15:42:01 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/uploadify.swf?preventswfcaching=1386229321337 HTTP/1.1" 200 12675
+127.0.0.1 - - [05/Dec/2013:15:42:01 +0800] "GET /Lee/index.php/Admin/Goods/getAttr.html?cid=12 HTTP/1.1" 200 734
+127.0.0.1 - - [05/Dec/2013:15:42:02 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/ HTTP/1.1" 200 5905
+127.0.0.1 - - [05/Dec/2013:15:42:58 +0800] "POST /Lee/index.php/Admin/Goods/delThumb.html HTTP/1.1" 200 15
+127.0.0.1 - - [05/Dec/2013:15:43:03 +0800] "POST /Lee/index.php/Admin/Goods/delThumb.html HTTP/1.1" 200 15
+127.0.0.1 - - [05/Dec/2013:15:43:07 +0800] "POST /Lee/index.php/Admin/Goods/delThumb.html HTTP/1.1" 200 15
+127.0.0.1 - - [05/Dec/2013:15:43:20 +0800] "GET /Lee/index.php/Admin/Goods/index.html HTTP/1.1" 200 14216
+127.0.0.1 - - [05/Dec/2013:15:45:27 +0800] "GET /Lee/index.php/Admin/Goods/add.html HTTP/1.1" 302 -
+127.0.0.1 - - [05/Dec/2013:15:45:27 +0800] "GET /Lee/index.php/Admin/Login/index.html HTTP/1.1" 200 13442
+127.0.0.1 - - [05/Dec/2013:15:45:27 +0800] "GET /Lee/index.php/Admin/Login/showCode HTTP/1.1" 200 3142
+127.0.0.1 - - [05/Dec/2013:15:45:29 +0800] "GET /Lee/index.php/Admin/Goods/index.html HTTP/1.1" 302 -
+127.0.0.1 - - [05/Dec/2013:15:45:29 +0800] "GET /Lee/index.php/Admin/Login/index.html HTTP/1.1" 200 13442
+127.0.0.1 - - [05/Dec/2013:15:45:29 +0800] "GET /Lee/index.php/Admin/Login/showCode HTTP/1.1" 200 2524
+127.0.0.1 - - [05/Dec/2013:15:45:32 +0800] "GET /Lee/index.php/Admin/Index/quit.html HTTP/1.1" 302 -
+127.0.0.1 - - [05/Dec/2013:15:45:32 +0800] "GET /Lee/index.php/Admin/Login/index.html HTTP/1.1" 200 13442
+127.0.0.1 - - [05/Dec/2013:15:45:32 +0800] "GET /Lee/index.php/Admin/Login/showCode HTTP/1.1" 200 3219
+127.0.0.1 - - [05/Dec/2013:15:45:38 +0800] "POST /Lee/index.php/Admin/Login/checkCode HTTP/1.1" 200 15
+127.0.0.1 - - [05/Dec/2013:15:45:38 +0800] "POST /Lee/index.php/Admin/Login/login HTTP/1.1" 200 2510
+127.0.0.1 - - [05/Dec/2013:15:45:40 +0800] "GET /Lee/index.php/Admin/Index/index.html HTTP/1.1" 200 14763
+127.0.0.1 - - [05/Dec/2013:15:45:41 +0800] "GET /Lee/APP/App/Admin/Tpl/Public/css/base.css HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:15:45:41 +0800] "GET /Lee/index.php/Admin/Index/welcome HTTP/1.1" 200 11825
+127.0.0.1 - - [05/Dec/2013:15:45:48 +0800] "GET /Lee/index.php/Admin/Goods/index.html HTTP/1.1" 200 14180
+127.0.0.1 - - [05/Dec/2013:15:46:19 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/24 HTTP/1.1" 200 35355
+127.0.0.1 - - [05/Dec/2013:15:46:20 +0800] "GET /Lee/APP/App/Admin/Tpl/Public/css/base.css HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:15:46:20 +0800] "GET /Lee/index.php/Admin/Goods/getAttr.html?cid=12 HTTP/1.1" 200 734
+127.0.0.1 - - [05/Dec/2013:15:46:20 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/uploadify.swf?preventswfcaching=1386229580218 HTTP/1.1" 200 12675
+127.0.0.1 - - [05/Dec/2013:15:46:20 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/ HTTP/1.1" 200 5905
+127.0.0.1 - - [05/Dec/2013:15:46:26 +0800] "POST /Lee/index.php/Admin/Goods&m=hd_uploadify HTTP/1.1" 200 129
+127.0.0.1 - - [05/Dec/2013:15:46:26 +0800] "GET /Lee/upload/36211386229586.jpg HTTP/1.1" 200 122460
+127.0.0.1 - - [05/Dec/2013:15:46:26 +0800] "POST /Lee/index.php/Admin/Goods&m=hd_uploadify HTTP/1.1" 200 127
+127.0.0.1 - - [05/Dec/2013:15:46:26 +0800] "GET /Lee/upload/8551386229586.jpg HTTP/1.1" 200 100906
+127.0.0.1 - - [05/Dec/2013:15:46:28 +0800] "POST /Lee/index.php/Admin/Goods/edit.html/gid/24 HTTP/1.1" 200 2516
+127.0.0.1 - - [05/Dec/2013:15:46:30 +0800] "GET /Lee/index.php/Admin/Goods/index.html HTTP/1.1" 200 14216
+127.0.0.1 - - [05/Dec/2013:15:46:39 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/24 HTTP/1.1" 200 36377
+127.0.0.1 - - [05/Dec/2013:15:46:39 +0800] "GET /Lee/upload/201312/36211386229586/36211386229586_220x220.jpg HTTP/1.1" 200 4774
+127.0.0.1 - - [05/Dec/2013:15:46:39 +0800] "GET /Lee/upload/201312/8551386229586/8551386229586_220x220.jpg HTTP/1.1" 200 4256
+127.0.0.1 - - [05/Dec/2013:15:46:39 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/uploadify.swf?preventswfcaching=1386229599484 HTTP/1.1" 200 12675
+127.0.0.1 - - [05/Dec/2013:15:46:39 +0800] "GET /Lee/index.php/Admin/Goods/getAttr.html?cid=12 HTTP/1.1" 200 734
+127.0.0.1 - - [05/Dec/2013:15:46:40 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/ HTTP/1.1" 200 5905
+127.0.0.1 - - [05/Dec/2013:15:46:43 +0800] "POST /Lee/index.php/Admin/Goods/delThumb.html HTTP/1.1" 200 15
+127.0.0.1 - - [05/Dec/2013:15:46:53 +0800] "POST /Lee/index.php/Admin/Goods/edit.html/gid/24 HTTP/1.1" 200 2516
+127.0.0.1 - - [05/Dec/2013:15:46:56 +0800] "GET /Lee/index.php/Admin/Goods/index.html HTTP/1.1" 200 14216
+127.0.0.1 - - [05/Dec/2013:15:46:58 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/24 HTTP/1.1" 200 35867
+127.0.0.1 - - [05/Dec/2013:15:46:58 +0800] "GET /Lee/upload/201312/36211386229586/36211386229586_220x220.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:15:46:58 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/uploadify.swf?preventswfcaching=1386229618501 HTTP/1.1" 200 12675
+127.0.0.1 - - [05/Dec/2013:15:46:58 +0800] "GET /Lee/index.php/Admin/Goods/getAttr.html?cid=12 HTTP/1.1" 200 734
+127.0.0.1 - - [05/Dec/2013:15:46:59 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/ HTTP/1.1" 200 5905
+127.0.0.1 - - [05/Dec/2013:15:47:06 +0800] "POST /Lee/index.php/Admin/Goods&m=hd_uploadify HTTP/1.1" 200 129
+127.0.0.1 - - [05/Dec/2013:15:47:06 +0800] "GET /Lee/upload/37021386229626.jpg HTTP/1.1" 200 100906
+127.0.0.1 - - [05/Dec/2013:15:47:08 +0800] "POST /Lee/index.php/Admin/Goods/edit.html/gid/24 HTTP/1.1" 200 2516
+127.0.0.1 - - [05/Dec/2013:15:47:11 +0800] "GET /Lee/index.php/Admin/Goods/index.html HTTP/1.1" 200 14216
+127.0.0.1 - - [05/Dec/2013:15:47:57 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/24 HTTP/1.1" 200 36379
+127.0.0.1 - - [05/Dec/2013:15:47:57 +0800] "GET /Lee/upload/201312/36211386229586/36211386229586_220x220.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:15:47:57 +0800] "GET /Lee/upload/201312/37021386229626/37021386229626_220x220.jpg HTTP/1.1" 200 4256
+127.0.0.1 - - [05/Dec/2013:15:47:57 +0800] "GET /Lee/index.php/Admin/Goods/getAttr.html?cid=12 HTTP/1.1" 200 734
+127.0.0.1 - - [05/Dec/2013:15:47:57 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/uploadify.swf?preventswfcaching=1386229677744 HTTP/1.1" 200 12675
+127.0.0.1 - - [05/Dec/2013:15:47:58 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/ HTTP/1.1" 200 5905
+127.0.0.1 - - [05/Dec/2013:15:48:18 +0800] "POST /Lee/index.php/Admin/Goods/edit.html/gid/24 HTTP/1.1" 200 2516
+127.0.0.1 - - [05/Dec/2013:15:48:21 +0800] "GET /Lee/index.php/Admin/Goods/index.html HTTP/1.1" 200 14216
+127.0.0.1 - - [05/Dec/2013:15:48:21 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/24 HTTP/1.1" 200 36399
+127.0.0.1 - - [05/Dec/2013:15:48:22 +0800] "GET /Lee/upload/201312/36211386229586/36211386229586_220x220.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:15:48:22 +0800] "GET /Lee/upload/201312/37021386229626/37021386229626_220x220.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:15:48:22 +0800] "GET /Lee/hdphp/Extend/Org/Uploadify/uploadify.swf?preventswfcaching=1386229702065 HTTP/1.1" 200 12675
+127.0.0.1 - - [05/Dec/2013:15:48:22 +0800] "GET /Lee/index.php/Admin/Goods/getAttr.html?cid=12 HTTP/1.1" 200 734
+127.0.0.1 - - [05/Dec/2013:15:48:22 +0800] "GET /Lee/index.php/Admin/Goods/edit.html/gid/ HTTP/1.1" 200 5905
+127.0.0.1 - - [05/Dec/2013:15:48:30 +0800] "GET /Lee/index.php/Admin/Goods/index.html HTTP/1.1" 200 14216
+127.0.0.1 - - [05/Dec/2013:15:57:28 +0800] "GET /Lee/index.php/Admin/Goods/index.html HTTP/1.1" 200 4342
+127.0.0.1 - - [05/Dec/2013:15:57:35 +0800] "GET /Lee/index.php/Admin/Goods/index.html HTTP/1.1" 200 14180
+127.0.0.1 - - [05/Dec/2013:15:57:35 +0800] "GET /Lee/APP/App/Admin/Tpl/Public/css/base.css HTTP/1.1" 304 -
+127.0.0.1 - - [05/Dec/2013:15:57:37 +0800] "GET /Lee/index.php/Admin/Goods/del.html/gid/24 HTTP/1.1" 200 548901
+127.0.0.1 - - [05/Dec/2013:15:58:14 +0800] "GET /Lee/index.php/Admin/Goods/index.html HTTP/1.1" 404 234
+127.0.0.1 - - [05/Dec/2013:15:58:15 +0800] "GET /Lee/index.php/Admin/Goods/index.html HTTP/1.1" 404 234
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    ˇÿˇ· Exif  II*            ˇÏ Ducky     5  ˇ·ªhttp://ns.adobe.com/xap/1.0/ <?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.0-c060 61.134777, 2010/02/12-17:32:00        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpRights:Marked="False" xmpMM:OriginalDocumentID="uuid:40AE1A96CF46E311A4F5A99497882BAE" xmpMM:DocumentID="xmp.did:04CDE387487911E3BDDA9ACB07105821" xmpMM:InstanceID="xmp.iid:04CDE386487911E3BDDA9ACB07105821" xmp:CreatorTool="Adobe Photoshop CS6 (Windows)"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:182ACF86485E11E39D139DAFD51480EA" stRef:documentID="xmp.did:182ACF87485E11E39D139DAFD51480EA"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>ˇÓ Adobe d¿   ˇ€ Ñ 		     $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ˇ¿ êË ˇƒ ’                          !1AQaqÅ"ë°2ì±—BRr#≥Tt¡bí≤“3s”î5U6·Ç¢S„&¬CcÉ£$4%'7Ò√Ñ§¥EuDV     !1AQaq"°±2R#Åë¡·Br3—b¢‚$4Çí≤Ò¬“ÚSÉDˇ⁄   ? ’ÀÅÌ`E(†®aP*ÑB®™PÅTLjnìÃ|aL3(ÅURà*ÄãÇ®`°ÖaBZ°Ä"·@C
+¬—pkKèÇëƒ∏íyïë(ãÑ¢)DÜî0U"(ÄÜ0à`S+ÖCD0®a
+¿ä  Q¢¬—CP0!ÅSÜ
+ò¬QC¶C¡D`E<Q0Õ≥ÃﬁN4Ùˇ ï2ìXf/%Ò ˚&ê»^üÌ?Yì⁄Áx0i*Â9=¨M‰ßï®}u2ºê„tÚªÂ8ëËˇ "ß,0E0QàãEPA@D(â(J	TAà•(àQà@¢"rAj®U™)T
+†U@™(ÄâÇ®`@™P*ÉçUÅ@@AQDAP*ä ®ajÜÆ-p#¡	åæ∂º9†èq·hãÑ¢.°Å™
+ÜEP¬Ñ(C
+(aêC T√Áö]GH‰>2§Àíµ√é™2*Ü®®JP¬äQC	D0¥E¡D0Q%¬Ä°Ü@!Ñ¢0Ñ!Ñ¢T00®a(ãÖ¢âÇàa(©Ö¢Ü©Ü$!Å`¢T
+ Qàò(Üà!Çà!¢J&SVà@¢	DàD¡DLà®¥D¬Q¢ à™ÄD	DbQ®(AP…%E¿U@A*ÅT
+†U@@A∆ÅPD
+†µ@@@™*®(E≈!aÛö$∆_P!√P5„
+°à∏Rà¢.0†!Ö¢P¬ÄÜàa√4ºÿ”Î?∞¶Y≈}2·Fx0&Wep!ÅCãÅAhãÇàa¡D0&L*¬!Ä¶LLò(Ü
+&LÇ.0&LÇ.D@@C¿ÄÄÇ—¿B¶®"°E	Dàa¿©Åa(Üà%0Q¢&Lò
+¢Ç"’TBPBQ®ÖPZ†ïAjÅT
+†ú—Q¿ä U™
+Ü0!ÅAq¢B¢à*	TU™
+ä(™ÄÜ∏PãÜQ»Êé ¯"L>ñ=Ø‰x¯èåf0 à©E2`¢¶ä2
+(ahÜ
+&WD…Ö;Àç≥¿æ¯¥IííGA}` ”¬†√ni∂=1÷◊©ﬂ◊Fàû^ûµã€Õ˛\∫RG wÆ•s=<G¢Œ]V∑ÄÒ>jeúW÷‚Fb(ãÇà
+.\a@Lò(Ü
+"·hÜ
+!Çâì	D0QC(Ü
+!Ñ¢(Ü
+!Ö“ô0ia`¢(Ü
+!Ñ¢(âÇà`¢(Üà@¢πLD(ÅD0Ñ!Ñ¢ Ü0S–Ü
+!Çà"¿ÅD
+"a(Ä™`¢	DLD(™%PDr⁄€…sp»cπ‰
+å´XôúCákuÇ,)¿S–π≠®gà€R›9Óë§∆⁄Êyï“ÍvM<∂rá¡}åëπ⁄¿“tÛ†Â√çU◊≤9beïoπ|2FËﬁX·Bﬁrƒƒ∆YƒÂä†ÄÜ@D¿Ü0U@@™PqèÆåaQDQ*ä*%
+ ¥AhãÅEZ!Çà™†\($é§W<wì«¥"M}N`AiØ©‡¢(ãÇà´EäãEí.æv¥P{‘ÂC¿"≈8∏#ûxÚÙrQ…¬Q`¢(Üâï¬—2`¢(Ü
+(∏Z!Çà`¢
+ãÄ»*d√>Ñ¢!.É”'ÂSôSû3åÒ8g!ìN≠'HL√(§±¢…âD
+)ï¡D…Çâì `¢(ÜàÖ(Äô0îLò(ô0QPZ!Ñ¢(ôAPC¬—âî¬QCDD!âì	D…Çâì
+	DLU
+UJB¬QP¡DàÖ0àUàìA˚h¡g}‘ü)æ‰UÛ<œ¿ª<FfeåΩ¨òb¯ö\. ˙ñ¬uf8ÍÎôèC—‚6˝¥XÈ_Ë2Æ·ÕÓ^c∫ZkhèMægC©ﬂôàèKœ›Ìñÿ⁄K{3@ö‡π¬£êÊW_LŒ€Ú«Ñ95ÏõŒ#¬ﬂ!c;ßíPºI°Úu¶±⁄Db0¯ÿ}‡B∆c
+≈DT
+†U@TDQLÇd
+¢*P¡T
+†¡«Ää "à*(†
+†U®*.@ETQE¬¢Å!h¢™
+	â§W+gxÊ',3<¡e9YâcÛ‘… ¢H˛ÿ|(∏ì©˚!ÏCñPœÛ>†ôX§∞7¸ñ”÷¶YE\nëÓ˘F£‚FQXD\™Dä.
+ ¥Ep†)ìD ‡E¿Ü€glœß„Ï£ﬁô⁄cØ ŒZóôÓ›€À€èt:û£ñÿáuπ∂Ωï¶66D ä2÷ÚÊBËvûæ˚wO7äˆ˚ŒÕú^C'º0ÙŸJé.>è/jÙ’ºÃƒ7{yiY¥¯:xü2ªÕ}/å¬Q\π0Q2a(àQàUpQD¡D0Q!Ñ¢(Ü
+!Ä ¥D¬Q-¡D0îD¬ÄÜJ"ÜL.î0L `¢&M(.îÑL!a(Ü
+"a(ÜàU0îD(ÜàÅA(à*àQ&¢`BaËv\2ﬁe#ÇüxÜ≤ G†÷Ws§¨⁄—ÜØ∫ıq£Tœ¶x6Hwè¡Oà-ŒWW[Ì{å.9∂¯¶C(´•IkÊxÄ}A|˚∏ı>vÎZ<?t;6Ÿ6úºûÊ∫¸„$∞∆EßC Â•ºÈÎ+—ˆæ€ÂÍ¨€È[å∂ù»§C∆ﬂaZ—Ô
+T”íÓﬂVzmãx<^‡lqﬁ˝úzCﬁßô„O`]∏âƒ9]b‚AU0!ÑAPJ(*J Qà•(1VXGÄä "à*(†  "à*(Ää®0®'«ç8{B1ËU™ä(™U(E B!TXÄ#%C+ÇàaT\•&âï¡D0°¢îBQ-\
+)EL(
+*—(	ì	D\+Z\‡M $©2±≠∑2q„±êZπ¬ê∞ªï\EJÒ√¢∂›ñøÆZ˝˝⁄fq≈◊ÓLÙô–œ‚£ÆèIÂUüm—fg“Ït#TÃœãƒﬁI#•!’ÁØU¢±åµ=œÆ∂ÀÚ«—áÃa‘«Hx5£·q‡ ]â∑èK.á|⁄—WmÓ
+!Ö¢&
+!Çäò¡D0îLò(¶SàP4†Q LC¬—T¬QE¿âÖSàB òT0Ö"&!D@Ü
+¶àÖ(ÇQ LC	DLTJ"`¢&¯ÓèÁn≥C·2∞H◊|í“·®b∆˘Âúx∫= /˜múìãÚ[óºpv;∑oá»∂+i5≈3zåâ’/`©&î ûKèFŸµs1≈†¸£ﬂv˜öo≤∏Ω'óõ˘m¸}~èW™:Rπû≠(™"#bÏL_—1&ÍF“k√®T…é¯VÁ°◊äf}/ﬂ˙ø3w$O
+|Ôg∑Òˇ M D¬+_}ê¯QºÅıï√›˙Ø+ßôâ¯≠√S”SöÒÍzΩ¡~,±í=§	•˚‹tÁ«Ö}ÅxﬁŸ“˘˚´_Gåˇ L6[∂rVg“°‘‡æâ0‡’÷ÃxÀÕÓ]√ºÔÖ¥w—õWr‚Ú8bËu¢'[€"g_<˙ZÓi_,ØïÊÆy.q>$ï™ô„ômhÇ0*`Q
+ Q@@@@AQPÑL`D
+* "1ÒVXGÄä"îCDQ@@@ETQP]ˆ'Ñ˙ÿÏÏNí‘÷Kib´ÕÉMy≈r“’ƒ≈ûwªÙ_õ]›%±≥¬’∑—µ]E€mpÒh˜Ào_q“41Ùß'48.)∆xx7Ω4ÏöDÏà≠˝8„(Ï(QT"®E(Ç—E¬—DE¬†
+ä ®∏(Üä.
+*∏Z(aB(ãQ ¢](∏(ãÄD0 ãÖCp˙Òéçó"W–Ë‚Û‰±qmŒ0Œë≈⁄Oï®†<<WJuÕ¢`ÍzöÎÆeÙ⁄›2Viw'qıy-^˝IÃ5:zòŸúæ[Î&‘π‘kG|8.ﬂK‘œá•‘Í∫\ÒáSq8xÈF)x˙¯s[jSôÒw∫èÀéiÒp.V≈h†QJ&(Ö…Ñ¢eà"(ÅDà
+ÇâÅSD¬QS&
+&A\±√)aññJ”≈	zA„ÊìâaØmoXµg0¡‡¢πàäÇÑ¬Q
+ÇA¬QP!DBâÑ(ÇP ˙GXÃf0˚sŸGe2rﬁPµé£cik@ .=TÂ¨CMÿ{Lt=%4ƒÒè|æπ[Ñ!Ùc≠’ÏP}ã‹5z8ì,µ◊6àu˙ùæ^π∑•µmn-ÑLâîk–÷Å»äË)hƒD>mª]Ê”3‚˜[>ƒEè7&ùK£P|òﬁ¯WçÔ˝Oôªí'Ö8~øKπ“kÂÆg∆]VÌæÎ‰≥c∂4ÒqÁ¥¸ª“Újù≥o·˝0Îuõ3h¨xCŒ‰/c±±öÚNÖÖﬁ≥N⁄Vˇ e‚µôóM¶vl≠#∆ZäÊÍ{ô§ñW:W∫ßô+œ⁄Û33/•Î◊¨V<!ƒ±gÑ@¢&àÇ¬°Å"T9mÏÓÓâmº2NE±œ•yWH<Ë≤≠&|!¡ª©◊Æ3{Ec€8s∑õ}4ÿ\∫º©¯˙Ω’îiºˇ ,∫÷ÓΩ,xÌ◊ˇ µ≈ÚÀê»¯•idåqkÿ‡Aii£Åà‚ƒÁ‚Ó“ıΩb’úƒ±FHÄÉ8¸QYq«ÅDd °PUETUQDP"®QUQb
+ †( !Qp®¢ãÇà´D\∏(ãÖ
+PäQE¿ãÖEp°!TeÅEULÆâì ®I‚C ‚O§Dz∑Dﬁ2˚≠föºù"ÑÒÂ‚~%‘ﬂØö8x¥˙4^-àcê»…s˜±¬1Â„˛E:ní)∆|^ä∫∏F_ÓπDL`C¬Q2ahôL"T@A(âÇà`¢0Q¢J QxÃ˛:|<vK7]\@ πc√÷p†. ìEœbkãGìøaÍ5uñﬂ”mÚÈ~6§«5fﬁüO•—+¬¥Ø5¡ó™àúqÒJ*LD¬–!Ñ¢e0pDB&
+"@¢¢#"†âÄ¢%êÅEQ(åJ!ÑD}òÀñ€J^x8ä‰5ÀÆ—YÀ©’Èùï«°Ë±˘n§åèUà◊√≈vm’r÷mÈh∂v¸Œ0ÿ∂[∆;KBÊ∫ççöX⁄˙( ˆØ/4Ï¥G¶ﬂ§∏˜tÒXô√ßè,€â$¶Øy.qÛ$‘Øs¶kZ≈c¬soMlÃºœp≤Ì„°uLß´-<>H>≤∫Ω~ﬁXo.ÙsÕmñèÙZ«≠¡D
+(òJ*`¢&äò(Ü
+!Ñ¢
+ÄÅ≈cÕÒ1"»D÷∑óVs6{YüÕ˘2F‚◊‚*Ê≤≠¶≥òóQ”k›I¶ ≈´Íó†õ∏ªÇlc¨ûÊ6W7Ld”J–p˘Ö€ûød◊ó“Û:ø&Ùtﬂb'ñ?ì˘s˙zdíI'â<M|WIÎ"1Ñ™Pœ˛AYq«Ç#$AB(†  "à*(ÄUTQ "¬®…QT"™å°@EàTQEÇà∏eD\@¢2¬®™I¢Æ&ÄZì‡1åœÉ‹ÌNŸ\]ËºÕá[€9∂¢≠ï„üæy∞›zñÀßË&‹o‡}˜Ûù5g_MÒ_Î,{æ∑ÕÔyΩ‘ÎS∏oYia∂ÜCl`†DU yñ’t˙ôè2b#É‘v*Ïéè\Ïûk⁄º”üÛ|_Ω’Æ›@E¿ä¥E(ãÖE(Üà∏(¢≠(Ç—E¿Iàòƒ©%‹…<œO4ààJÎàÑFX(ãÅ(©Çà`¢(àQà%(ÅD
+  Q!C¡DL" Ä©Ñ†C0"A(ÅDLC	EP¢&0îDêÑTBâÇàDB™–
+"ÇàÑ"QäQ…ƒ∞ªSEc1âc4âÒáaz„¶ÿﬁHh ÛÁ‰ö¢+l∫ª∫h¥pvπ∞ %‹ ©‚ª‘‹’nË3ËtY…/n‰∏}}„F◊¡ºÄ¯WeÊ÷ôñ„¶—ÈáÃ∞sàÅDAD¬†Ö`CKkkã©Ÿom¶ûC¶8ÿ	sè:ÕKZ+3<f"3-ü≥ªS∞eˆ‚y≈ÉMcgáLGÀ?µûÎ;éfbû∑KoU3¬æSÇŸY'Õgwã∑u‰á…,lËπ¨x:N∏¥˚‘ØNªe5«Ø–Í◊ÃâÃZp—ôÓí*àÁh¿T–z§”yòƒ¯∑{5„ãÂ\Ó1à`@A˝o®óxPä(¢
+Ää"™*®™ä"™ä°±Z‹Ã«æ(ûˆD{ö“CAÂR„æ ƒƒLÒïÀ–ÏÌõ‡Ü‚i.ª`sX[RK∏íxZéÎ›g•µb+ÕÃ„Ÿ≥óGoÀk|m·ê\CÕ≥§$É„U±ËwŒ˙scñ\î∂c2Êµ≈¡ˇ æH<H‡=Al´Æ#≈îÀ· [tg÷—FIS√ê>!pÏÆ',¢r¯Ë∏ŸaêEUEDÈvÓ‚€¯.é}˛D
+ıÁ{X÷(⁄'ÓπÆﬁçÙ◊«ó2Û€≥ı}tÕ'lk”ık9˛©ÕgÉµüªπg›Ï≠„˛Qœ‘1ÆyÓvÙCS´ˇ ˘ˇ OOeÁ›àˇ ¯û"I,éëÊØ{ãúOâq©?	ZŸôŒeÔiH≠b±·∆ä3√*"à∏(ãÖ¢.à•UhÅE¢(Ü
+!Ö¢)D
+!ÇàÖJ Q¶Q(ô0Q2`¢&
+!Çàa¡DBà%(ÅDLC¬*âDLC&
+"D¿ÜF%T¿â0""D(™àÄÇ*Ç"†ƒ¢ìU`D+œâU&2äEPD@AsX^›XﬁCwk!Ü‚≤F¯Ÿ,oHµf&Õbc‡‹VõÔne1ë≈}zln•ç¢„A{4øÖzr xT/+≥£€KÊµÊáNz=ë9àÃ:¶ÊuåÛ<]õ¡qÌ„í7µ≈Õn°∏,'›ˆÆÂt“‘å◊ñsüÒ√±ØLLFkÀ«Ù√≈«$eÜÑOU<V∆∂„òñ qh√¨ñ'E!cº<|«Å]Í⁄&3•´18ñ&"" "!˙ﬂP+.8
+* °PU@AB,™¢™(T ∞®≠õ≥2¯,EΩ§dîw) +Õux^/∫t=NÌ÷∂8G—èc≠zZff^¬√obqFÍ˜[ eŸêR-B¢æ⁄Ø;ªÆ€ªñìÂ˝Æï∑⁄Û¨qkÃ˛6l~RXR«˝Ú'Z±‹E°}?¥uîﬂ”÷’åLpü{g™ÒjÊ5÷Bﬁ‹Q«TûoÌ>eñ;7÷û3≈’›ﬂÀuFê¿j>
+í∫ª-38ófì0˘÷ƒU∞(¢
+äUhÄå¢ #(TU¢)E@A@ATUED¢¿Ü0!Å`¢(ÅD
+"@¢J QT&
+"`¢DD¢®""""DD¢H™!DJ#!TDBà"†Q0àaJ"%¿âÇä¶àÖ¬Q@¢&àòàò0 àÇÆ∆‚á§„¿¸í|=Éu=0Ê’CÈîk•∑–œg°∆Á5£S∏‚∞≠f”àá‰û~©87ë<ˇ ¯-é≠\æ3≈Ñ€.%Ãà™ÇÇ«ÿ>¢Æ(é* °PU@@™ä™(ä®†QY"≥ÜÕ é1©«¡XâŒ!]≠Æ6˚”ùnÁ†r≤π´Æ#≈]Écc[•≠¿ (πb}C›`e≈n/G(Áıq æNõçK8πæ5|ÁΩÙ€:N¶mØËÌtØ≤˙Øöc‚|ª⁄8∑ﬂü%àdå~>M:i‘ç≠·æ<æ¢œ∞u6È7∆≠ìŸ≤}ÎŸß·ôå¯µP5„ŒºkÊæÉ. .µl:-ø ».&¡Qê¢àAhå∞Q2 D9!∑ûy:pF˘§<ôKâı 	Q-hàÃœa‘›”ßâæ~ÆZm•5ß:Qºy+À.	Î4«çÈˇ ¥2ìin®ˇ å√ﬂ∞Å_z÷fÛ˘#…&≥ÍXÎtœÖÈˇ ¥>ãKªWËπÜHy6V9Ñ˚Rcz^∂å÷s5êU¢
+¢™(ä ¥@¢p¥EgºÛ»#∑çÛIÃ26ó8Òß… ûeﬁı¨fg˚„⁄ª¢JtÒ7œ’ƒi∂îˆ4’^Yı:Û÷Ëè”ˇ hWÌ=”zòãÊSâ’k0·ÁÚGírO®éªD¯^ü˚C·∏¥ªµ~ãòdÅÁàl¨s=N ©å;Ÿ[Fk9qQî@¢!D
+!Ö¢ÄÄôL`¢&ê[‹\H"Ç7Õ!‰»⁄^„ƒ yïXﬁı¨fg˚£⁄ª¢JtÒ7œ®®”m)·Ë˜Jº≥ÍuÁ≠”7ß˛–≤m=”ÒòãÊPTÍ∂òPyöµ9g‘G[¢|/O˝°◊‹Z][?ßs‡ìûâZÔÅ¿1áb∑≠£5òòq—FIDBä®âÇàòJ""D¬*òBÅTL"1òES&DDD@°0UT¬"ÇED
+*òJ"`¢"Qà%0ÜàòZ îW)Ñ¢(âÑ!Bc0Ñ"a(ÅD
+"`@@≠y»†˙Õ‡1xºp#œ“∫óÈÊmÏrM≥üÕ$èy´è≥¿.Õ)åD8ÊX¨ê@DEAAäÆ4@AB(†"™(Ää®™¢¬¢à™d°ú2∫)[#x9§Ú{R'éG~o≠Ñ-ïŒ£\*3Í¢ÌsƒFU◊\Ê&êiÄtòxWõè∑¡3üøwSlÃGŸ≥∑ò<Ù7n{æè)]qÊ«îAÁBµ}„†˚ŒãV#‚é5˜∫πœãq”1sí`∑dm˜µœtëÈ´ı3ÏáÚˇ ≥≠'õ3µ…ˆU◊<”3µß∑Æﬂ8LÏ∞0Ÿ'˚ı≥á-.Ê⁄˙
+˙weÎ˛Û”ƒœ”Ø8ûœ≥]πnZ„ÙÉ1nŸqQje¨49≥»j◊8µ‹ÿœçﬁ•µñø¨Í¶øgãn~ÑÏœÏ<oÙ8?Ä∞ÂáGÔª˛Ωˇ ˆìÙ+fˇ ac°¡¸ÂèQ˜›ˇ ^ˇ ˚K«˜wmmºv√Ωª±≈Ÿ⁄\±ˆ·ìAoR Èò◊i{®+ƒa∞Ì}^€o¨Z÷ò„Èˆ4@ÂÎ\eU™äˆ˚?¥;ãp±ów?¯^5Ù"Y⁄zØoúp>◊Qg]s-?[ﬁuiÕkÒYµ0]°Ÿ8ñÇ˚OŒ3érﬁ“@Ë®#ˇ Er∆∏áúﬂﬁzçìÙπc¸ø¶^∂⁄““÷>ï¨Q¡‰ÿö±°gÜ≤÷õqôs*Ç%Üô”ïçëáõ^B&c¡Ê3]ÆŸ9v∏Àèe¨Œ©ÎY˝·¿üÓÛö∞ùUüCc£ªı:º-òˆÒk=ŸŸ\Ê%èª√ºÂlŸWö⁄\¥?≈éõ«ˆ´Ü˙¶<ó¢¸¡Øf+≥‡üëØú◊5≈ÆÆi!Õ#ÿAïû0#!Pp¥E€hvèpgò€´≥˘Ø˙À+uJÒÃt‚®4#≈‘ˆÆZjô˜4}w~’¢fµ¯Ô˙z[C	⁄mïä`’f2¯À{IÍˇ ãˇ Es∆™√Àı=Û©€<-ÀÂ·¸^™ﬁ÷⁄⁄>ïºLÇ1…ë¥0chπ"=MMØ6„3ó-Q
+†¬h!ùù9òŸ#<⁄¨"”3öÌ~ À1⁄Ïg1≠&≤§.¯Èo∏O›4¨'Ug–⁄t˝Á©’<-ÕÊ‚÷õ≥≥9ºCuâq Ÿ45∫n1äáˇ õ«–∏-¶cå=7C˘áVÃWg¡oÙˇ Ä- êj	CÈ.¢é1¿¢(ÅD
+ Q∂⁄=¢œÁ[›·¸◊éº◊ ⁄Ãˆ˘«•‘ˆÆZjôÒh∫˛˝´LÚ◊„ø…˚[?	⁄çïä`.≥	«9Øi-Ëˇ ãˇ Es◊UaÂ∫û˘‘Ì˛nXˇ /‚ıVˆ÷ˆÒÙÌ‚d1éMç°£‡ …√–’M¶|e ™A«4œNf6Hœ6ºÎB-1‡ÛÆ÷Ï¨≥I}ÉlÁ “k/ºêOéÜ˝Ì«Óö∞ùUüCi”˜ûßWÖπø´ãYnﬁÃÁq}÷)ﬂùl[Ô∞R·£”®}?k.Íòz^áÛ≠ò≠˛|èAÉ¿é`Æ'†B¬QP!!!(àî@U
+1ë}∑66sq⁄…uéÈ·I˝GË:¥áp>uwıî’1Œ]ßÆ¶õDX«Ï—íí·∂v¬HÌ%í	f/``í"Cö	 û>Ñø[Æ±üŸ◊Í§DÃ¯∫±Ãqc¡k⁄K\◊ –ÇA]®òòÃ;q11òvmçÀ4LöUÏ∞»„í;y\◊5¿Ê∏4Ç+ézçq3õF}Ó	ÍuDœ≈\˚Ÿ˛ânøÏ{ˇ Ë≥c˜ù_Zøµ>ı´ÎWˆ¬~ânøÏ{ˇ Ë≥>Û´ÎWˆüz’ı´˚`˝›_ÿ˜ˇ —f˛
+}ÁW÷ØÌc=NØ≠_⁄¯oq˜ˆo≠Â¥ò∑Xév:7È&ÄÜºÕr÷ı¥|3ó%/[Fk10∆÷“ÊÓ·ñ÷±>{âñEKú„J–S¿mhàôô/x¨LÃvYÌ•ù¿Eo&Rﬂ¢€∂í¬u”≈è-4°™·”‘”dÃV|:z™môäœÉÆ∞±∫»^EehŒ≠Õ√ÑqGV∑Sè!Wê5Ô¨⁄eÀ{≈+6ô‡Ïsª?q``é|≠Ø—¢ô≈ëª©ïu+JD˜ë¿.=VΩì1Y‚‚”’kŸ3û.ùvÅØ≈ˆ£s‰Ò∞da}¥p\∆&åM#ö˝à$Àè5–Ÿ‹µ÷”YâÃ5€;ñ∫Zk9Ã<î±àÂ|aÌxcãu∞í◊P“†ê	w¢xDªÒ9à`™àDJ!Ö¢®ŸÆŸ[k?É∏π [Æ"∫tMpíFQù686åp…Z^Â÷l◊xäœ5√©ŸÆÒûzˇ ’.≈¸Iˇ ?7÷ªÒMˇ [‰áGÒﬁ¥˝RÏ_ƒ]ÛÛ_ƒ˜˝oíƒ7zﬁ;∫{/mÌÏ5≠Œ.›–O=»ÖÂ“>J∞∆˜G∏Å≈°l{oY≥mÊ-<0ÓÙ=]ÔyãO∑!n[|*∆aå√&QA@¢(P¡C‰Ü
+$1!ÑL
+¢ "0U∆  °QUETU@£%EPä"¬ÒQê6ª:^º|P§pßöÂtõGadN„€Œ¡‹ﬁImsc@◊Fxæ*Q†˙œø0tüuÍ<Í◊ö∑˘‹ö∑yvÊÂÊ{7v„ü¥««|◊ãyia#LìäÍ˘AéÒ¯º÷√ÚÔG‘ÎΩ∂Ï¯kÂ˝<ﬁØÆòô˙”?±Ó≠‡Ç⁄[€±∞¡C#çÄµ†PÅ¿ ¨Êie»ú '0ÒÏ?˘u¸•∑·ÿ±¥Ê’Ú+˙˛gÁÜÚˆ.ªèFBœ⁄ﬁ”√1g∑!˜OK;)Dcòífû˛M?'Óπr“ûôyNÎ›ÊŸ◊Æxzeµ¬‰ÀŒW!T»”›ÀÔF”).l=ëWÓÔãDÑ»>TpáÇ–x8ëœóßé˚1¬É∂ˆàΩb˚"x˙∆ÔFvﬂ%ÆËô∑∏Îá¢∆G$êæˆ¿~UE~¢ï€9‚Ìı›äºìmq∆=∂ÔkÄ Ç®#è>T+ôÂ0™Uˇ πÆµœC&S`Õ∞=¢çe»‰ª¿?…ﬂ£ãe"x√y⁄{≈¥O%¯Îˇ Â¢‰éH§tRµ—…ã«Ç◊B4"Ñ.≥›V—hââ‡à»EUAπ{e⁄∏-!á9üã©z$∂≥ê{±m|ç#¯œ!ˆ>æ]çZÒ∆^/º˜©ºŒΩS˙g◊¸AsÂÊQüÓ?x≤v˘IpªaÌÑZ∏«s§HÁH”G«^hﬁE‘ı.+Ìƒ‚ó∂vZÏ¨_dOC‰ÿ˝ÂŒCëéœsÃ€´	‹o…!'Äs∫a≠,Û·Uç7Nq.œ_˘~ºìmQ∆=÷#Œ´ù‰p  ◊˝»ÌçÆnr∏òƒ9¶oçºsJö;¿H|„„Ê∏∂kœÒo˚Gyù…≥éøõ¯4sŸ$otr4≤F◊µ¿Ç“p4"Ñ.≥ﬁVb—¡(äQ@°$ƒûû$¢77m;YîQf≥—	/ﬁñ÷í
+∂‡˘˙œGÿ˙˘v5Î«xÆÛﬁÊÛ:ıO√Èü_˘€1s<…ÌTTo∏Ω„ √ïó∂$l⁄∏«q|ZŸ˘£õ}Z⁄R¥„·È·æﬁ8á¶Ìùñ∑¨_dx˙;ºôòÚQŸnâ[uep‡∆›Ëcú@~Ä–Y«è
+Öç7OÑπ˚áÂ˙ÚMµGÙ7H‚ª$®5◊rª]oôäLÆ&√ògΩ,M˜YrPì»¯¯˘Æö‚x«ã⁄;ÃÈò¶…Õ?˘˛ ˆ>7πí4µÌ%ÆkÅhZA‚(WYÓ"bb&%Q ™èg€’Ñ€“d$ Ã`m√b«…R¬Ú~@4•Vª∏t◊ŸÀÜóªÙ∑€ÂèΩ«Îsb~:ˇ òõ¯Y¯nÔW —~ª‘~∑6'„œ˘âøÄüÜÓı|ß·˚ΩGÎsa˛<ˇ òõ¯	¯nÔW ~ª‘Í∑_s∂~Cm‰,¨Ó›%’ƒ.é&em\yÁ4 π˙nﬂ∂ª+iénõ£€Mï¥«Ñºo≠-Øwn>ﬁÓ&Oo+û$äFá1¿DÚ54‘!m:€MuZbx∑˝}Ì-h·?≈¥3ÕÌÜﬁí(≤ˆñvœù•—¢:MA¥˝Í7ÅBVìOﬁ6DÕfgıºÊ≠ΩN»¯miˇ …’˛ìvOÌ,ˇ †À¸ Á˚øYÎü˝øãóó´ı€ˇ o‚ÙªC)≥o‡∏n◊È¢sMÀ`ÖQŒÈ!Ïéµ]>ß^⁄ÃyéüQbcÃŒ_õ„∑ò+ÎÀ/§≤ ÏJÁ^2;i∏Õ_yŒtqI'ö‰éì~ ƒ‚f=aút˚∂DOèÎkûÊfˆvR‚ ]∂btŒu√Ôü/ÅŒsÃeéy{#÷I[~ÉV⁄D∆œn{llÆkl¸~F\oo¨o†áÈ3[„mú»”≠›&Q†–Û+K≤ú€ÌYû““Ó¨[}¢gá4¸ÓìÙ˜~ˇ ˇ ?Œª˘•ÿ˚ûüˇ ©Oªj˙Óﬂ+öﬂ8˚O§∑k|KöﬁÖù‘ØîjØl¡AÎ\ıi¥„öcﬂÓp◊^ªN9¶?WÒqmù›∏≤Yqañ¡?·íXÊíBÌEé`“°æYoÈµ÷º’ø4ÂvÈ≠kö€ôØª–„˙e˙G˛≤UµÌ_⁄ü{o⁄g‡«µÿ`{Qπ-ﬂeò∞»€√8‹ƒHìÜ°™é P‘≈ªπkòöZ¨7w-vâ•´8{≠ÁÄ…Ó'Ê»ôj◊K•ÚK;§=7∑èﬁZ∆É_€ÏZŒóuuﬂör’t€£U˘ö´Éü‹ªLÚ2imÆ`‘¯Î§ıŸE*<÷ÛnÔ3ßõDpòo∂ÓçΩ4€áØÔ©ˇ ¡±¥Ò∫w‡ ◊ˆèßosY⁄ÁÌ%©˝Ë›Ê…€2Ó<Ù@¢∆D∑r
+ÄÿZF°Q‚Ôí[´Í#U&ﬁüC´’ı™ì>üCze≥{wPe.`≥Üfπë≈) 9≠ yÄ
+ÛılºÃ÷&eÂ©KZsÛˇ ú˚=‡0√’?¿]æN´¸ˇ +µû£◊î¸ÈŸˇ ,7Ã√¸Ú˙ØÛ¸©û£◊ïˆÂ0<ÌÀºÖ∂7—6r\CpÀh@”“/lçpoj∏µÓ€ÊEf÷Œ}l)‘mãDM≠„ÎhùMú◊™z∫Œc*ä ‹èx¸¡|œµª‘O›F¡˚Œ˜à˚Jœ±†Ó—ˆëÓl5®jƒ◊æ≈øôÒç$T›8ÅÊt'ŸU∏ÏøNﬁÊ√∂FvKRΩ–°!
+∞òbB1òEX  " "·C|‘0i´@Ä™!™&∑…TòBDò`´à@@
+*¢™(Ää®™ä™(UFB°úQI,çä&:I^‡÷1†íÁ@–I©*,ÃDf|ÌèowΩÒ˚∆ÍûsFa‘È∫`©àúÂ”›÷Ëƒ≈≠WÖÏ.Âπp~VÊl&Ñ±§œ/§QÑ3˝5À;„––ÏÎ´F2ŸõC∂õgk;Èå}Õ˘nó]‹:Æß2¡F7‡Ø•pÏº_—·.éﬁ™˜·>U≠9›láösò]A^s¥Ê0Ò=Í?˘wê˛R€ÏH≥c⁄£˛E_Ã¸Úﬁ^≈Ê6fv\yú≥≥7Ã◊é∆8t⁄EDó)†˙#Òˆ$OèΩıæ]<∫œ≈h˘„Zœô„∫˝*ÛMcÕ9Ã:MÒ∏?Gˆ¶G(◊<1€‘Tu§"8™Ì‹ôœ“hÛvVØÃá8ôK§y.súI$ìRI<I™‚ô}M""ä9ﬂ°˚I∏óŸñ¬gó‹ÿ8ŸÃO3”°åÒ‚~ˆÊÒ\µøÄÔ=7ï‘LDp∑”ıΩÜ†≤Êjj	Ã`÷ú∆ÉΩª5ë<nã&Qí9∞‰ﬁZèª˛”Óªÿ∏Ô«ã’˛_ÎÁ˚6üÈˇ ´\oX"™+avsf≥-îvn˘ö¨1Œªîó{#WÆã:Dg2Ûøò;ÑÎßóY¯≠È˛-·®.ngà¡®'1ÉPSò√¢ﬂõÄ‡vñG%”q];r9âe=(›OCùTõpv∫.üÕ€Z˚_ö"i°s™\ÍíI©$Û$ï◊ô}/M"!»£õ–Ω¨œ?/≥≠]3µ‹Ÿìg3â©&:t…'ƒ∞µv)~ú˜Æñ5u6àé¯ûØW•eÃ’`‘ú∆IÃa®{’≥ô≠‹÷L§s8Gêch y†éj~€‰ª”E≈≤"x√◊˛\Ó˝õOÙˇ ÉW.7≠(¶AƒÏÓÕfO"ÏÂÛ5Ycﬁn«\R°ﬁûò„Î¢‰§qÃºﬂÊ·Â” ¨¸Vé>Ô‚›uüô·µjsqÃM8ÅÃïX¥zYV˙œIÅŸŸÉ[rÿ˙VﬁbYON7π.’ÏRo√Éµ—ÙÒ∑uj¸€(⁄üîxíxíJÎÃæì¶ëŒä9p˝€Î≥;6ŒI_™‚“∂sgT\IÛte•s“¸8Ô/ì‘Z#¬x˛◊™®ÛYs5ò*<”ò¡´“Ø1ÜõÔ^Õe¨Ì‹∂,”√ÑwÌh†üë5€Úwß÷∏o3òzÔÀ›¬gÏmˇ è¯5Ç„z°
+$∂üffª≥ÜÁÛ£'çíÜ	†x•zÇ¥™‘€∫ƒL«/ –lÔqöÕ=>ø‡Â˝FÀ˝®œËÁ˘≈?ˇ / ‚¸nøSÂ˛	˙åó˚Uü—œÛâ¯º}_î¸nøSÂ˛Í._ÌVG?Œ'‚Òı~SÒ∫˝Oó¯®…µY˝ˇ 8üåG’˘O∆Îı>_‡ÍˆŒ	ÿ>ÍZ‚:øH}´â2Å†v¶_íI•ó>˝ﬁgM6«è¯ª=OQzIøáˇ Ãÿ9´‹≠æÓ∂ãkÌÃò˘úÊM7E°çö*ªPdújÂ©’JŒ©õN#ôÁı÷≥IõN#.OŒ{˜˚œ˙søòSÀ”ıßˇ _‚úöæ¥˛œ‚˘∞YLúª÷ˆ”+mù€Ò÷œlPÀ◊kô”ZÀc„YπQg∑]cLMg1Õ?496“#TM~è4˛Á5¶’∆„≥ô›≈êÈ∫;ÊÅ˜Œ-é›±7ØØWyÌ5Ùç∫ãZî•}-æ÷•iÜçÃ]cÆÚ˜wÎagd˘]–Öµ˜YZ7Å‰M+OÈt÷—HãNeÍ:Xò§sx∑dè∏è∂“[4>ÂòÀWB”…œ∆Zﬁ~%yÃGﬁ&'√ö^kdGﬁ-üØ?9¥Ó{ãy8üp√iab"0ôﬁH· GÜ |¯ßS]Ù&fS®Æö§ÃÀπ ª/sn0]⁄«súŸp«L¬@˘«#K>Ç∫˙˘"~8ó^ú±Ù¢pÛõvÁ~ÀªÂ¥ÇX-¶Ë\Z4ÙûÁ:.Àù‡ﬁFÖv˜◊Oïùs9œ•ŸŸ]qØ4óáÔG˜Œ?»b¸$´e⁄øµ>ˆ”¥}	|∂}œﬂçXXÀÙµêC`cûh–(I&ã;ˆ˝<m0Àom◊ô∑°∏13‰±˚x]Ó[ñ:Ó8›=‰çhc#(∞Û“¥≠»≠Øçq√-‚&ÿØÉOaÛnœwNﬂ/£C.ØcÈ≥ƒF¿#åNÜ
+ØA≥Wó”M}Pﬁy\ù5£ÿˆı˛¶∆˛TÔ¡ïØÏˇ NﬁÁKµˇ rZëoﬁçº{IaäÉiEwi∆‚ÌŒ˙[›M]F8¥3áÿÅÚ}kÕw+⁄v‚|#¡Ê{ïÌ;f'¬<^Ó€˚
+Íx≤£¶ŸËE%≈Ã∞∑Ö]•≠låoƒ∏˙m€´öÎ˘ù}vG
+:õùŸÃç¿µ±m≠’√Å"(Ø&{àÕ’\˜Í∫∫∆mòèÈ˛ku=Ec3·Óx˛ÏmMΩ∑Á∆«âµ˙(∫l∆Q‘íMEÜ0ﬂ„\˙SWÇÔˆﬁßfŒi¥Áám›mú‹ÚÿNˇ “SË¿?°≠Wˇ Â˝œˇ f≤—ˇ "Ø˜¥,c‹o©zâz™«TQ€Ïlï≈d£ß)ÿÍ˘’áá≤ãœ˜ò¯Î>∆áª««_sd-3R ’˝¯ëÇﬂ}˜I;Äß0÷∞_Ap[æÀõOπ≥ÌqÒœπ™÷˘Ë´$"K´	J#P¬ÄDAU@@Dp¨ú QY"à¢
+äFJ¢®EUEZ"‡∞Ó6aˇ |0~åç°ˇ Øb¬ÛäÃ∏:®˚+ˇ L¸œ‘]EØùœ u=)ÁßP˘ßörùEóöò]j∆”µcaÖ÷¨lL<_zˇ óó„ŒK√∆πuﬂ3Ôˆ∏˚z˛øô˘ıºΩãôÌ„¡ì˜π¨cKû‚÷¥I&Ä 8íJí≥1ô~õŸÿ8ˆ˛‹≤≈∞$Qá\„3˝ÈM|}ÔâugwÇÎ7NÌ∂øµ‹uÕu∞∫”ÕL’Û5ß≤F=ªaèk√MÂ◊QÕØ2\>ÈÌ\∫Ìú∑ìVvÃ˙°¶E»ˆë‡…6ßa2.m∆S]ÓΩë\±ßÕ§±‰~È´ãe˘bgÛ¨≈/˙õs™∏ºÁóÂ:©ÁßQ_8Â|πK+l¶6„t›V˜q∫<¿x•Gë	Á3’i•¢’Òâ~d»Xœé»\ÿ\
+Oi+·ƒ±ƒTWèp\—1å√È=>ËŸH¥xKÖW:«‰ë±∆ûÚ÷ÅRI4 IIú13/“ªSoŸ‚ŸMPF:Æe+ΩÈ]„ˆEpyœöıªÁ~€^}2Ì∫âÁ:‹ßQ<”îÍ'örµü~≤:0XÏ{]CurÈú¶¶¬ |¯ ’ÀKÛ7ùÉNvÕΩP‘ pUÓ¢1ë[O±5Ÿ[}⁄Ep¡‰As}µj∆÷√…˛f”˝<aµ∫ÖaÁ<ß)‘WÕ9N¢yß+‰Àÿ[eqó8ÎëX.„tOÛÖ5HÊŒÜzv[]‚ıÒâ~gΩ≤û∆ˆ{+ÅIÌd|“ø)é-u+‡H\ë<2˙vç±≤ëhòq#ùîQI4ÃÜ&ó…#É—Ã∏êG¨§Œ⁄b"fgÉÙûŸƒCÉ¡Y‚„ß˝û0$p˚)Ω+ΩÆ%q∆Ë|«¨ﬂ;∂⁄ÛÈói‘O9÷Â:âÁ©‘WÕ9Z«øy"‹F3“G“Æ;ÄØ4–”¬≥,È|Âø¸øß;-oT5•^‚#¥Aµ{ëpLsà“W1∑∆ßS$<˝XÕπ^KÛ6òÕ/È„´≠cÊºÆiÊò5ßöaÒfÒ∂Ÿ|M÷2‰V∏Ãf¢¥'‰∏zZxÑÛ\öomwã◊∆%˘íÓ“{;πÏÓõãY†rcãM*
+Ö…üKÈövF E£¬\H‰Bâ.˝ù«ﬂPD»-Ú"8bhc`Ä–4P
+òâ+´=ôôôØ÷‘ÏÌ:f”1_ñ[C∂yLÓWn∫ˇ 5qÙô•∏xÖ⁄œΩ05†R6∞|9iz˝t¶ŒZCœw5’≥ñæßäì∏{∫]Ï|⁄qc%ÙV√“Ñ÷8äöÃe¸[È[ËuFûièãó˜64Ì‘ù|qÂœ»˜=…Ã‰€Z[ÏdﬂGªl±1≤icË‡§çp‚≥°’[Ïä⁄85]öÏŸ∑ÉU˛≥ªÖ˝®?£€4∑üáË˙ø,Ω·:˝_;”v¢◊/ö‹óª´,Û4ååB&,k5 Z÷poπhxxÆóqµ)Æ5÷Â”Æ5UË≠2LªÓÂ›ºn‘€GA‡rtÒJx˙û’‘∂πéñ&}7˝ŒÖ©éö'◊‹˚Ÿ∑7wGÁSõëÿ¢˜?Û^É£Iahn≠T‡NØí∏ß~ø/óì‚˙Œ/6úúºø≠ë€óroœ“ªYkìm-‚È\˜;W⁄ÅVüJyÒy1«9XﬂO&=9eº9,˝ÖµÖù√ ¥}ƒo»5’¨∂‡‘±Æ ¯¯x˘©“ÓÆªM¶8˙=Ïz}µ§ÃÃqÙ<?{#√€M`»-£fNËæYßå∏∆¿¿•uÃ˝™Ÿvôº≈≥?6Ωüe≥13<Økaän_∑∂X«»amﬁ2⁄##@qmag x-uˆM7Õ±·ikwﬁkæ÷èØ?;ímøûv\Yß¿cåD˚∆@√¿‡∑?ÅßàÙ©©œ6ö˛ØCèÃØ77+œ·˚OsÜº7∏Ï˝’Ω√çdpç§IƒöJ◊:è‚~…v∂˜ΩymH√±~∂/\MaÍ„≈_ºõﬁ£`∑}∏µdz#/{öÁLjÁö—î]Ÿ^I¨G•’ÁéYå5Gx‚ñmÒQ4…,∂p≤64\„$Å†ƒ‘ïΩÌs¶g—ñÔ¥ÃE&g¡Ï;u€àlnS*÷…óp=6WSm¡≈‰sw∞-]◊NœÜøGÁt˙˛øÕ¯kÙ~w®œY‚om·¥ π¢“iÿﬁì›FLY˘Wà≠<¬Èjµ´9ØéÍZbsw€€-∑ªŸtÌmå˜¨ç∂í∏ıZÓ&ëìRˆÒ‚“Ωu∂Íµmp⁄”ÆùömKG9˚Î˝Mç¸©ﬂÉ+œÙÌÓqˆøÓKSt•Èut;•´GRûÓ™WMyVã}òÙΩc8œ™ÌŒc$Ãˆ3…KqÚ^˝&XáŸ<FZ5(8.è]™≥K^céÓ„¢≥Iæ8·≥˚É≤Ê›ñ6∂±\2◊Ë”Kû“‡Í¥∂Ä<÷ó¢Í„M¶f2“tΩDjôúe”læ’\ÌºÙyI/c∏dlëÜ61Õ'X-ØyUv:Æ„i5àvzÆ∂ª)À√ãª€g;õ∫≈;h˚∂€∂q)aoª¨«¶∫àÚYvŒ¢ö‚‹”ÖÌªÈÆgöpÔ˜$€[ªY)—±f⁄Ä‘∫A†ûu<WDÛu1ıùZ[õtOÆÕ¡ÓèRı2ıïÜH»Aµ;-mÚ“ön˙◊û±(•=áº«˛∂ãª«œ±≥ñëßjé¸∏ulÒhªw¢á¢‘[ÓÀ/>Ôﬁ⁄ˆØ•-d∑mÚIG*âBUa0PD(ÇJ!T
+îTJ†µD*ÄàäÇÅkn˚´òm£†íw∂6 sàh. Jîµ¢±3.ΩÌYôr‰qÓ∞∫u≥Êéi¡ÊÁ5ßÌIs[≈cÆ¸Òòé5Ïã◊1*‰r*,*(¢à*(U
+*¢™,*äU™]∂Œ·ª∞øˇ B”Ã\[ß¥˚]Oˆ≠˝3Û?LMuô&{cås{‹¨öÁ„dœèÂy¨øu6F(&Eó3
+Åüﬂ…#ò‘œpúÂ⁄◊£eº"\ÙËˆ[–◊˚ãø9k†Ë6˝£lcp ]\RIπpsc„iÈ‘ª⁄˙(é6ñ«OjèÊñœŸ◊WªKuy#ß∫û›ØñGRÆq‚O–›hãÃGÜZæß\We¢<Êµå]¡Ö‘≥ã&J€¢æ>$W/ﬁ7Íÿˇ wo¯h÷]&È∂»Àa€£™–ç=ãlˆQ‡Ù›µ≈ñÛ«ƒˆÍÜ˝*O@Ñkm|Í˝!pu;9i2Èw-ºö->ô‡˝‘Zè1„9@ıîl0∫÷Qt√-K(∫a¶˚˘tôƒ⁄Tçºí”Ö@ï·µßß§ª˝4Ê&^ã±WÖß⁄÷Î∞Ù‡Bﬂ≥w]Ê÷VüI∂ö*y”L¥Á«‰.ØW8¶Zé˜LËœ™[«®µ~k»rùDÛNS™ûi ΩTÛNVêÔ0Znˇ •∞}Ô%%'˛r?Ω<ÍkJŸÙõ9©èS◊vŸ’5üÂóã¢Ï∑œK€lX»Ô<Cl„u%|°ô√«ÔöWQ~ZLµΩ€w'Oo\˝≠˝‘Zø9·9N®WÕ9N†ÛO4Â:âÁ≠=ﬂ+±&{i„≥Ê˘Ÿ˘Ka“Nk2Ùˇ óµ‚->÷ø≤ıKD€≥óﬁYÀØk,È2O¯ãØ‘Œ+ükG˘Çú›?∫–›]@µ˛k≈rÇDÛNS®ûq uŒ9ZGªò¡gªﬂr∆“,å,ûæ€Xûß‹ˆ≠áM≥öØi˘w6ûYÒ¨ºrÏ7œO€,co˜çû∞VÖ◊OØ1|ÉÛÖ´á}˘i2’wùﬁ_MoÛp˝?S|uªŒx.UÍzSŒNS©ÈO8Â:ûîÛéVúÔÖÁWq„Ì®Ç‘Àœ∆YÁˇ 6ª˝,Ê≥>◊™¸ΩØµΩØªPQT{éÃ\Ùwk„≠ˆí2ûd9è<¿j‡Í'ÀE˘Üô—Í≥uj]?1‚∞jWÃ0kNs≤ßòa¢ªªå;ŒYòè#w#»8V'ÅÌèWµwt[öØiÿwsiÂüÂóé\ÕÿQ%ÿm˝øëœdYcd¬\‚íöËçï‚˜ü ˝ı◊Yµù~ß©¶öM≠-◊ê∏∞Ÿ€AÔéÇt! %•<^Û≈y V€∂ÒÒ≥≈«6˝πüKHmóH˝≈éíB]$ó∞=ƒ¯π“¥í}dØKæ#À¥GÜ∫Ùà—hè´?3m˜|–ôÈ«ÔÙ¿ZŸ˝Ë˜<øm˛Ù<èkˆÜ+=gëì)V&∫(‡{\ÊπÆ£ù!im]˛·‘€]´û-«uÎ/™’‰û.ﬂf€ﬁ‚7ıˆﬁƒ‹I6—ÇK¶œÔQŒ`-ÈñÈ⁄ﬂOHu˙´V˙k{}9t∫Õï€”◊e£Ì=è∂Ôcl¨ÜÚπ∂öf∫öŸ◊◊l3I§:YCZE ü{ÜØ%«^ØuuDƒ˚juõi™1<3áMc.⁄Ÿ]»óÀVEcq,éy*˜¡#⁄¶»ÚHc…£ób—≥~à∂x¸ÓƒÎæ˛üö&y¢YÓã˙`¸N‘ +‹Û^Ã≠§U,cö”!ï≈†Ë/ ÍßΩ˚•:{˝ó6 Ê)Ù\}<ƒÍÊŸ\≈~ãæÌÂñËƒ∂L6zÂÆmªO–b <æ–≈8uKH\⁄∂°uzÎkºÛ“=Ó≤u€ßß≈‡∑v‹‹7›≈eéJW\>˛F6“p o—Kè…o!”µÆ∂ù6˝u—6¨}ù¥Ë∂R∫fÒ¸±ÚΩûsim˚∆Æobm˝«—∆=óRà]#sûx;®›4%ﬁ+]ß©Ω©iòéú5îÍ/z⁄f#18uœ∞∂€L≈\‚ù<N|Ó2≤K´ôY èK¥<K+∏.«Ai€Õ˘°Õ–}¨ÕmèT;}·∫vµ˛»cˇ 8˝{®õ5ã-‹zÌïú"„¶†±’‡∫˝7O≤ª±Àúx∏5t˜¶‹c8yÌª≤7 π∆ﬂÊo/npó—2gõ{âË]#Cÿ€

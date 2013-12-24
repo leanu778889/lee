@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>{$header.webname}</title>
+<jquery/>
+<link href="__PUBLIC__/css/common.css" rel="stylesheet" />
+<link href="__PUBLIC__/css/index.css" rel="stylesheet" />
+<script type="text/javascript" src="__PUBLIC__/js/index.js"></script>
+</head>
+	<body>
+		<div id="header" class="wrap-wide">
+			<load file="__PUBLIC__/common/header.html"/>
+		</div>
+		<div id="main" class="wrap-wide">
+			<div class="w1000">
+			<div class='left'>
+				<ul class='userhome-nav'>
+
+
+					<li id="1">
+						<a href="{|U('Member/Index/index')}">我的订单</a>
+					</li>
+					<li class='active' id="2">
+						<a href="{|U('Member/Account/index')}">帐户余额</a>
+					</li>
+					<li id="3">
+						<a href="{|U('Member/Account/setting')}">账户设置</a>
+					</li>
+				</ul>
+				<div id="content">
+					<div class='balance'>
+						您当前的账户余额是：<strong>¥{$balance}</strong><a class='top-up' href="{|U('Member/Account/add')}">充值</a>
+					</div>
+				</div>
+			</div>
+			</div>
+		</div>
+		<div id="footer" class="wrap-wide">
+			<load file="__PUBLIC__/common/footer.html"/>
+		</div>
+	</body>
+</html>

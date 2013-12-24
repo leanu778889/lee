@@ -1,0 +1,59 @@
+<load file="__PUBLIC__/common/header.html">
+<body>
+<div id="window">
+	<div class='page_title'>
+		<strong>添加轮播图</strong>
+	</div>
+		<form action="{|U('Admin/Banner/add')}" method="post">
+			<table class="table table-bordered">
+				<tr>
+					<th width='20%'></th>
+					<th></th>
+				</tr>
+				<tr>
+					<td>轮播图标题</td>
+					<td>
+						<input type="text" name="title" />
+					</td>
+				</tr>
+				<tr>
+					<td>轮播图url</td>
+					<td>
+						<input type="text" name="url" />
+					</td>
+				</tr>
+				<tr>
+					<td>缩略图</td>
+					<td>
+						<upload name="file" />
+						<input type="hidden" name="image" value="''">
+					</td>
+				</tr>
+				<tr>
+					<td>排序</td>
+					<td>
+						<input type="text" name="sort" />
+					</td>
+				</tr>
+				<tr>
+					<td>是否展示</td>
+					<td>
+						<label>
+						是
+						<input type="radio" checked="true" name="isshow" value="1"/>
+						</label>
+						<label>
+						否
+						<input type="radio" name="isshow" value="0"/>
+						</label>
+					</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td><input type="submit" class="btn" value="提交"></td>
+				</tr>
+			</table>
+		</form>
+</div>
+</body>
+</html>

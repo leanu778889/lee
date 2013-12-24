@@ -1,0 +1,38 @@
+$(function(){
+	$('#listMy').hover(
+		function(){
+			$(this).find('.listShow').css('opacity',0.85);
+			$(this).find('.listCon').css('display','block');
+		},
+		function(){
+			$(this).find('.listShow').css('opacity',1);
+			$(this).find('.listCon').css('display','none');
+		}
+	);
+	$('#nav-list li').each(function(i){
+		if(i<4){
+			$(this).hover(
+				function(){
+					$(this).css('background-color','#333');
+					$(this).find('.nav-hover-list').css('display','block');
+				},
+				function(){
+					$(this).css('background-color','#7C7C7C');
+					$(this).find('.nav-hover-list').css('display','none');
+				}
+			);
+		}else{
+			$(this).hover(
+				function(){
+					$(this).css('background-color','#333');
+					$(this).find('.nav-hover-list').css('display','block');
+					$(this).find('.nav-hover-list').css('left','-390px');
+				},
+				function(){
+					$(this).css('background-color','#7C7C7C');
+					$(this).find('.nav-hover-list').css('display','none');
+				}
+			);
+		}
+	})
+})

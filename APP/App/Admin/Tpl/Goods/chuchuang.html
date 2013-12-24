@@ -1,0 +1,35 @@
+<load file="__PUBLIC__/common/header.html">
+<body>
+<div id="window">
+	<div class='page_title'>
+		<strong>修改橱窗商品</strong>
+	</div>
+		<form action="{|U('Admin/Goods/editShow')}/id/{$data.id}" method="post">
+			<table class="table table-bordered">
+				<tr>
+					<th width='20%'></th>
+					<th></th>
+				</tr>
+				<tr>
+					<td>缩略图</td>
+					<td>
+						<upload name="file" />
+						<input type="hidden" name="image" value="{$data.img}">
+						<img src="__ROOT__/{$data.img}"/>
+					</td>
+				</tr>
+				<tr>
+					<td>排序</td>
+					<td>
+						<input type="text" name="sort" value="{$data.sort}"/>
+					</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td><input type="submit" class="btn" value="提交"></td>
+				</tr>
+			</table>
+		</form>
+</div>
+</body>
+</html>

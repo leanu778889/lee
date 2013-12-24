@@ -1,0 +1,21 @@
+<load file="__PUBLIC__/common/header.html">
+<body>
+<div id="window">
+	<div class='page_title'>
+		<strong>添加属性值</strong>
+	</div>
+		<form id="addForm" action="{|U('Admin/Type/editTag')}/tid/{$data['tid']}" method="post">
+			<table class="table table-bordered" style="width:400px;">
+				<tr>
+					<td>属性值</td>
+					<td><input id="tname" type="text" name='tname' value="{$data['tname']}"></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td><input type="submit" class="btn" value="提交"></td>
+				</tr>
+			</table>
+		</form>
+</div>
+</body>
+</html>

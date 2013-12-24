@@ -1,0 +1,111 @@
+@charset "utf-8";
+/* Basic Settings */
+#header{
+	height:180px;
+}
+#header a{
+	color: #FFFFFF;
+}
+#footer{
+	height: 300px;
+}
+#main{
+	overflow: hidden;
+	height: auto;
+	background: url(../images/conbg925.jpg) repeat-x center 144px;
+}
+#reg{
+	margin-top: 40px;
+	height: 512px;
+	_height: 532px;
+	overflow: hidden;
+	background: #fff;
+}
+#tab{
+	height: 57px;
+	overflow: hidden;
+}
+#tab .reg-email{
+	height: 57px;
+	font-size: 16px;
+	float: left;
+	line-height: 57px;
+	cursor: pointer;
+	background: url(../images/email-c.jpg);
+	width: 240px;
+}
+#tab .reg-login{
+	line-height: 57px;
+	color: #BF3019;
+	_height: 57px;
+	margin: 0 10px;
+}
+#tab .reg-login p{
+	height: 57px;
+	margin:0 10px;
+}
+#tab .reg-login a{
+	width: 80px;
+	margin-top: 15px;
+	_margin-top: 15px;
+	height: 26px;
+	color: #FFF !important;
+	cursor: pointer;
+	background: #BF3019;
+	text-align: center;
+	border: 1px solid #BF3019 !important;
+	display: inline-block;
+	line-height: 26px;
+	line-height: 25px !important;
+}
+#reg-form{
+	padding: 60px 50px;
+}
+#reg-form .form-list li{
+	line-height: 35px;
+	font-size: 12px;
+	font-family: "宋体";
+	margin-bottom: 20px;
+	overflow: hidden;
+	display: inline-block;
+	width: 100%;
+}
+#reg-form .form-list li label{
+	width: 90px;
+	float: left;
+	text-align: right;
+	display: block;
+}
+#reg-form .form-list li label i{
+	color: #BF3019;
+	margin-right: 5px;
+	font-style: normal;
+}
+#reg-form .form-list li input{
+	color: #000;
+	width: 300px;
+	border: 1px #c8c8c8 solid;
+	height: 26px;
+	line-height: 26px;
+	margin: 0 10px;
+	float: left;
+	padding: 3px;
+}
+#reg-form .form-list li input.button{
+	height: 26px;
+	color: #FFF !important;
+	cursor: pointer;
+	background: #BF3019;
+	text-align: center;
+	border: 1px solid #BF3019 !important;
+	display: inline-block;
+	line-height: 26px;
+	height: 40px !important;
+	width: 110px !important;
+}
+#reg-form .form-list li input.check{
+	width: 15px;
+	height: 15px;
+	margin-top: 4px;
+	border: none;
+}
