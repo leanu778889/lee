@@ -30,7 +30,7 @@
                 <p><?php echo $msg;?>&nbsp&nbsp&nbsp&nbsp</p>
                 <span><span id="time"><?php echo $time;?></span><?php echo L("error_html_span1");?>
                     <a href="javascript:<?php echo $url;?>"><?php echo L("error_html_span2");?></a>
-                    <?php echo L("error_html_span3");?><a href="http://localhost/Lee"><?php echo L("error_html_span4");?></a></span>
+                    <?php echo L("error_html_span3");?><a href="http://localhost/lee"><?php echo L("error_html_span4");?></a></span>
             </div>
         </div>
         <script type="text/javascript">

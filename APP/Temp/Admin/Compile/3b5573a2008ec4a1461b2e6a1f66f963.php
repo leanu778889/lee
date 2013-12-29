@@ -3,13 +3,13 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>后盾网cms后台管理中心</title>
-<script type='text/javascript' src='http://localhost/Lee/hdphp/Extend/Org/Jquery/jquery-1.8.2.min.js'></script>
-<link href="http://localhost/Lee/hdphp/Extend/Org/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen"><script src="http://localhost/Lee/hdphp/Extend/Org/bootstrap/js/bootstrap.min.js"></script>
+<script type='text/javascript' src='http://localhost/lee/hdphp/Extend/Org/Jquery/jquery-1.8.2.min.js'></script>
+<link href="http://localhost/lee/hdphp/Extend/Org/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen"><script src="http://localhost/lee/hdphp/Extend/Org/bootstrap/js/bootstrap.min.js"></script>
   <!--[if lte IE 6]>
-  <link rel="stylesheet" type="text/css" href="http://localhost/Lee/hdphp/Extend/Org/bootstrap/ie6/css/bootstrap-ie6.css">
+  <link rel="stylesheet" type="text/css" href="http://localhost/lee/hdphp/Extend/Org/bootstrap/ie6/css/bootstrap-ie6.css">
   <![endif]-->
   <!--[if lte IE 7]>
-  <link rel="stylesheet" type="text/css" href="http://localhost/Lee/hdphp/Extend/Org/bootstrap/ie6/css/ie.css">
+  <link rel="stylesheet" type="text/css" href="http://localhost/lee/hdphp/Extend/Org/bootstrap/ie6/css/ie.css">
   <![endif]-->
 <style>
 body{background:#e3e4e5;}
@@ -43,7 +43,7 @@ body{background:#e3e4e5;}
 <body>
 <div id="loginBox">
 	<h1>后盾网cms后台管理中心</h1>
-	<form class="form-horizontal" id="loginForm" action="<?php echo U('http://localhost/Lee/index.php/Admin/Login/login');?>" method="post">
+	<form class="form-horizontal" id="loginForm" action="<?php echo U('http://localhost/lee/index.php/Admin/Login/login');?>" method="post">
     	<div class="control-group">
     		<label class="control-label" for="inputEmail">用户名</label>
     		<div class="controls">
@@ -59,8 +59,8 @@ body{background:#e3e4e5;}
 		<div class="control-group">
     		<label class="control-label" for="inputCode">验证码</label>
     		<div class="controls">
-    			<input type="text" style="width:120px;" url="<?php echo U('http://localhost/Lee/index.php/Admin/Login/checkCode');?>" id="inputCode" placeholder="请输入验证码..">
-    			<img  id="codeImg" width="80" height="30"  onclick="change.call(this);" src="<?php echo U('http://localhost/Lee/index.php/Admin/Login/showCode');?>"/>
+    			<input type="text" style="width:120px;" url="<?php echo U('http://localhost/lee/index.php/Admin/Login/checkCode');?>" id="inputCode" placeholder="请输入验证码..">
+    			<img  id="codeImg" width="80" height="30"  onclick="change.call(this);" src="<?php echo U('http://localhost/lee/index.php/Admin/Login/showCode');?>"/>
 			</div>
    		</div>
     	<div class="control-group" style="background:#f0f0f0;padding-bottom:20px;">

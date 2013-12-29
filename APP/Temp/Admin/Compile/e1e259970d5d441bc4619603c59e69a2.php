@@ -3,18 +3,18 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>后盾网cms后台管理中心</title>
-<script type='text/javascript' src='http://localhost/Lee/hdphp/Extend/Org/Jquery/jquery-1.8.2.min.js'></script>
-<link href="http://localhost/Lee/hdphp/Extend/Org/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen"><script src="http://localhost/Lee/hdphp/Extend/Org/bootstrap/js/bootstrap.min.js"></script>
+<script type='text/javascript' src='http://localhost/lee/hdphp/Extend/Org/Jquery/jquery-1.8.2.min.js'></script>
+<link href="http://localhost/lee/hdphp/Extend/Org/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen"><script src="http://localhost/lee/hdphp/Extend/Org/bootstrap/js/bootstrap.min.js"></script>
   <!--[if lte IE 6]>
-  <link rel="stylesheet" type="text/css" href="http://localhost/Lee/hdphp/Extend/Org/bootstrap/ie6/css/bootstrap-ie6.css">
+  <link rel="stylesheet" type="text/css" href="http://localhost/lee/hdphp/Extend/Org/bootstrap/ie6/css/bootstrap-ie6.css">
   <![endif]-->
   <!--[if lte IE 7]>
-  <link rel="stylesheet" type="text/css" href="http://localhost/Lee/hdphp/Extend/Org/bootstrap/ie6/css/ie.css">
+  <link rel="stylesheet" type="text/css" href="http://localhost/lee/hdphp/Extend/Org/bootstrap/ie6/css/ie.css">
   <![endif]-->
-<script type="text/javascript" src="http://localhost/Lee/APP/App/Admin/Tpl/Public/js/base.js"></script>
-<script type="text/javascript" src="http://localhost/Lee/APP/App/Admin/Tpl/Public/js/index.js"></script>
-<link rel="stylesheet" href="http://localhost/Lee/APP/App/Admin/Tpl/Public/css/base.css" />
-<link rel="stylesheet" href="http://localhost/Lee/APP/App/Admin/Tpl/Public/css/index.css" />
+<script type="text/javascript" src="http://localhost/lee/APP/App/Admin/Tpl/Public/js/base.js"></script>
+<script type="text/javascript" src="http://localhost/lee/APP/App/Admin/Tpl/Public/js/index.js"></script>
+<link rel="stylesheet" href="http://localhost/lee/APP/App/Admin/Tpl/Public/css/base.css" />
+<link rel="stylesheet" href="http://localhost/lee/APP/App/Admin/Tpl/Public/css/index.css" />
 <base target="content" />
 </head>
 <body>

@@ -1,4 +1,4 @@
-<?php if(!defined("HDPHP_PATH"))exit;C("SHOW_WARNING",false);?><link href="http://localhost/lee.bak/APP/App/Index/Tpl/Public/css/footer.css" rel="stylesheet" />
+<?php if(!defined("HDPHP_PATH"))exit;C("SHOW_WARNING",false);?><link href="http://localhost/lee/APP/App/Index/Tpl/Public/css/footer.css" rel="stylesheet" />
 <div id="footEnsure" class="wrap-wide " >
 	<div class="w1000 posr">
 		<div class="ensure w1000 posa">

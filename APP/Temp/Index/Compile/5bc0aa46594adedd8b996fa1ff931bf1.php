@@ -3,21 +3,21 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title><?php echo $header['webname'];?></title>
-<link href="http://localhost/Lee/APP/App/Index/Tpl/Public/css/detail.css" rel="stylesheet" />
-<link href="http://localhost/Lee/APP/App/Index/Tpl/Public/css/common.css" rel="stylesheet" />
-<script type='text/javascript' src='http://localhost/Lee/hdphp/Extend/Org/Jquery/jquery-1.8.2.min.js'></script>
-<script type="text/javascript" src="http://localhost/Lee/APP/App/Index/Tpl/Public/js/detail.js"></script>
+<link href="http://localhost/lee/APP/App/Index/Tpl/Public/css/detail.css" rel="stylesheet" />
+<link href="http://localhost/lee/APP/App/Index/Tpl/Public/css/common.css" rel="stylesheet" />
+<script type='text/javascript' src='http://localhost/lee/hdphp/Extend/Org/Jquery/jquery-1.8.2.min.js'></script>
+<script type="text/javascript" src="http://localhost/lee/APP/App/Index/Tpl/Public/js/detail.js"></script>
 </head>
 	<body>
 		<div id="header" class="wrap-wide">
-			<?php if(!defined("HDPHP_PATH"))exit;C("SHOW_WARNING",false);?><link href="http://localhost/Lee/APP/App/Index/Tpl/Public/css/header.css" rel="stylesheet" />
+			<?php if(!defined("HDPHP_PATH"))exit;C("SHOW_WARNING",false);?><link href="http://localhost/lee/APP/App/Index/Tpl/Public/css/header.css" rel="stylesheet" />
 <!--[if IE 6]>
-<script type="text/javascript" src="http://localhost/Lee/APP/App/Index/Tpl/Public/js/DD_belatedPNG_0.0.8a-min.js"></script>
+<script type="text/javascript" src="http://localhost/lee/APP/App/Index/Tpl/Public/js/DD_belatedPNG_0.0.8a-min.js"></script>
 <script>
 DD_belatedPNG.fix(".buy,.clear-btn-icon,.icon6_4,.cart-icon,.icon6_1,.icon6_cart,.icon6_eye,.icon6_hot,.icon6_install,.icon6_5,.icon6_land,.icon6_7,.icon6_3,.icon6_next,.icon6_next-1,.icon6_phone,.icon6_prev-1,.icon6_prev,.icon6_search,.icon6_shoes,.icon6_slide-in,.icon6_6,.icon6_tips-1,.icon6_tips-2,.icon6_tips-3,.icon6_user,.icon6_2,.icon6_wz-next-s,.icon6_wz-next,.icon6_wz-prev-s,.icon6_wz-prev,.icon6_wzo-cart-ico, background");
 </script>
 <![endif]-->
-<script type="text/javascript" src="http://localhost/Lee/APP/App/Index/Tpl/Public/js/header.js"></script>
+<script type="text/javascript" src="http://localhost/lee/APP/App/Index/Tpl/Public/js/header.js"></script>
 <div id="headTop" >
 	<div class="w1000 clearfix">
 		<div class="fl">
@@ -65,7 +65,7 @@ DD_belatedPNG.fix(".buy,.clear-btn-icon,.icon6_4,.cart-icon,.icon6_1,.icon6_cart
 <div id="headMain" class="w1000 clearfix">
 	<div id="headLogo" class="fl">
 		<h1 class="fs30 mg-l15 mg-t14">我的毕业作品</h1>
-		<!-- <img height="71" src="http://localhost/Lee/APP/App/Index/Tpl/Public/images/logo.png"/> -->
+		<!-- <img height="71" src="http://localhost/lee/APP/App/Index/Tpl/Public/images/logo.png"/> -->
 	</div>
 	<div id="headSearch" class="fl posr">
 		<form>
@@ -144,7 +144,7 @@ DD_belatedPNG.fix(".buy,.clear-btn-icon,.icon6_4,.cart-icon,.icon6_1,.icon6_cart
 						 </div>
 						 <div class="small">
 						 	<?php if(is_array($data['images'])):?><?php  foreach($data['images'] as $v){ ?>
-						 		<img src="http://localhost/Lee<?php echo $v['s_img'];?>"/>
+						 		<img src="http://localhost/lee<?php echo $v['s_img'];?>"/>
 						 	<?php }?><?php endif;?>
 						 	<div id='selected'> </div>
 						 </div>
@@ -195,7 +195,7 @@ DD_belatedPNG.fix(".buy,.clear-btn-icon,.icon6_4,.cart-icon,.icon6_1,.icon6_cart
 					</h3>
 					<div class="hot-list">
 							<dl class="goods-list">
-								<dt><a href="#"><img width=180 height=180 src="http://localhost/Lee/APP/App/Index/Tpl/Public/images/30012716002_01_mt_220x220.jpg"></a></dt>
+								<dt><a href="#"><img width=180 height=180 src="http://localhost/lee/APP/App/Index/Tpl/Public/images/30012716002_01_mt_220x220.jpg"></a></dt>
 								<dd class="mg-t13">
 									<span class="red fw f-price">￥ 1,169</span>
 									<del class="mg-l8">￥ 1,299</del>
@@ -203,7 +203,7 @@ DD_belatedPNG.fix(".buy,.clear-btn-icon,.icon6_4,.cart-icon,.icon6_1,.icon6_cart
 								<dd><a href="">ELLE 文胸 肤色 70C</a></dd>
 							</dl>
 							<dl class="goods-list">
-								<dt><a href="#"><img width=180 height=180 src="http://localhost/Lee/APP/App/Index/Tpl/Public/images/30012716002_01_mt_220x220.jpg"></a></dt>
+								<dt><a href="#"><img width=180 height=180 src="http://localhost/lee/APP/App/Index/Tpl/Public/images/30012716002_01_mt_220x220.jpg"></a></dt>
 								<dd class="mg-t13">
 									<span class="red fw f-price">￥ 1,169</span>
 									<del class="mg-l8">￥ 1,299</del>
@@ -211,7 +211,7 @@ DD_belatedPNG.fix(".buy,.clear-btn-icon,.icon6_4,.cart-icon,.icon6_1,.icon6_cart
 								<dd><a href="">ELLE 文胸 肤色 70C</a></dd>
 							</dl>
 							<dl class="goods-list">
-								<dt><a href="#"><img width=180 height=180 src="http://localhost/Lee/APP/App/Index/Tpl/Public/images/30012716002_01_mt_220x220.jpg"></a></dt>
+								<dt><a href="#"><img width=180 height=180 src="http://localhost/lee/APP/App/Index/Tpl/Public/images/30012716002_01_mt_220x220.jpg"></a></dt>
 								<dd class="mg-t13">
 									<span class="red fw f-price">￥ 1,169</span>
 									<del class="mg-l8">￥ 1,299</del>
@@ -219,7 +219,7 @@ DD_belatedPNG.fix(".buy,.clear-btn-icon,.icon6_4,.cart-icon,.icon6_1,.icon6_cart
 								<dd><a href="">ELLE 文胸 肤色 70C</a></dd>
 							</dl>
 							<dl class="goods-list">
-								<dt><a href="#"><img width=180 height=180 src="http://localhost/Lee/APP/App/Index/Tpl/Public/images/30012716002_01_mt_220x220.jpg"></a></dt>
+								<dt><a href="#"><img width=180 height=180 src="http://localhost/lee/APP/App/Index/Tpl/Public/images/30012716002_01_mt_220x220.jpg"></a></dt>
 								<dd class="mg-t13">
 									<span class="red fw f-price">￥ 1,169</span>
 									<del class="mg-l8">￥ 1,299</del>
@@ -227,7 +227,7 @@ DD_belatedPNG.fix(".buy,.clear-btn-icon,.icon6_4,.cart-icon,.icon6_1,.icon6_cart
 								<dd><a href="">ELLE 文胸 肤色 70C</a></dd>
 							</dl>
 							<dl class="goods-list">
-								<dt><a href="#"><img width=180 height=180 src="http://localhost/Lee/APP/App/Index/Tpl/Public/images/30012716002_01_mt_220x220.jpg"></a></dt>
+								<dt><a href="#"><img width=180 height=180 src="http://localhost/lee/APP/App/Index/Tpl/Public/images/30012716002_01_mt_220x220.jpg"></a></dt>
 								<dd class="mg-t13">
 									<span class="red fw f-price">￥ 1,169</span>
 									<del class="mg-l8">￥ 1,299</del>
@@ -241,7 +241,7 @@ DD_belatedPNG.fix(".buy,.clear-btn-icon,.icon6_4,.cart-icon,.icon6_1,.icon6_cart
 					</h3>
 					<div class="hot-list">
 							<dl class="goods-list">
-								<dt><a href="#"><img width=180 height=180 src="http://localhost/Lee/APP/App/Index/Tpl/Public/images/30012716002_01_mt_220x220.jpg"></a></dt>
+								<dt><a href="#"><img width=180 height=180 src="http://localhost/lee/APP/App/Index/Tpl/Public/images/30012716002_01_mt_220x220.jpg"></a></dt>
 								<dd class="mg-t13">
 									<span class="red fw f-price">￥ 1,169</span>
 									<del class="mg-l8">￥ 1,299</del>
@@ -249,7 +249,7 @@ DD_belatedPNG.fix(".buy,.clear-btn-icon,.icon6_4,.cart-icon,.icon6_1,.icon6_cart
 								<dd><a href="">ELLE 文胸 肤色 70C</a></dd>
 							</dl>
 							<dl class="goods-list">
-								<dt><a href="#"><img width=180 height=180 src="http://localhost/Lee/APP/App/Index/Tpl/Public/images/30012716002_01_mt_220x220.jpg"></a></dt>
+								<dt><a href="#"><img width=180 height=180 src="http://localhost/lee/APP/App/Index/Tpl/Public/images/30012716002_01_mt_220x220.jpg"></a></dt>
 								<dd class="mg-t13">
 									<span class="red fw f-price">￥ 1,169</span>
 									<del class="mg-l8">￥ 1,299</del>
@@ -257,7 +257,7 @@ DD_belatedPNG.fix(".buy,.clear-btn-icon,.icon6_4,.cart-icon,.icon6_1,.icon6_cart
 								<dd><a href="">ELLE 文胸 肤色 70C</a></dd>
 							</dl>
 							<dl class="goods-list">
-								<dt><a href="#"><img width=180 height=180 src="http://localhost/Lee/APP/App/Index/Tpl/Public/images/30012716002_01_mt_220x220.jpg"></a></dt>
+								<dt><a href="#"><img width=180 height=180 src="http://localhost/lee/APP/App/Index/Tpl/Public/images/30012716002_01_mt_220x220.jpg"></a></dt>
 								<dd class="mg-t13">
 									<span class="red fw f-price">￥ 1,169</span>
 									<del class="mg-l8">￥ 1,299</del>
@@ -265,7 +265,7 @@ DD_belatedPNG.fix(".buy,.clear-btn-icon,.icon6_4,.cart-icon,.icon6_1,.icon6_cart
 								<dd><a href="">ELLE 文胸 肤色 70C</a></dd>
 							</dl>
 							<dl class="goods-list">
-								<dt><a href="#"><img width=180 height=180 src="http://localhost/Lee/APP/App/Index/Tpl/Public/images/30012716002_01_mt_220x220.jpg"></a></dt>
+								<dt><a href="#"><img width=180 height=180 src="http://localhost/lee/APP/App/Index/Tpl/Public/images/30012716002_01_mt_220x220.jpg"></a></dt>
 								<dd class="mg-t13">
 									<span class="red fw f-price">￥ 1,169</span>
 									<del class="mg-l8">￥ 1,299</del>
@@ -273,7 +273,7 @@ DD_belatedPNG.fix(".buy,.clear-btn-icon,.icon6_4,.cart-icon,.icon6_1,.icon6_cart
 								<dd><a href="">ELLE 文胸 肤色 70C</a></dd>
 							</dl>
 							<dl class="goods-list">
-								<dt><a href="#"><img width=180 height=180 src="http://localhost/Lee/APP/App/Index/Tpl/Public/images/30012716002_01_mt_220x220.jpg"></a></dt>
+								<dt><a href="#"><img width=180 height=180 src="http://localhost/lee/APP/App/Index/Tpl/Public/images/30012716002_01_mt_220x220.jpg"></a></dt>
 								<dd class="mg-t13">
 									<span class="red fw f-price">￥ 1,169</span>
 									<del class="mg-l8">￥ 1,299</del>
@@ -292,7 +292,7 @@ DD_belatedPNG.fix(".buy,.clear-btn-icon,.icon6_4,.cart-icon,.icon6_1,.icon6_cart
 
 		</div>
 		<div id="footer" class="wrap-wide">
-			<?php if(!defined("HDPHP_PATH"))exit;C("SHOW_WARNING",false);?><link href="http://localhost/Lee/APP/App/Index/Tpl/Public/css/footer.css" rel="stylesheet" />
+			<?php if(!defined("HDPHP_PATH"))exit;C("SHOW_WARNING",false);?><link href="http://localhost/lee/APP/App/Index/Tpl/Public/css/footer.css" rel="stylesheet" />
 <div id="footEnsure" class="wrap-wide " >
 	<div class="w1000 posr">
 		<div class="ensure w1000 posa">
