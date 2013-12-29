@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>后盾网cms后台管理中心</title>
+<title>我的商城后台管理中心</title>
 <script type='text/javascript' src='http://localhost/lee/hdphp/Extend/Org/Jquery/jquery-1.8.2.min.js'></script>
 <link href="http://localhost/lee/hdphp/Extend/Org/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen"><script src="http://localhost/lee/hdphp/Extend/Org/bootstrap/js/bootstrap.min.js"></script>
   <!--[if lte IE 6]>
@@ -42,7 +42,7 @@ body{background:#e3e4e5;}
 </head>
 <body>
 <div id="loginBox">
-	<h1>后盾网cms后台管理中心</h1>
+	<h1>我的商城后台管理中心</h1>
 	<form class="form-horizontal" id="loginForm" action="<?php echo U('http://localhost/lee/index.php/Admin/Login/login');?>" method="post">
     	<div class="control-group">
     		<label class="control-label" for="inputEmail">用户名</label>

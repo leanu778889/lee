@@ -36,7 +36,7 @@ CREATE TABLE `lee_admin` (
 
 LOCK TABLES `lee_admin` WRITE;
 /*!40000 ALTER TABLE `lee_admin` DISABLE KEYS */;
-INSERT INTO `lee_admin` VALUES (1,'admin','202cb962ac59075b964b07152d234b70');
+INSERT INTO `lee_admin` VALUES (1,'admin888','202cb962ac59075b964b07152d234b70');
 /*!40000 ALTER TABLE `lee_admin` ENABLE KEYS */;
 UNLOCK TABLES;
 
